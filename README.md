@@ -2,6 +2,11 @@
 
 Subtitles for Kernel Panic podcast. 播客《内核恐慌》的字幕。
 
+## Purpose 初衷
+
+- 主要目的，是为了能够搜索往期播客内容，比如想找某一期提到的某个话题。
+- 其次，当作字幕使用。
+
 ## Whisper models used for transcription
 
 - Tiny
