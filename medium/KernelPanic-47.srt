@@ -1,0 +1,10780 @@
+1
+00:00:00,000 --> 00:00:03,000
+That's weird, Colonel panic, the whole system just crashed
+
+2
+00:00:15,000 --> 00:00:18,000
+That's weird, Colonel panic, the whole system just crashed
+
+3
+00:00:18,000 --> 00:00:31,000
+You are listening to IPN Polycast's IT-based entertainment program, Inner Cradle
+
+4
+00:00:31,000 --> 00:00:35,000
+I'm afraid I'm called hardcore, but I'm not involved. If you want to listen to it, don't listen to it.
+
+5
+00:00:35,000 --> 00:00:38,000
+The website of this program is Colonelpanic.fm
+
+6
+00:00:38,000 --> 00:00:41,000
+We recommend that you use the Polycast client's subscription program
+
+7
+00:00:41,000 --> 00:00:45,000
+For more details, please visit ipn.fi.facu
+
+8
+00:00:45,000 --> 00:00:47,000
+Welcome to donate for this program
+
+9
+00:00:47,000 --> 00:00:50,000
+The donation address is colonpanic.fm. Donate
+
+10
+00:00:50,000 --> 00:00:53,000
+Donate by the way, as long as it is the number of 8 witnesses
+
+11
+00:00:53,000 --> 00:00:57,000
+Donate will not bring you anything, don't donate will not let you lose anything
+
+12
+00:00:57,000 --> 00:01:00,000
+Our slogan is Do you wanna cry
+
+13
+00:01:01,000 --> 00:01:03,000
+Hello, everyone
+
+14
+00:01:03,000 --> 00:01:06,000
+Hi, it's been a long time since we last played
+
+15
+00:01:06,000 --> 00:01:08,000
+Did we lose last time?
+
+16
+00:01:08,000 --> 00:01:12,000
+If it's not self-talking, we should have
+
+17
+00:01:12,000 --> 00:01:16,000
+Yes, the last episode of non-self-talking was the episode of Shenzhen IOU
+
+18
+00:01:16,000 --> 00:01:17,000
+Wow, it's been half a year
+
+19
+00:01:19,000 --> 00:01:22,000
+November 2016
+
+20
+00:01:24,000 --> 00:01:26,000
+Happy New Year
+
+21
+00:01:28,000 --> 00:01:31,000
+A lot has happened in the past half a year
+
+22
+00:01:32,000 --> 00:01:36,000
+Yes, some news at that time also wanted to say, do you want to do a program?
+
+23
+00:01:36,000 --> 00:01:40,000
+But I'm very busy with the real, all the blame is on the real
+
+24
+00:01:40,000 --> 00:01:42,000
+Isn't it because you are often out of town?
+
+25
+00:01:42,000 --> 00:01:45,000
+Out of town is just a part of it
+
+26
+00:01:45,000 --> 00:01:47,000
+But I did go skiing many times
+
+27
+00:01:47,000 --> 00:01:50,000
+Actually, the thing is basically like this
+
+28
+00:01:50,000 --> 00:01:53,000
+Every time Wu Tao is free, I'm on a business trip
+
+29
+00:01:53,000 --> 00:01:55,000
+When I'm free, he's skiing
+
+30
+00:01:55,000 --> 00:01:57,000
+So this is
+
+31
+00:01:57,000 --> 00:02:00,000
+Sometimes it feels like there's no money when you have time
+
+32
+00:02:00,000 --> 00:02:02,000
+When you have no time to make money
+
+33
+00:02:02,000 --> 00:02:03,000
+What about when you have both?
+
+34
+00:02:03,000 --> 00:02:07,000
+When we have both, we record the self-talking self-talk
+
+35
+00:02:08,000 --> 00:02:12,000
+Well, it's our own show
+
+36
+00:02:12,000 --> 00:02:14,000
+Finally, there is a new episode
+
+37
+00:02:14,000 --> 00:02:16,000
+Do you miss us?
+
+38
+00:02:16,000 --> 00:02:18,000
+Audience friends miss you so much
+
+39
+00:02:19,000 --> 00:02:22,000
+No, audience friends miss you so much
+
+40
+00:02:23,000 --> 00:02:25,000
+Audience friends say who you are
+
+41
+00:02:25,000 --> 00:02:27,000
+I don't remember who you are
+
+42
+00:02:27,000 --> 00:02:29,000
+It's over, right?
+
+43
+00:02:30,000 --> 00:02:32,000
+Well, today is limited in time
+
+44
+00:02:32,000 --> 00:02:35,000
+Let's not interrupt the meeting
+
+45
+00:02:35,000 --> 00:02:37,000
+Then hurry up and get to the point
+
+46
+00:02:37,000 --> 00:02:41,000
+First, as usual, insert a few business news
+
+47
+00:02:41,000 --> 00:02:43,000
+That may be more recent
+
+48
+00:02:43,000 --> 00:02:46,000
+Or I'm the only one who's been paying attention to two things
+
+49
+00:02:46,000 --> 00:02:49,000
+Visual Studio 2017 has a Mac
+
+50
+00:02:49,000 --> 00:02:51,000
+Why are you paying attention to this?
+
+51
+00:02:51,000 --> 00:02:55,000
+Because I've always been a potential fan of Visual Studio
+
+52
+00:02:55,000 --> 00:02:58,000
+Please define the meaning of potential
+
+53
+00:02:59,000 --> 00:03:03,000
+Because I at least in the past
+
+54
+00:03:04,000 --> 00:03:05,000
+Ten years
+
+55
+00:03:05,000 --> 00:03:09,000
+I haven't used Visual Studio to write a 28-inch thing
+
+56
+00:03:09,000 --> 00:03:10,000
+But
+
+57
+00:03:12,000 --> 00:03:15,000
+Ten years ago, I still used a lot
+
+58
+00:03:15,000 --> 00:03:17,000
+When I was in college
+
+59
+00:03:17,000 --> 00:03:21,000
+I still developed some on Visual Studio
+
+60
+00:03:21,000 --> 00:03:25,000
+I think it's still a very impressive processor
+
+61
+00:03:25,000 --> 00:03:29,000
+Don't people often say that Visual Studio is the best in the universe?
+
+62
+00:03:30,000 --> 00:03:33,000
+You put Eclipse where?
+
+63
+00:03:34,000 --> 00:03:37,000
+Eclipse is the most fashionable IT
+
+64
+00:03:39,000 --> 00:03:40,000
+Really
+
+65
+00:03:40,000 --> 00:03:42,000
+All Eclipse users have no one who doesn't scold him
+
+66
+00:03:42,000 --> 00:03:44,000
+I think I'm the one who's been in touch
+
+67
+00:03:44,000 --> 00:03:46,000
+I feel like I have a sense of unity
+
+68
+00:03:47,000 --> 00:03:49,000
+Yes, he is after all
+
+69
+00:03:50,000 --> 00:03:54,000
+An opening, like a thing like a WC 2, right?
+
+70
+00:03:54,000 --> 00:03:56,000
+He lacks a unified design
+
+71
+00:03:56,000 --> 00:04:01,000
+Lack of a clear roadmap
+
+72
+00:04:01,000 --> 00:04:02,000
+But
+
+73
+00:04:03,000 --> 00:04:04,000
+Anyway
+
+74
+00:04:05,000 --> 00:04:09,000
+And my next job is actually based on Eclipse
+
+75
+00:04:10,000 --> 00:04:13,000
+So you're going to fight with the dead
+
+76
+00:04:13,000 --> 00:04:16,000
+Yes, it's a bit like a fresh market
+
+77
+00:04:16,000 --> 00:04:17,000
+Good luck
+
+78
+00:04:19,000 --> 00:04:20,000
+Thanks
+
+79
+00:04:20,000 --> 00:04:25,000
+So Visual Studio 2017 for Mac is a
+
+80
+00:04:25,000 --> 00:04:28,000
+What's the difference between it and Visual Studio for Windows?
+
+81
+00:04:28,000 --> 00:04:30,000
+First of all, it can't write
+
+82
+00:04:31,000 --> 00:04:34,000
+Or say it can do relatively limited things
+
+83
+00:04:34,000 --> 00:04:40,000
+It can use C-Sharp to write Xamarin and MacOS
+
+84
+00:04:40,000 --> 00:04:47,000
+Visual Studio 2017 can develop the original MacOS application
+
+85
+00:04:47,000 --> 00:04:50,000
+You don't need Xcode anymore, right?
+
+86
+00:04:50,000 --> 00:04:51,000
+Correct
+
+87
+00:04:52,000 --> 00:04:54,000
+This is a big revolution
+
+88
+00:04:54,000 --> 00:04:56,000
+Xcode seems to have been scolded to death recently
+
+89
+00:04:57,000 --> 00:05:00,000
+Yes, Xcode has always been carrying a very bad reputation
+
+90
+00:05:00,000 --> 00:05:02,000
+But
+
+91
+00:05:03,000 --> 00:05:08,000
+Yes, but there has been nothing too good to replace it
+
+92
+00:05:08,000 --> 00:05:10,000
+Including a company called
+
+93
+00:05:11,000 --> 00:05:13,000
+What's the name of the company?
+
+94
+00:05:14,000 --> 00:05:16,000
+I'm a little confused
+
+95
+00:05:16,000 --> 00:05:25,000
+It has a Xcode that can replace the MacOS and MacOS applications
+
+96
+00:05:25,000 --> 00:05:27,000
+And the taste is not bad
+
+97
+00:05:27,000 --> 00:05:29,000
+I don't know which one
+
+98
+00:05:30,000 --> 00:05:34,000
+The most famous editor of that company is
+
+99
+00:05:35,000 --> 00:05:36,000
+Ah, hi
+
+100
+00:05:38,000 --> 00:05:39,000
+Found it
+
+101
+00:05:39,000 --> 00:05:40,000
+My brain is showing
+
+102
+00:05:40,000 --> 00:05:41,000
+It's AppCode
+
+103
+00:05:41,000 --> 00:05:43,000
+It's the one that JetBrains released
+
+104
+00:05:46,000 --> 00:05:49,000
+JetBrains used to release a RubyMine
+
+105
+00:05:50,000 --> 00:05:52,000
+And then it came out as AppCode
+
+106
+00:05:52,000 --> 00:05:55,000
+Somehow it was thought of as another company
+
+107
+00:05:56,000 --> 00:06:00,000
+When my current company needs to develop Java
+
+108
+00:06:00,000 --> 00:06:01,000
+I usually use IntelliJ
+
+109
+00:06:02,000 --> 00:06:06,000
+Because Eclipse is so destructive
+
+110
+00:06:06,000 --> 00:06:09,000
+And then maybe it's similar
+
+111
+00:06:09,000 --> 00:06:13,000
+JetBrains saw a lot of people complaining about Xcode
+
+112
+00:06:13,000 --> 00:06:15,000
+So they released an AppCode
+
+113
+00:06:15,000 --> 00:06:16,000
+But
+
+114
+00:06:16,000 --> 00:06:18,000
+AppCode should not
+
+115
+00:06:18,000 --> 00:06:20,000
+It's like that
+
+116
+00:06:22,000 --> 00:06:25,000
+Ah, RubyMine is only for
+
+117
+00:06:25,000 --> 00:06:29,000
+You can only buy a professional version
+
+118
+00:06:29,000 --> 00:06:31,000
+Or you can only use a 30-day trial
+
+119
+00:06:31,000 --> 00:06:33,000
+So I haven't tried it
+
+120
+00:06:33,000 --> 00:06:38,000
+But it's basically a JetBrains style
+
+121
+00:06:38,000 --> 00:06:40,000
+IntelliJ style
+
+122
+00:06:40,000 --> 00:06:44,000
+It was an objective-C editor
+
+123
+00:06:44,000 --> 00:06:46,000
+Now of course it supports Swift
+
+124
+00:06:48,000 --> 00:06:53,000
+I see that there is also a thing called Xamarin LivePlayer on the build
+
+125
+00:06:53,000 --> 00:06:55,000
+And then it can
+
+126
+00:06:55,000 --> 00:06:58,000
+Just now it said that it used Visual Studio on Mac
+
+127
+00:06:58,000 --> 00:07:01,000
+To write the original Mac program
+
+128
+00:07:01,000 --> 00:07:04,000
+And then you can write the original Mac program on Windows
+
+129
+00:07:04,000 --> 00:07:06,000
+Or you can write the original Mac program on Xamarin
+
+130
+00:07:06,000 --> 00:07:11,000
+Ah, strictly speaking, it's a test of the original Mac program
+
+131
+00:07:11,000 --> 00:07:15,000
+Or because Xamarin itself is a platform across the platform
+
+132
+00:07:15,000 --> 00:07:19,000
+If you develop an App on Xamarin
+
+133
+00:07:19,000 --> 00:07:23,000
+It can use C-Sharp
+
+134
+00:07:23,000 --> 00:07:29,000
+It can write a cross-border iOS, Android and Windows Phone
+
+135
+00:07:29,000 --> 00:07:34,000
+And then this platform itself can run on a Windows computer
+
+136
+00:07:34,000 --> 00:07:42,000
+So you can use Xamarin LivePlayer to test a Xamarin App
+
+137
+00:07:42,000 --> 00:07:44,000
+And then no matter where it runs
+
+138
+00:07:44,000 --> 00:07:50,000
+So it's equivalent to you being able to set up an original iOS app on Windows
+
+139
+00:07:50,000 --> 00:07:56,000
+But other iOS apps can't run on Xamarin's Mac
+
+140
+00:07:56,000 --> 00:07:58,000
+I'm still curious, I said that's too much
+
+141
+00:07:58,000 --> 00:08:02,000
+The whole Xcode tool chain has been moved over
+
+142
+00:08:02,000 --> 00:08:06,000
+Yes, that's a bit disgusting
+
+143
+00:08:06,000 --> 00:08:08,000
+The CPU is going to be re-modified
+
+144
+00:08:08,000 --> 00:08:10,000
+I guess Apple won't do it
+
+145
+00:08:10,000 --> 00:08:13,000
+The agreement didn't authorize it to do this
+
+146
+00:08:13,000 --> 00:08:16,000
+Yes, of course
+
+147
+00:08:16,000 --> 00:08:19,000
+Visual Studio for Mac can't develop Swift
+
+148
+00:08:20,000 --> 00:08:27,000
+Even if you write a Mac app based on Coco
+
+149
+00:08:27,000 --> 00:08:29,000
+It's still written with C-Sharp
+
+150
+00:08:29,000 --> 00:08:33,000
+I haven't studied how it's done
+
+151
+00:08:33,000 --> 00:08:35,000
+But basically it's like this
+
+152
+00:08:35,000 --> 00:08:37,000
+It's not a Swift-CAP editor
+
+153
+00:08:41,000 --> 00:08:44,000
+And then there's another interesting thing
+
+154
+00:08:44,000 --> 00:08:48,000
+There's a bunch of things that will go to Microsoft's App Store
+
+155
+00:08:48,000 --> 00:08:52,000
+Yes, this is the first one
+
+156
+00:08:52,000 --> 00:08:54,000
+iTunes
+
+157
+00:08:54,000 --> 00:08:55,000
+Yes
+
+158
+00:08:55,000 --> 00:08:57,000
+Do you still use iTunes now?
+
+159
+00:08:57,000 --> 00:08:58,000
+Yes
+
+160
+00:08:58,000 --> 00:09:00,000
+I don't use it anymore
+
+161
+00:09:00,000 --> 00:09:01,000
+Why?
+
+162
+00:09:01,000 --> 00:09:04,000
+There's no more occasions
+
+163
+00:09:04,000 --> 00:09:09,000
+Anyway, the only occasion I use it is the editor's smart song list
+
+164
+00:09:09,000 --> 00:09:13,000
+You're still using the built-in music app, right?
+
+165
+00:09:13,000 --> 00:09:15,000
+You mean on the iPhone?
+
+166
+00:09:15,000 --> 00:09:16,000
+Yes
+
+167
+00:09:16,000 --> 00:09:19,000
+I'm already in the media
+
+168
+00:09:19,000 --> 00:09:21,000
+I'm too lazy to do the music library
+
+169
+00:09:23,000 --> 00:09:25,000
+I still have my own music library
+
+170
+00:09:25,000 --> 00:09:30,000
+And I will edit my own playlist with a heart
+
+171
+00:09:30,000 --> 00:09:33,000
+So you still have to operate on iTunes, right?
+
+172
+00:09:33,000 --> 00:09:41,000
+And iTunes itself will be used as an app for daily songs
+
+173
+00:09:41,000 --> 00:09:45,000
+So you still have your own music library?
+
+174
+00:09:45,000 --> 00:09:49,000
+Yes, I've been using Spotify for a while
+
+175
+00:09:49,000 --> 00:09:53,000
+But it's not very cool
+
+176
+00:09:53,000 --> 00:09:55,000
+Apple Music, I've been using it for a while too
+
+177
+00:09:55,000 --> 00:09:59,000
+It's not the time to sell the next mainstream media
+
+178
+00:09:59,000 --> 00:10:03,000
+Yes, it's still too conservative
+
+179
+00:10:03,000 --> 00:10:08,000
+Anyway, iTunes is a big star that is worth 800 pounds
+
+180
+00:10:08,000 --> 00:10:12,000
+Why do you have to go to the Windows store and kill people?
+
+181
+00:10:12,000 --> 00:10:14,000
+Wash the dishes
+
+182
+00:10:14,000 --> 00:10:16,000
+I'm not too good at it
+
+183
+00:10:16,000 --> 00:10:17,000
+Why?
+
+184
+00:10:17,000 --> 00:10:21,000
+Because iTunes is something you can install on Windows, right?
+
+185
+00:10:21,000 --> 00:10:23,000
+Why does it have to appear in the App Store?
+
+186
+00:10:23,000 --> 00:10:27,000
+Because this time, Windows 10 S was released
+
+187
+00:10:27,000 --> 00:10:29,000
+I don't know what S is
+
+188
+00:10:29,000 --> 00:10:31,000
+It's a product from the trading market
+
+189
+00:10:31,000 --> 00:10:33,000
+And that version is
+
+190
+00:10:33,000 --> 00:10:38,000
+The default Windows can only install the app store
+
+191
+00:10:38,000 --> 00:10:40,000
+It can't run other programs
+
+192
+00:10:40,000 --> 00:10:42,000
+Just like that
+
+193
+00:10:42,000 --> 00:10:44,000
+Like Gamekeeper, right?
+
+194
+00:10:44,000 --> 00:10:46,000
+Yes, I remember which version it is now
+
+195
+00:10:46,000 --> 00:10:50,000
+When the Gamekeeper was just released, the default value was also the system
+
+196
+00:10:50,000 --> 00:10:53,000
+The default value of the Mac system can only use
+
+197
+00:10:53,000 --> 00:10:56,000
+The default can only run the program in the App Store
+
+198
+00:10:56,000 --> 00:11:02,000
+You have to click on the option to run the App Store and other signed programs
+
+199
+00:11:02,000 --> 00:11:06,000
+Otherwise, you have to click on the right button to open
+
+200
+00:11:06,000 --> 00:11:08,000
+Yes, and then there was another option
+
+201
+00:11:08,000 --> 00:11:14,000
+You can choose to run the software that doesn't have a signature
+
+202
+00:11:14,000 --> 00:11:17,000
+There is also a option to run the software that is not signed
+
+203
+00:11:17,000 --> 00:11:20,000
+The last option is no restriction
+
+204
+00:11:20,000 --> 00:11:24,000
+Yes, I found that I didn't remember the previous versions
+
+205
+00:11:24,000 --> 00:11:26,000
+But that option is gone
+
+206
+00:11:26,000 --> 00:11:32,000
+In fact, in the system, you can only choose to run
+
+207
+00:11:32,000 --> 00:11:38,000
+In the system's security and privacy option
+
+208
+00:11:38,000 --> 00:11:42,000
+It says that the first option is App Store
+
+209
+00:11:42,000 --> 00:11:45,000
+And the second option is App Store and Identify Developer
+
+210
+00:11:45,000 --> 00:11:48,000
+The programs that are signed
+
+211
+00:11:48,000 --> 00:11:50,000
+There used to be three options here
+
+212
+00:11:50,000 --> 00:11:53,000
+Now there are only two, but it should be the default second
+
+213
+00:11:53,000 --> 00:12:00,000
+So Windows 10 basically learned this design
+
+214
+00:12:00,000 --> 00:12:02,000
+It is now on Windows 10 S
+
+215
+00:12:02,000 --> 00:12:06,000
+Only run the software in Microsoft's App Store
+
+216
+00:12:06,000 --> 00:12:10,000
+So iTunes or other people want to pass this
+
+217
+00:12:10,000 --> 00:12:12,000
+iTunes to the iPhone sync or something
+
+218
+00:12:12,000 --> 00:12:14,000
+You can only install it in that
+
+219
+00:12:14,000 --> 00:12:17,000
+Oh, OK
+
+220
+00:12:17,000 --> 00:12:21,000
+So in fact, it is not necessary to do so
+
+221
+00:12:21,000 --> 00:12:24,000
+Anyway, the default plan
+
+222
+00:12:24,000 --> 00:12:27,000
+And then there is another bunch of weird things
+
+223
+00:12:27,000 --> 00:12:29,000
+Go to the App Store
+
+224
+00:12:29,000 --> 00:12:33,000
+I heard it was all kinds of Linux distributions
+
+225
+00:12:33,000 --> 00:12:35,000
+I saw a list that day
+
+226
+00:12:35,000 --> 00:12:39,000
+So Ubuntu, Fedora and who
+
+227
+00:12:39,000 --> 00:12:41,000
+There are four versions, right?
+
+228
+00:12:41,000 --> 00:12:47,000
+Red Hat and OpenSUSE
+
+229
+00:12:47,000 --> 00:12:49,000
+How do you read this?
+
+230
+00:12:49,000 --> 00:12:51,000
+The German read OpenSUSE
+
+231
+00:12:51,000 --> 00:12:53,000
+Suse
+
+232
+00:12:53,000 --> 00:12:55,000
+This German translation is Suse
+
+233
+00:12:55,000 --> 00:12:57,000
+Sounds like loser
+
+234
+00:12:57,000 --> 00:13:00,000
+OpenSUSE
+
+235
+00:13:00,000 --> 00:13:02,000
+OpenSUSE is in New York
+
+236
+00:13:02,000 --> 00:13:06,000
+No, in the north of New York, the place called Erlangen
+
+237
+00:13:06,000 --> 00:13:08,000
+You are not far from there, right?
+
+238
+00:13:08,000 --> 00:13:11,000
+Yes, I seem to be
+
+239
+00:13:11,000 --> 00:13:15,000
+I was in the local Python User Group
+
+240
+00:13:15,000 --> 00:13:17,000
+I think I met their people
+
+241
+00:13:17,000 --> 00:13:23,000
+I don't understand why they have to enter the App Store
+
+242
+00:13:23,000 --> 00:13:30,000
+Because it seems that the Linux Substrate can be run directly
+
+243
+00:13:30,000 --> 00:13:33,000
+And I understand
+
+244
+00:13:33,000 --> 00:13:36,000
+The so-called Linux
+
+245
+00:13:36,000 --> 00:13:38,000
+A Linux disk is entered
+
+246
+00:13:38,000 --> 00:13:42,000
+What should the App Store be in the end?
+
+247
+00:13:42,000 --> 00:13:44,000
+It becomes a virtual machine
+
+248
+00:13:44,000 --> 00:13:47,000
+It's still on Windows
+
+249
+00:13:47,000 --> 00:13:49,000
+Maybe it's just an app
+
+250
+00:13:49,000 --> 00:13:51,000
+Just click and you can run a virtual machine
+
+251
+00:13:51,000 --> 00:13:57,000
+It's equivalent to a replaceable Linux system
+
+252
+00:13:57,000 --> 00:13:58,000
+Yes
+
+253
+00:13:58,000 --> 00:14:01,000
+It was originally a system that made such a support
+
+254
+00:14:01,000 --> 00:14:04,000
+Now just improve the application level
+
+255
+00:14:04,000 --> 00:14:07,000
+This is pretty cool
+
+256
+00:14:07,000 --> 00:14:11,000
+Many developers need to do the latter part
+
+257
+00:14:11,000 --> 00:14:14,000
+Basically, it's a Linux server
+
+258
+00:14:14,000 --> 00:14:17,000
+You can use Windows at the front
+
+259
+00:14:17,000 --> 00:14:19,000
+And then use this at the back
+
+260
+00:14:19,000 --> 00:14:23,000
+You can directly adjust it through the Linux system in this machine
+
+261
+00:14:23,000 --> 00:14:24,000
+We talked about this before
+
+262
+00:14:24,000 --> 00:14:28,000
+This may make the process smoother
+
+263
+00:14:28,000 --> 00:14:32,000
+And I think it's pretty ironic
+
+264
+00:14:32,000 --> 00:14:37,000
+In the Obama era, didn't you say that Linux was a cancer?
+
+265
+00:14:37,000 --> 00:14:40,000
+You are now officially a cancer
+
+266
+00:14:40,000 --> 00:14:43,000
+You have been admitted, right?
+
+267
+00:14:43,000 --> 00:14:47,000
+Yes, and it is not in vain to promote it
+
+268
+00:14:47,000 --> 00:14:50,000
+But I think recently I am thinking
+
+269
+00:14:50,000 --> 00:14:52,000
+You see, Mac is not so good now
+
+270
+00:14:52,000 --> 00:14:55,000
+Should I buy a Surface computer to play?
+
+271
+00:14:55,000 --> 00:14:56,000
+Try
+
+272
+00:14:56,000 --> 00:15:01,000
+Ok, you eat the crab first
+
+273
+00:15:01,000 --> 00:15:04,000
+Then I listen to your opinion
+
+274
+00:15:04,000 --> 00:15:06,000
+I don't do development now
+
+275
+00:15:06,000 --> 00:15:08,000
+Oh, you have to say
+
+276
+00:15:08,000 --> 00:15:11,000
+There is another news
+
+277
+00:15:11,000 --> 00:15:12,000
+It's an old one
+
+278
+00:15:12,000 --> 00:15:16,000
+But I think it's still a late thing
+
+279
+00:15:16,000 --> 00:15:21,000
+Ubuntu mobile phone and Unity are officially over
+
+280
+00:15:21,000 --> 00:15:23,000
+What is Ubuntu Unity?
+
+281
+00:15:23,000 --> 00:15:28,000
+Unity is a new, deliberate system that Ubuntu was doing at the time
+
+282
+00:15:28,000 --> 00:15:29,000
+Ok, I understand
+
+283
+00:15:29,000 --> 00:15:33,000
+Unity is something that no one wants to use
+
+284
+00:15:33,000 --> 00:15:34,000
+I understand
+
+285
+00:15:34,000 --> 00:15:37,000
+At that time, they wanted to do something like this
+
+286
+00:15:37,000 --> 00:15:39,000
+It was a few years ago
+
+287
+00:15:39,000 --> 00:15:43,000
+Mark Shuttles wanted to do convergence
+
+288
+00:15:43,000 --> 00:15:45,000
+It's a big fusion
+
+289
+00:15:45,000 --> 00:15:48,000
+Run the phone, run the desktop, run to the server
+
+290
+00:15:48,000 --> 00:15:50,000
+Ubuntu is so good
+
+291
+00:15:50,000 --> 00:15:56,000
+Ubuntu Phone was probably cooperating with the Ubi group for a while
+
+292
+00:15:56,000 --> 00:15:58,000
+And then it didn't work out
+
+293
+00:15:58,000 --> 00:15:59,000
+There was another news
+
+294
+00:15:59,000 --> 00:16:02,000
+At that time, the Firefox phone cooperated with the center
+
+295
+00:16:02,000 --> 00:16:06,000
+And then it was a bit difficult
+
+296
+00:16:06,000 --> 00:16:08,000
+It was a bit embarrassing at the end
+
+297
+00:16:10,000 --> 00:16:14,000
+The reason why Unity was released at that time was to support this
+
+298
+00:16:14,000 --> 00:16:20,000
+To support three different forms of this
+
+299
+00:16:20,000 --> 00:16:23,000
+Two different types of application scenes
+
+300
+00:16:23,000 --> 00:16:26,000
+One is a desktop system
+
+301
+00:16:26,000 --> 00:16:29,000
+But it didn't work out
+
+302
+00:16:29,000 --> 00:16:31,000
+And then it finally went south
+
+303
+00:16:31,000 --> 00:16:35,000
+Whether it's Firefox mobile phone or Ubuntu mobile phone
+
+304
+00:16:35,000 --> 00:16:38,000
+Everyone thinks it's not working
+
+305
+00:16:38,000 --> 00:16:39,000
+It's definitely not going to work
+
+306
+00:16:41,000 --> 00:16:43,000
+You said that I thought about it
+
+307
+00:16:43,000 --> 00:16:46,000
+At that time, you had to support mobile phones and TVs
+
+308
+00:16:46,000 --> 00:16:48,000
+Yes, he was very ambitious
+
+309
+00:16:48,000 --> 00:16:52,000
+But at that time, not only he didn't have a home
+
+310
+00:16:52,000 --> 00:16:55,000
+Windows also wanted to destroy all the mother systems
+
+311
+00:16:55,000 --> 00:16:56,000
+Right?
+
+312
+00:16:56,000 --> 00:17:00,000
+Computer, desktop, mobile phone
+
+313
+00:17:00,000 --> 00:17:03,000
+Finally, now there is only the desktop left
+
+314
+00:17:05,000 --> 00:17:07,000
+This idea is actually good
+
+315
+00:17:07,000 --> 00:17:11,000
+But I think the means are too radical
+
+316
+00:17:13,000 --> 00:17:15,000
+Just two ideas
+
+317
+00:17:15,000 --> 00:17:19,000
+Is it better to have both ends like this?
+
+318
+00:17:19,000 --> 00:17:21,000
+Or is it like Apple?
+
+319
+00:17:21,000 --> 00:17:26,000
+It's basically a victory for everyone
+
+320
+00:17:26,000 --> 00:17:27,000
+But there is still hope
+
+321
+00:17:27,000 --> 00:17:30,000
+You see, Samsung has released a new one recently
+
+322
+00:17:30,000 --> 00:17:33,000
+It changed the Android system
+
+323
+00:17:33,000 --> 00:17:35,000
+And then a copy was released
+
+324
+00:17:35,000 --> 00:17:37,000
+You put that phone, so it's a doc
+
+325
+00:17:37,000 --> 00:17:38,000
+What is it called?
+
+326
+00:17:38,000 --> 00:17:39,000
+Dex
+
+327
+00:17:39,000 --> 00:17:41,000
+D-E-X should be read like this
+
+328
+00:17:41,000 --> 00:17:42,000
+Such a component
+
+329
+00:17:42,000 --> 00:17:44,000
+200 or 300
+
+330
+00:17:44,000 --> 00:17:46,000
+Maybe 200 or 300
+
+331
+00:17:46,000 --> 00:17:48,000
+After you plug in the Samsung phone
+
+332
+00:17:48,000 --> 00:17:52,000
+It has a HDMI or DisplayPort cable
+
+333
+00:17:52,000 --> 00:17:53,000
+And a few USB ports
+
+334
+00:17:53,000 --> 00:17:54,000
+It can connect a display
+
+335
+00:17:54,000 --> 00:17:56,000
+It can connect a mouse pad or something
+
+336
+00:17:56,000 --> 00:17:57,000
+After you plug in the phone
+
+337
+00:17:57,000 --> 00:18:01,000
+It automatically switches to the Android desktop
+
+338
+00:18:02,000 --> 00:18:04,000
+And then I see someone using it recently
+
+339
+00:18:04,000 --> 00:18:07,000
+It seems to say that the effect is not bad
+
+340
+00:18:08,000 --> 00:18:10,000
+But after all, it's not very mature
+
+341
+00:18:10,000 --> 00:18:12,000
+It's also from another angle
+
+342
+00:18:12,000 --> 00:18:14,000
+You see, they said before
+
+343
+00:18:14,000 --> 00:18:17,000
+Microsoft and Ubuntu and Firefox
+
+344
+00:18:17,000 --> 00:18:19,000
+They said, let's make a system
+
+345
+00:18:19,000 --> 00:18:21,000
+Support two different user scenarios, right?
+
+346
+00:18:21,000 --> 00:18:22,000
+Then Apple said
+
+347
+00:18:22,000 --> 00:18:24,000
+I make a mobile phone
+
+348
+00:18:24,000 --> 00:18:27,000
+I'm not integrated with the desktop
+
+349
+00:18:27,000 --> 00:18:29,000
+It's just a feature for each other
+
+350
+00:18:29,000 --> 00:18:31,000
+And now Samsung is back
+
+351
+00:18:31,000 --> 00:18:34,000
+I can use my phone as a desktop
+
+352
+00:18:34,000 --> 00:18:36,000
+Let's see if it can go on like this
+
+353
+00:18:36,000 --> 00:18:38,000
+So it will develop into
+
+354
+00:18:38,000 --> 00:18:40,000
+Everyone doesn't use computers
+
+355
+00:18:40,000 --> 00:18:41,000
+If Samsung is successful on this road
+
+356
+00:18:41,000 --> 00:18:43,000
+Everyone won't use computers
+
+357
+00:18:43,000 --> 00:18:44,000
+Yes, in the ideal case
+
+358
+00:18:44,000 --> 00:18:46,000
+In the ideal case, it should be
+
+359
+00:18:46,000 --> 00:18:47,000
+Add a desktop display
+
+360
+00:18:47,000 --> 00:18:50,000
+Just put the phone directly on the dock
+
+361
+00:18:50,000 --> 00:18:52,000
+Then you can see the big screen
+
+362
+00:18:52,000 --> 00:18:54,000
+But on the big screen
+
+363
+00:18:54,000 --> 00:18:56,000
+But this is not a problem on hardware
+
+364
+00:18:56,000 --> 00:19:00,000
+Now, in fact, most of the so-called high-end flagship performance
+
+365
+00:19:00,000 --> 00:19:02,000
+To support general desktop applications
+
+366
+00:19:02,000 --> 00:19:06,000
+Is no pressure
+
+367
+00:19:06,000 --> 00:19:07,000
+But it's still on the software
+
+368
+00:19:07,000 --> 00:19:09,000
+Because after all, you see
+
+369
+00:19:09,000 --> 00:19:11,000
+This before they failed
+
+370
+00:19:11,000 --> 00:19:15,000
+The problem is that the system only supports two different applications
+
+371
+00:19:15,000 --> 00:19:18,000
+And there is no corresponding optimization
+
+372
+00:19:18,000 --> 00:19:19,000
+It's actually more difficult
+
+373
+00:19:19,000 --> 00:19:23,000
+Then Samsung's potential problem is
+
+374
+00:19:23,000 --> 00:19:27,000
+Android desktop applications are still basically not there
+
+375
+00:19:29,000 --> 00:19:31,000
+So how do you go after that?
+
+376
+00:19:31,000 --> 00:19:33,000
+It's actually hard to say now
+
+377
+00:19:33,000 --> 00:19:36,000
+I feel like this road is more suitable for Windows 6
+
+378
+00:19:36,000 --> 00:19:39,000
+But Windows mobile phone is really
+
+379
+00:19:39,000 --> 00:19:44,000
+So it's not a foundation for this road
+
+380
+00:19:45,000 --> 00:19:47,000
+Didn't Windows 3 do it?
+
+381
+00:19:47,000 --> 00:19:48,000
+What is it called
+
+382
+00:19:48,000 --> 00:19:50,000
+There is a
+
+383
+00:19:50,000 --> 00:19:51,000
+What is the feature called
+
+384
+00:19:51,000 --> 00:19:53,000
+Windows 10
+
+385
+00:19:53,000 --> 00:19:55,000
+Did he show it last year?
+
+386
+00:19:55,000 --> 00:19:56,000
+Yes, I have the impression
+
+387
+00:19:56,000 --> 00:19:58,000
+We talked about that thing at that time
+
+388
+00:19:58,000 --> 00:19:59,000
+I think it's pretty cool
+
+389
+00:19:59,000 --> 00:20:04,000
+The screen on the face becomes a desktop device
+
+390
+00:20:04,000 --> 00:20:06,000
+But because
+
+391
+00:20:06,000 --> 00:20:08,000
+But the main reason is
+
+392
+00:20:08,000 --> 00:20:10,000
+Because the phone is off
+
+393
+00:20:10,000 --> 00:20:12,000
+So there is no post
+
+394
+00:20:12,000 --> 00:20:13,000
+If the phone is not off
+
+395
+00:20:13,000 --> 00:20:17,000
+I guess it can be used in the whole
+
+396
+00:20:17,000 --> 00:20:19,000
+A few hundred million dollars on the fire
+
+397
+00:20:19,000 --> 00:20:21,000
+Yes, a few hundred million is definitely not enough
+
+398
+00:20:21,000 --> 00:20:23,000
+A few hundred million
+
+399
+00:20:23,000 --> 00:20:25,000
+You have to accumulate
+
+400
+00:20:25,000 --> 00:20:27,000
+At least five years or more
+
+401
+00:20:27,000 --> 00:20:28,000
+To continue to invest
+
+402
+00:20:28,000 --> 00:20:30,000
+To get the ecosystem around it
+
+403
+00:20:30,000 --> 00:20:34,000
+Then now this heavy bomb is handed over to Samsung
+
+404
+00:20:36,000 --> 00:20:38,000
+Really
+
+405
+00:20:38,000 --> 00:20:40,000
+I'm so happy
+
+406
+00:20:40,000 --> 00:20:42,000
+Then it's because of that
+
+407
+00:20:42,000 --> 00:20:44,000
+Ubuntu mobile phone and ULIT are off
+
+408
+00:20:44,000 --> 00:20:49,000
+Ubuntu now officially announces that they are back to this
+
+409
+00:20:50,000 --> 00:20:51,000
+How to read this
+
+410
+00:20:51,000 --> 00:20:53,000
+Gnome system
+
+411
+00:20:53,000 --> 00:20:55,000
+Gnome
+
+412
+00:20:55,000 --> 00:20:57,000
+Gnome
+
+413
+00:20:57,000 --> 00:20:58,000
+The machine should not speak
+
+414
+00:20:58,000 --> 00:21:01,000
+But I have met a lot of people who will read Gnome
+
+415
+00:21:01,000 --> 00:21:03,000
+How should you read German
+
+416
+00:21:03,000 --> 00:21:04,000
+Gnome
+
+417
+00:21:04,000 --> 00:21:06,000
+Ok, that's enough to speak
+
+418
+00:21:08,000 --> 00:21:09,000
+I'll be more rigorous
+
+419
+00:21:11,000 --> 00:21:16,000
+It's back to the Gnome model system
+
+420
+00:21:16,000 --> 00:21:23,000
+Then this also means that Ubuntu can finally use the same thing as the other Linux versions
+
+421
+00:21:23,000 --> 00:21:26,000
+This is also the most fierce thing that everyone scolds everyone
+
+422
+00:21:26,000 --> 00:21:28,000
+You are on this
+
+423
+00:21:28,000 --> 00:21:29,000
+Ubuntu desktop
+
+424
+00:21:29,000 --> 00:21:31,000
+In the music video set you made
+
+425
+00:21:31,000 --> 00:21:34,000
+You are not allowed to destroy the community
+
+426
+00:21:34,000 --> 00:21:35,000
+Yes
+
+427
+00:21:35,000 --> 00:21:36,000
+I know
+
+428
+00:21:36,000 --> 00:21:37,000
+Our company is all
+
+429
+00:21:37,000 --> 00:21:40,000
+At least the R&D department is all using Gnome
+
+430
+00:21:40,000 --> 00:21:44,000
+I don't seem to have met a single Gnome user
+
+431
+00:21:44,000 --> 00:21:49,000
+Basically everyone will switch to other desktop
+
+432
+00:21:53,000 --> 00:21:57,000
+Anyway, this is what we sent in the past
+
+433
+00:21:57,000 --> 00:22:01,000
+I sent you something interesting in the notes
+
+434
+00:22:01,000 --> 00:22:02,000
+Too few
+
+435
+00:22:02,000 --> 00:22:06,000
+In the past half year, a lot of interesting things have happened
+
+436
+00:22:06,000 --> 00:22:08,000
+But I don't think it's very important now
+
+437
+00:22:11,000 --> 00:22:14,000
+It may be a very significant thing
+
+438
+00:22:14,000 --> 00:22:16,000
+But we all ignore it
+
+439
+00:22:16,000 --> 00:22:17,000
+Yes
+
+440
+00:22:17,000 --> 00:22:23,000
+We are going to talk about a more significant thing today
+
+441
+00:22:23,000 --> 00:22:51,000
+Actually, this thing is a bit of a
+
+442
+00:22:53,000 --> 00:22:55,000
+I'm not sure if it's a crime or a cyber crime
+
+443
+00:22:55,000 --> 00:22:57,000
+I was watching that episode
+
+444
+00:22:57,000 --> 00:22:59,000
+It's about a hospital
+
+445
+00:22:59,000 --> 00:23:02,000
+And then controlled by a code
+
+446
+00:23:02,000 --> 00:23:09,000
+All the ventilators and X-ray machines are controlled by a remote control
+
+447
+00:23:09,000 --> 00:23:16,000
+Anyone who can kill those people who rely on medical equipment is a very scary scene
+
+448
+00:23:16,000 --> 00:23:17,000
+The result
+
+449
+00:23:17,000 --> 00:23:20,000
+This is what happened
+
+450
+00:23:20,000 --> 00:23:23,000
+But it's not as exaggerated as described in the plot
+
+451
+00:23:23,000 --> 00:23:27,000
+It's just that the real version is the hospital's computer system
+
+452
+00:23:27,000 --> 00:23:31,000
+After the switch, the operation of the entire hospital cannot operate normally
+
+453
+00:23:31,000 --> 00:23:34,000
+For example, those who should go for surgery may have to go to another hospital
+
+454
+00:23:34,000 --> 00:23:37,000
+It's not as exaggerated as killing so many people
+
+455
+00:23:37,000 --> 00:23:43,000
+But I think these two things put together are quite coincidental
+
+456
+00:23:44,000 --> 00:23:54,000
+Yes, the digital world has been shown many times by many artistic forms
+
+457
+00:23:54,000 --> 00:23:56,000
+Especially in literary descriptions
+
+458
+00:23:56,000 --> 00:23:59,000
+I remember when I was a little bug
+
+459
+00:23:59,000 --> 00:24:06,000
+There was a short story or a fictional bug
+
+460
+00:24:06,000 --> 00:24:08,000
+If you don't go to control the bug
+
+461
+00:24:08,000 --> 00:24:09,000
+What could happen
+
+462
+00:24:09,000 --> 00:24:11,000
+The plane just fell from the sky
+
+463
+00:24:11,000 --> 00:24:13,000
+Blah Blah Blah
+
+464
+00:24:13,000 --> 00:24:15,000
+But at least with the thousand-year bug
+
+465
+00:24:15,000 --> 00:24:18,000
+There was nothing wrong with it
+
+466
+00:24:24,000 --> 00:24:28,000
+I remember there is a literature
+
+467
+00:24:28,000 --> 00:24:34,000
+What did the virus infect the nuclear missile control system
+
+468
+00:24:34,000 --> 00:24:37,000
+Causing an explosion in global nuclear safety
+
+469
+00:24:37,000 --> 00:24:40,000
+人工智能更是被渲染的非常的恐怖
+
+470
+00:24:42,000 --> 00:24:43,000
+从今天开始到现在
+
+471
+00:24:43,000 --> 00:24:44,000
+这个有一个有一个背景
+
+472
+00:24:44,000 --> 00:24:47,000
+就是在过往的那些科
+
+473
+00:24:47,000 --> 00:24:49,000
+就是科幻片或者这种灾难片里面
+
+474
+00:24:50,000 --> 00:24:52,000
+说渲染那种场景
+
+475
+00:24:52,000 --> 00:24:55,000
+其实在当时的背景下
+
+476
+00:24:55,000 --> 00:24:57,000
+不太会在现实中发生
+
+477
+00:24:57,000 --> 00:24:58,000
+有一个很重要的原因
+
+478
+00:24:58,000 --> 00:25:00,000
+就是那个时候的电脑的渗透率
+
+479
+00:25:00,000 --> 00:25:03,000
+或者说互联网的渗透率
+
+480
+00:25:03,000 --> 00:25:05,000
+还没有到那个程度
+
+481
+00:25:05,000 --> 00:25:05,000
+我觉得
+
+482
+00:25:05,000 --> 00:25:07,000
+但是现在我觉得
+
+483
+00:25:07,000 --> 00:25:09,000
+2017 年这个点我们来看
+
+484
+00:25:09,000 --> 00:25:11,000
+可能就有点小小的不太一样
+
+485
+00:25:11,000 --> 00:25:13,000
+也是为什么这次事件出来以后
+
+486
+00:25:13,000 --> 00:25:16,000
+导致很多人在担忧这件事情
+
+487
+00:25:16,000 --> 00:25:18,000
+特别是现在不是提一个叫 IoT 吗
+
+488
+00:25:18,000 --> 00:25:19,000
+Internet of Things
+
+489
+00:25:20,000 --> 00:25:21,000
+所谓的物联网这概念
+
+490
+00:25:22,000 --> 00:25:23,000
+如果说我们很多这种
+
+491
+00:25:24,000 --> 00:25:25,000
+所谓基础设施
+
+492
+00:25:25,000 --> 00:25:30,000
+是由可以联网的设备来控制的话
+
+493
+00:25:31,000 --> 00:25:33,000
+那以后再有一个病毒去
+
+494
+00:25:33,000 --> 00:25:34,000
+或者说是一个木马什么样的东西
+
+495
+00:25:34,000 --> 00:25:37,000
+去导致很多基础设施不能用的话
+
+496
+00:25:37,000 --> 00:25:39,000
+那可能真的会出现大部分的
+
+497
+00:25:40,000 --> 00:25:42,000
+这种社会不稳定
+
+498
+00:25:44,000 --> 00:25:45,000
+是这样的
+
+499
+00:25:45,000 --> 00:25:48,000
+所以这次到底发生了什么
+
+500
+00:25:51,000 --> 00:25:55,000
+简单来说就是在 2017 年 5 月 12 日
+
+501
+00:25:55,000 --> 00:25:58,000
+which is remarkable day
+
+502
+00:25:58,000 --> 00:26:00,000
+对上周五的时候
+
+503
+00:26:01,000 --> 00:26:05,000
+一个叫做 Ransomware
+
+504
+00:26:05,000 --> 00:26:09,000
+中文翻译成绑架软件
+
+505
+00:26:09,000 --> 00:26:09,000
+勒索软件
+
+506
+00:26:10,000 --> 00:26:11,000
+勒索软件
+
+507
+00:26:11,000 --> 00:26:14,000
+这么一个其实它更像蠕虫
+
+508
+00:26:14,000 --> 00:26:19,000
+或者说 Ransomware 应该算病毒还是算蠕虫
+
+509
+00:26:20,000 --> 00:26:22,000
+其实我觉得界限已经比较模糊了
+
+510
+00:26:23,000 --> 00:26:24,000
+对 anyway
+
+511
+00:26:24,000 --> 00:26:26,000
+总之它是一个恶意软件
+
+512
+00:26:26,000 --> 00:26:28,000
+对这种说肯定是没错的
+
+513
+00:26:28,000 --> 00:26:29,000
+就它会
+
+514
+00:26:30,000 --> 00:26:34,000
+我觉得这个病毒应该是有一定前夫妻的
+
+515
+00:26:34,000 --> 00:26:37,000
+就是他可能在此前已经
+
+516
+00:26:37,000 --> 00:26:41,000
+一段时间已经感染了很多 Windows 机器
+
+517
+00:26:41,000 --> 00:26:45,000
+然后在 5 月 12 号这一天
+
+518
+00:26:46,000 --> 00:26:48,000
+也许是有了什么触发条件
+
+519
+00:26:48,000 --> 00:26:50,000
+然后就开始全面爆发了
+
+520
+00:26:50,000 --> 00:26:55,000
+那么全世界大概有超过 20 万台
+
+521
+00:26:56,000 --> 00:26:57,000
+计算机
+
+522
+00:26:58,000 --> 00:27:01,000
+全球可能有将近 100 个国家
+
+523
+00:27:01,000 --> 00:27:03,000
+对 20 万台计算机遭受了感染
+
+524
+00:27:04,000 --> 00:27:06,000
+然后感染的症状是
+
+525
+00:27:06,000 --> 00:27:08,000
+屏幕上跳出来一个红色的绿化矿
+
+526
+00:27:09,000 --> 00:27:10,000
+左上角有一把锁
+
+527
+00:27:10,000 --> 00:27:13,000
+然后下面有两个倒计时
+
+528
+00:27:13,000 --> 00:27:16,000
+然后右边非常贴心地用多国语言
+
+529
+00:27:16,000 --> 00:27:18,000
+告诉你现在的状况
+
+530
+00:27:19,000 --> 00:27:23,000
+就是你的电脑里面所有的文件
+
+531
+00:27:23,000 --> 00:27:27,000
+或者基本上所有经常可见的
+
+532
+00:27:28,000 --> 00:27:32,000
+commonly known files
+
+533
+00:27:32,000 --> 00:27:34,000
+就是所有什么 TXT
+
+534
+00:27:35,000 --> 00:27:36,000
+AVI
+
+535
+00:27:36,000 --> 00:27:37,000
+MP 4
+
+536
+00:27:39,000 --> 00:27:40,000
+所有这些文件都已经被加密了
+
+537
+00:27:40,000 --> 00:27:44,000
+然后你必须向某一个特定的 Bitcoin 的钱包
+
+538
+00:27:44,000 --> 00:27:46,000
+打入多少钱来着
+
+539
+00:27:46,000 --> 00:27:47,000
+300 万元
+
+540
+00:27:47,000 --> 00:27:49,000
+5 个 Bitcoin
+
+541
+00:27:51,000 --> 00:27:52,000
+有两种
+
+542
+00:27:52,000 --> 00:27:54,000
+一个是 5 个 Bitcoin
+
+543
+00:27:54,000 --> 00:27:55,000
+或者是 300 万美元
+
+544
+00:27:55,000 --> 00:27:56,000
+不知道他怎么算
+
+545
+00:27:56,000 --> 00:27:57,000
+算一算有点怪
+
+546
+00:27:58,000 --> 00:28:00,000
+这应该是比特币的还没长起来的时候
+
+547
+00:28:00,000 --> 00:28:01,000
+开发
+
+548
+00:28:01,000 --> 00:28:04,000
+对他在开发这个 APP 的时候的比特币的汇率
+
+549
+00:28:04,000 --> 00:28:05,000
+现在
+
+550
+00:28:05,000 --> 00:28:07,000
+现在 300 万美元只能买零点几个比特币
+
+551
+00:28:07,000 --> 00:28:08,000
+应该
+
+552
+00:28:09,000 --> 00:28:11,000
+现在比特币是 1000 多
+
+553
+00:28:12,000 --> 00:28:12,000
+对
+
+554
+00:28:12,000 --> 00:28:13,000
+对
+
+555
+00:28:13,000 --> 00:28:14,000
+300 多只能买零点几
+
+556
+00:28:15,000 --> 00:28:17,000
+你要冤大头才会去买 5 个
+
+557
+00:28:17,000 --> 00:28:20,000
+所以这也给了我们一个线索
+
+558
+00:28:20,000 --> 00:28:21,000
+就是这个 APP 大概是什么时候写的
+
+559
+00:28:22,000 --> 00:28:25,000
+可以看比特币的价格走势
+
+560
+00:28:25,000 --> 00:28:27,000
+反向推断
+
+561
+00:28:27,000 --> 00:28:28,000
+对
+
+562
+00:28:29,000 --> 00:28:30,000
+然后这个
+
+563
+00:28:31,000 --> 00:28:34,000
+全球将近 100 个国家的 20 多万台计算机
+
+564
+00:28:34,000 --> 00:28:36,000
+分布于各个行业
+
+565
+00:28:37,000 --> 00:28:41,000
+什么 O 2 的母公司 Telefonica
+
+566
+00:28:41,000 --> 00:28:42,000
+在西班牙的那个
+
+567
+00:28:42,000 --> 00:28:43,000
+然后
+
+568
+00:28:44,000 --> 00:28:47,000
+包括一开始我知道这件事的途径是
+
+569
+00:28:48,000 --> 00:28:50,000
+推特上面 BBC News 报了说 NHS
+
+570
+00:28:50,000 --> 00:28:56,000
+被英国的全民医保服务被攻击
+
+571
+00:28:57,000 --> 00:29:00,000
+然后联邦快递也被攻击
+
+572
+00:29:00,000 --> 00:29:01,000
+然后德铁也被攻击了
+
+573
+00:29:03,000 --> 00:29:04,000
+所以你出行有受到影响吗
+
+574
+00:29:05,000 --> 00:29:07,000
+我现在很少坐火车
+
+575
+00:29:07,000 --> 00:29:08,000
+不过
+
+576
+00:29:08,000 --> 00:29:09,000
+我
+
+577
+00:29:10,000 --> 00:29:13,000
+反正我在推特上看到有人拍那个汉奥威的
+
+578
+00:29:13,000 --> 00:29:14,000
+主火车站的
+
+579
+00:29:17,000 --> 00:29:19,000
+时刻表的那个大显示器上
+
+580
+00:29:19,000 --> 00:29:20,000
+就显示了这个东西
+
+581
+00:29:21,000 --> 00:29:24,000
+一个红色对话框告诉你说你的电脑被
+
+582
+00:29:24,000 --> 00:29:25,000
+加密了
+
+583
+00:29:25,000 --> 00:29:27,000
+对这个我还觉得蛮意外的
+
+584
+00:29:27,000 --> 00:29:29,000
+他那个竟然没有隔离开来
+
+585
+00:29:32,000 --> 00:29:33,000
+是挺出了的
+
+586
+00:29:33,000 --> 00:29:34,000
+但是怎么说
+
+587
+00:29:34,000 --> 00:29:35,000
+这个东西它的
+
+588
+00:29:35,000 --> 00:29:37,000
+就通过它的致命原理来看的话
+
+589
+00:29:37,000 --> 00:29:39,000
+就基本上你有一个小小的漏洞
+
+590
+00:29:40,000 --> 00:29:41,000
+sorry
+
+591
+00:29:41,000 --> 00:29:42,000
+就基本上你有一个
+
+592
+00:29:42,000 --> 00:29:44,000
+你的内网里面有一个小小的漏洞
+
+593
+00:29:45,000 --> 00:29:49,000
+它就有可能去默默的到处传播
+
+594
+00:29:49,000 --> 00:29:49,000
+所以
+
+595
+00:29:50,000 --> 00:29:51,000
+而且
+
+596
+00:29:52,000 --> 00:29:53,000
+时刻表这个东西
+
+597
+00:29:53,000 --> 00:29:55,000
+它毕竟是要接到外网上的
+
+598
+00:29:55,000 --> 00:29:56,000
+我觉得
+
+599
+00:29:56,000 --> 00:29:58,000
+它是要对互联网公开的
+
+600
+00:29:58,000 --> 00:29:59,000
+是吧
+
+601
+00:29:59,000 --> 00:30:01,000
+得铁是有这个功能的
+
+602
+00:30:01,000 --> 00:30:02,000
+对
+
+603
+00:30:02,000 --> 00:30:04,000
+然后说部分设法机也坏了
+
+604
+00:30:06,000 --> 00:30:07,000
+总之出行受到影响
+
+605
+00:30:08,000 --> 00:30:10,000
+后来我在群里面看到有人贴
+
+606
+00:30:10,000 --> 00:30:12,000
+那个中国石油的
+
+607
+00:30:13,000 --> 00:30:15,000
+加油站
+
+608
+00:30:15,000 --> 00:30:16,000
+自动加油机
+
+609
+00:30:16,000 --> 00:30:16,000
+对
+
+610
+00:30:16,000 --> 00:30:18,000
+加油站的自动加油机也坏了
+
+611
+00:30:18,000 --> 00:30:19,000
+也出了这个
+
+612
+00:30:20,000 --> 00:30:24,000
+然后后来又听说公安的网络也遭殃了
+
+613
+00:30:24,000 --> 00:30:26,000
+然后 NASA 也被感染了
+
+614
+00:30:26,000 --> 00:30:30,000
+然后俄罗斯的内政部也被感染了
+
+615
+00:30:33,000 --> 00:30:34,000
+差不多吧
+
+616
+00:30:34,000 --> 00:30:35,000
+就基本上
+
+617
+00:30:37,000 --> 00:30:37,000
+很多
+
+618
+00:30:37,000 --> 00:30:40,000
+然后加拿大的华铁路大学也被感染了
+
+619
+00:30:40,000 --> 00:30:43,000
+国内校园一往更是重灾区
+
+620
+00:30:43,000 --> 00:30:44,000
+对
+
+621
+00:30:44,000 --> 00:30:46,000
+贵校
+
+622
+00:30:46,000 --> 00:30:48,000
+中山大学也被感染了
+
+623
+00:30:48,000 --> 00:30:50,000
+哪个学校的校园网都是这种
+
+624
+00:30:50,000 --> 00:30:53,000
+以前我记得我上学的时候
+
+625
+00:30:53,000 --> 00:30:54,000
+爆发过一阵冲击波
+
+626
+00:30:55,000 --> 00:30:57,000
+当时也是搞得鸡犬不宁的
+
+627
+00:30:58,000 --> 00:31:01,000
+封短口各种改也要弄
+
+628
+00:31:02,000 --> 00:31:03,000
+那个时候已经出来了
+
+629
+00:31:03,000 --> 00:31:07,000
+好像我在大学里的时候出过那个
+
+630
+00:31:08,000 --> 00:31:09,000
+那个病毒叫什么
+
+631
+00:31:09,000 --> 00:31:10,000
+还是熊猫烧香
+
+632
+00:31:12,000 --> 00:31:13,000
+还是功夫熊猫
+
+633
+00:31:13,000 --> 00:31:14,000
+应该是熊猫烧香
+
+634
+00:31:14,000 --> 00:31:15,000
+对
+
+635
+00:31:15,000 --> 00:31:15,000
+熊猫烧香
+
+636
+00:31:15,000 --> 00:31:15,000
+对
+
+637
+00:31:17,000 --> 00:31:18,000
+那个人好像被抓了吧后来
+
+638
+00:31:19,000 --> 00:31:19,000
+对
+
+639
+00:31:21,000 --> 00:31:23,000
+他还是用 CH 病毒改了
+
+640
+00:31:23,000 --> 00:31:23,000
+我记得
+
+641
+00:31:24,000 --> 00:31:24,000
+对
+
+642
+00:31:25,000 --> 00:31:26,000
+CH 那个
+
+643
+00:31:26,000 --> 00:31:27,000
+那个人复安
+
+644
+00:31:27,000 --> 00:31:28,000
+复安
+
+645
+00:31:28,000 --> 00:31:29,000
+陈莹豪
+
+646
+00:31:29,000 --> 00:31:29,000
+对
+
+647
+00:31:29,000 --> 00:31:30,000
+陈莹豪
+
+648
+00:31:30,000 --> 00:31:30,000
+对
+
+649
+00:31:31,000 --> 00:31:32,000
+他应该已经复安性出来了
+
+650
+00:31:34,000 --> 00:31:34,000
+所以
+
+651
+00:31:34,000 --> 00:31:35,000
+然后
+
+652
+00:31:35,000 --> 00:31:37,000
+这次这个
+
+653
+00:31:38,000 --> 00:31:40,000
+叫做 Wanna cry
+
+654
+00:31:40,000 --> 00:31:41,000
+想哭吗
+
+655
+00:31:42,000 --> 00:31:43,000
+你想不想哭
+
+656
+00:31:43,000 --> 00:31:44,000
+对
+
+657
+00:31:44,000 --> 00:31:44,000
+一个
+
+658
+00:31:45,000 --> 00:31:47,000
+一个勒索软件
+
+659
+00:31:47,000 --> 00:31:48,000
+勒索病毒
+
+660
+00:31:49,000 --> 00:31:50,000
+他其实利用了
+
+661
+00:31:51,000 --> 00:31:52,000
+之前
+
+662
+00:31:53,000 --> 00:31:54,000
+美国的那个叫什么
+
+663
+00:31:54,000 --> 00:31:55,000
+NSA
+
+664
+00:31:55,000 --> 00:31:55,000
+对吧
+
+665
+00:31:56,000 --> 00:31:58,000
+国家安全局
+
+666
+00:31:58,000 --> 00:31:59,000
+应该是什么翻译
+
+667
+00:32:00,000 --> 00:32:00,000
+对
+
+668
+00:32:00,000 --> 00:32:02,000
+开发了一个叫做
+
+669
+00:32:02,000 --> 00:32:03,000
+武器级别的
+
+670
+00:32:04,000 --> 00:32:04,000
+对
+
+671
+00:32:04,000 --> 00:32:05,000
+武器级别的一个系统漏洞
+
+672
+00:32:05,000 --> 00:32:08,000
+叫做永恒之栏
+
+673
+00:32:08,000 --> 00:32:10,000
+就我看他那个名字里面都特别文艺
+
+674
+00:32:10,000 --> 00:32:10,000
+不知道为什么
+
+675
+00:32:11,000 --> 00:32:12,000
+Eternal blue
+
+676
+00:32:12,000 --> 00:32:14,000
+可能是来自于 Blue screen of death
+
+677
+00:32:15,000 --> 00:32:16,000
+但是但是并没有
+
+678
+00:32:16,000 --> 00:32:18,000
+其实就我不知道为什么是这个名字
+
+679
+00:32:22,000 --> 00:32:23,000
+就如果他愿意的话
+
+680
+00:32:23,000 --> 00:32:26,000
+可以让所有的电脑都进入 Eternal
+
+681
+00:32:28,000 --> 00:32:29,000
+Blue screen of death
+
+682
+00:32:29,000 --> 00:32:30,000
+也许是这个
+
+683
+00:32:31,000 --> 00:32:32,000
+好吧
+
+684
+00:32:32,000 --> 00:32:32,000
+anyway
+
+685
+00:32:32,000 --> 00:32:34,000
+就这个这个漏洞是
+
+686
+00:32:34,000 --> 00:32:36,000
+影响 Windows 上面他利用的
+
+687
+00:32:36,000 --> 00:32:37,000
+SMB
+
+688
+00:32:37,000 --> 00:32:38,000
+就是文件分享的那个
+
+689
+00:32:38,000 --> 00:32:39,000
+那个
+
+690
+00:32:39,000 --> 00:32:40,000
+那个系统的
+
+691
+00:32:40,000 --> 00:32:41,000
+一个漏洞
+
+692
+00:32:42,000 --> 00:32:42,000
+对
+
+693
+00:32:43,000 --> 00:32:46,000
+微软据说是在今年三月份的时候
+
+694
+00:32:46,000 --> 00:32:48,000
+就已经 patch 了这个漏洞
+
+695
+00:32:49,000 --> 00:32:51,000
+但是因为众所周知的原因
+
+696
+00:32:51,000 --> 00:32:53,000
+很多人是不升级这个
+
+697
+00:32:54,000 --> 00:32:54,000
+系统布丁的
+
+698
+00:32:55,000 --> 00:32:56,000
+对
+
+699
+00:32:56,000 --> 00:32:56,000
+然后就
+
+700
+00:32:56,000 --> 00:32:57,000
+而且当时也没有
+
+701
+00:32:58,000 --> 00:33:00,000
+他好像只给 Windows 10 加了这个布丁
+
+702
+00:33:00,000 --> 00:33:01,000
+我记得
+
+703
+00:33:03,000 --> 00:33:05,000
+反正不是一上来就给了所有的
+
+704
+00:33:05,000 --> 00:33:05,000
+对
+
+705
+00:33:05,000 --> 00:33:08,000
+因为当时你看一下 Windows XP
+
+706
+00:33:08,000 --> 00:33:09,000
+已经是就是 End of life
+
+707
+00:33:10,000 --> 00:33:11,000
+就没有再支持了
+
+708
+00:33:11,000 --> 00:33:14,000
+然后那个 Windows 7 和 8 还在支持吗
+
+709
+00:33:14,000 --> 00:33:15,000
+我还不太清楚
+
+710
+00:33:16,000 --> 00:33:20,000
+8 应该也已经出了那个支持
+
+711
+00:33:20,000 --> 00:33:23,000
+那 7 至少是也没有了对吧
+
+712
+00:33:23,000 --> 00:33:25,000
+对生命周期
+
+713
+00:33:25,000 --> 00:33:27,000
+但但后来因为这个事情太严重
+
+714
+00:33:27,000 --> 00:33:31,000
+微软又出了一个 XP 和 Windows 8 的布丁
+
+715
+00:33:31,000 --> 00:33:32,000
+但我不知道为什么把 7 给漏了
+
+716
+00:33:33,000 --> 00:33:34,000
+就就挺奇怪的
+
+717
+00:33:34,000 --> 00:33:35,000
+说点事
+
+718
+00:33:36,000 --> 00:33:36,000
+anyway
+
+719
+00:33:36,000 --> 00:33:38,000
+这次没有 Windows 7 的布丁吗
+
+720
+00:33:38,000 --> 00:33:39,000
+他没有啊
+
+721
+00:33:39,000 --> 00:33:40,000
+你看他微软那篇报道里面
+
+722
+00:33:40,000 --> 00:33:43,000
+他只说出了 Windows XP 和 Windows 8 的
+
+723
+00:33:43,000 --> 00:33:47,000
+我猜应该是 XP Vista 7 和 8 都已经是
+
+724
+00:33:48,000 --> 00:33:48,000
+那个叫什么
+
+725
+00:33:48,000 --> 00:33:49,000
+就是
+
+726
+00:33:50,000 --> 00:33:51,000
+没有再支持
+
+727
+00:33:51,000 --> 00:33:52,000
+但是
+
+728
+00:33:53,000 --> 00:33:56,000
+就 XP 和 8 可能用的人比较多
+
+729
+00:33:56,000 --> 00:33:58,000
+然后他就补一下
+
+730
+00:33:58,000 --> 00:33:59,000
+OK
+
+731
+00:33:59,000 --> 00:34:03,000
+我查了一下说 Windows Vista 7 和 8 的
+
+732
+00:34:04,000 --> 00:34:10,000
+布丁在 3 月的 Normal Security Update 里面包含了
+
+733
+00:34:11,000 --> 00:34:12,000
+有是吧
+
+734
+00:34:12,000 --> 00:34:12,000
+OK
+
+735
+00:34:12,000 --> 00:34:15,000
+那就只有 XP 是后来在追加的
+
+736
+00:34:16,000 --> 00:34:17,000
+对应该是这样的
+
+737
+00:34:20,000 --> 00:34:22,000
+而且就是最主要的原因就是
+
+738
+00:34:22,000 --> 00:34:24,000
+其实有很多那种
+
+739
+00:34:24,000 --> 00:34:26,000
+古董系统还是跑在 XP 上面去了
+
+740
+00:34:26,000 --> 00:34:28,000
+特别是应用于什么
+
+741
+00:34:28,000 --> 00:34:32,000
+工控什么的什么设备控制这些东西对吧
+
+742
+00:34:32,000 --> 00:34:34,000
+那就还是跑在那里的
+
+743
+00:34:34,000 --> 00:34:36,000
+然后国内的话
+
+744
+00:34:36,000 --> 00:34:39,000
+应该还有百分之十几的中央系统是跑的 XP 的
+
+745
+00:34:39,000 --> 00:34:40,000
+我也不知道为什么
+
+746
+00:34:41,000 --> 00:34:42,000
+稳定啊
+
+747
+00:34:43,000 --> 00:34:46,000
+但是各种软件都已经不支持他了
+
+748
+00:34:46,000 --> 00:34:47,000
+稳定有什么用呢
+
+749
+00:34:48,000 --> 00:34:49,000
+如果作为消费者来说
+
+750
+00:34:49,000 --> 00:34:52,000
+但是你说你是一个工业场合有什么应用的话
+
+751
+00:34:52,000 --> 00:34:53,000
+那另当别论
+
+752
+00:34:53,000 --> 00:34:55,000
+就是你作为一个消费者
+
+753
+00:34:55,000 --> 00:34:59,000
+我记得那个时候去电脑城船机的时代
+
+754
+00:34:59,000 --> 00:35:03,000
+经常会有人说 XP 稳定啊
+
+755
+00:35:03,000 --> 00:35:04,000
+兼容性高啊
+
+756
+00:35:04,000 --> 00:35:05,000
+跑游戏跑得顺畅啊
+
+757
+00:35:05,000 --> 00:35:07,000
+占用系统资源小啊之类的
+
+758
+00:35:07,000 --> 00:35:10,000
+但是不是很多这个游戏都已经要求新的
+
+759
+00:35:10,000 --> 00:35:13,000
+那个什么这种 OpenGL 这些东西了吧
+
+760
+00:35:13,000 --> 00:35:13,000
+至少
+
+761
+00:35:14,000 --> 00:35:14,000
+对
+
+762
+00:35:14,000 --> 00:35:15,000
+我现在不是很清楚
+
+763
+00:35:15,000 --> 00:35:19,000
+我觉得现在装就装机的人至少会装温度斯巴拉吧
+
+764
+00:35:20,000 --> 00:35:22,000
+现在我就看到基本上外面再有 XP 的
+
+765
+00:35:22,000 --> 00:35:23,000
+就属于那种
+
+766
+00:35:23,000 --> 00:35:24,000
+就一看那个机器
+
+767
+00:35:24,000 --> 00:35:26,000
+就至少有五年以上的历史了
+
+768
+00:35:26,000 --> 00:35:28,000
+那确实不能要求太多对吧
+
+769
+00:35:29,000 --> 00:35:31,000
+但是有时候就是你会觉得说
+
+770
+00:35:31,000 --> 00:35:32,000
+这个地方其实用个计算器也行
+
+771
+00:35:32,000 --> 00:35:34,000
+然后他们就会选择一个
+
+772
+00:35:35,000 --> 00:35:37,000
+装了 Windows XP 的机器来跑
+
+773
+00:35:39,000 --> 00:35:43,000
+反正还是就还是有不少比例的人在用那个吧
+
+774
+00:35:43,000 --> 00:35:45,000
+然后就又被又被
+
+775
+00:35:46,000 --> 00:35:47,000
+大家意想了
+
+776
+00:35:48,000 --> 00:35:48,000
+对
+
+777
+00:35:48,000 --> 00:35:51,000
+其实归根结底还是省钱嘛
+
+778
+00:35:51,000 --> 00:35:52,000
+就成本低啊
+
+779
+00:35:52,000 --> 00:35:54,000
+你一台老旧的机器
+
+780
+00:35:54,000 --> 00:35:55,000
+你可能在
+
+781
+00:35:55,000 --> 00:35:57,000
+在发达国家就直接被扔掉了
+
+782
+00:35:57,000 --> 00:35:58,000
+然后直接买个新的
+
+783
+00:35:58,000 --> 00:36:00,000
+但是在中国就还是想要物尽其用一下
+
+784
+00:36:00,000 --> 00:36:02,000
+反正就是叫什么来的
+
+785
+00:36:02,000 --> 00:36:04,000
+If it works
+
+786
+00:36:04,000 --> 00:36:05,000
+对啊
+
+787
+00:36:05,000 --> 00:36:07,000
+Don't replace it
+
+788
+00:36:08,000 --> 00:36:09,000
+就是
+
+789
+00:36:10,000 --> 00:36:13,000
+但这也导致现在各种安全问题
+
+790
+00:36:13,000 --> 00:36:13,000
+特别是
+
+791
+00:36:14,000 --> 00:36:16,000
+越来越多的设备联网之后
+
+792
+00:36:16,000 --> 00:36:17,000
+有一台
+
+793
+00:36:17,000 --> 00:36:18,000
+比如你整个
+
+794
+00:36:18,000 --> 00:36:19,000
+假设你整个局域网内
+
+795
+00:36:20,000 --> 00:36:21,000
+就只有一台 XP
+
+796
+00:36:22,000 --> 00:36:23,000
+然后它中了
+
+797
+00:36:23,000 --> 00:36:25,000
+其实也会影响你局域内的网的安全
+
+798
+00:36:26,000 --> 00:36:27,000
+是
+
+799
+00:36:28,000 --> 00:36:29,000
+这也是一个需要
+
+800
+00:36:29,000 --> 00:36:30,000
+解决的问题吧
+
+801
+00:36:30,000 --> 00:36:31,000
+我觉得
+
+802
+00:36:32,000 --> 00:36:32,000
+对
+
+803
+00:36:33,000 --> 00:36:34,000
+刚才说了它是一个
+
+804
+00:36:34,000 --> 00:36:35,000
+这个叫做什么
+
+805
+00:36:35,000 --> 00:36:36,000
+Wanna cry
+
+806
+00:36:37,000 --> 00:36:37,000
+想哭吗
+
+807
+00:36:38,000 --> 00:36:39,000
+我给他翻译个中文名
+
+808
+00:36:40,000 --> 00:36:40,000
+叫
+
+809
+00:36:40,000 --> 00:36:41,000
+想哭
+
+810
+00:36:41,000 --> 00:36:43,000
+是一个这个勒索软件
+
+811
+00:36:43,000 --> 00:36:45,000
+就是它是把你的文件加密
+
+812
+00:36:45,000 --> 00:36:46,000
+然后不告诉你这个密码
+
+813
+00:36:46,000 --> 00:36:48,000
+你付了钱之后它会告诉你
+
+814
+00:36:48,000 --> 00:36:50,000
+所以比较好奇的一个问题是
+
+815
+00:36:50,000 --> 00:36:51,000
+如果你付了钱它会告诉你
+
+816
+00:36:51,000 --> 00:36:52,000
+它会帮你解密吗
+
+817
+00:36:54,000 --> 00:36:55,000
+这个
+
+818
+00:36:55,000 --> 00:36:57,000
+我觉得就是
+
+819
+00:36:58,000 --> 00:37:00,000
+完全在于这个作者的 mercy
+
+820
+00:37:01,000 --> 00:37:01,000
+就这个
+
+821
+00:37:01,000 --> 00:37:03,000
+就是其实跟人质绑架一样
+
+822
+00:37:03,000 --> 00:37:04,000
+到底撕不撕票是吧
+
+823
+00:37:05,000 --> 00:37:06,000
+给了钱之后到底撕不撕票
+
+824
+00:37:07,000 --> 00:37:09,000
+对 Ransom 这个词
+
+825
+00:37:09,000 --> 00:37:10,000
+其实非常非常贴切的
+
+826
+00:37:10,000 --> 00:37:10,000
+就是
+
+827
+00:37:11,000 --> 00:37:11,000
+你
+
+828
+00:37:12,000 --> 00:37:13,000
+他撕票你也没什么
+
+829
+00:37:13,000 --> 00:37:15,000
+就他死活不联系你
+
+830
+00:37:15,000 --> 00:37:16,000
+你也没有任何
+
+831
+00:37:16,000 --> 00:37:17,000
+就纯单向的一个
+
+832
+00:37:19,000 --> 00:37:19,000
+对
+
+833
+00:37:19,000 --> 00:37:21,000
+你只能选择相信他
+
+834
+00:37:21,000 --> 00:37:22,000
+或者是
+
+835
+00:37:22,000 --> 00:37:23,000
+或者丢失你所有的文件
+
+836
+00:37:23,000 --> 00:37:25,000
+这也是一个比较有意思的问题
+
+837
+00:37:25,000 --> 00:37:26,000
+因为那个这种勒索软件
+
+838
+00:37:26,000 --> 00:37:28,000
+其实这个 wantacraft
+
+839
+00:37:28,000 --> 00:37:29,000
+它不是第一次了
+
+840
+00:37:29,000 --> 00:37:31,000
+就是之前也出现过两三次
+
+841
+00:37:31,000 --> 00:37:33,000
+比较大个模的这种 Ransom 软件
+
+842
+00:37:33,000 --> 00:37:34,000
+当时就出现过
+
+843
+00:37:34,000 --> 00:37:35,000
+这么一个很搞笑的事情
+
+844
+00:37:35,000 --> 00:37:36,000
+就是
+
+845
+00:37:36,000 --> 00:37:37,000
+有一波
+
+846
+00:37:39,000 --> 00:37:40,000
+叫什么
+
+847
+00:37:40,000 --> 00:37:41,000
+讲规则的
+
+848
+00:37:42,000 --> 00:37:43,000
+Ransom 软件的作者
+
+849
+00:37:44,000 --> 00:37:46,000
+去针对不讲规则的那波
+
+850
+00:37:46,000 --> 00:37:47,000
+就说
+
+851
+00:37:47,000 --> 00:37:48,000
+哎你们不要乱搞
+
+852
+00:37:48,000 --> 00:37:48,000
+你们这种
+
+853
+00:37:48,000 --> 00:37:51,000
+收了钱又不给人家解密的心
+
+854
+00:37:51,000 --> 00:37:52,000
+就破坏了整个行业规则了
+
+855
+00:37:53,000 --> 00:37:54,000
+不守江湖规矩
+
+856
+00:37:54,000 --> 00:37:55,000
+不讲有道理
+
+857
+00:37:55,000 --> 00:37:57,000
+那以后谁还相信我们这个东西对吧
+
+858
+00:37:58,000 --> 00:37:58,000
+对
+
+859
+00:37:58,000 --> 00:38:00,000
+所以我也挺好奇
+
+860
+00:38:00,000 --> 00:38:01,000
+所以这次 wantacraft
+
+861
+00:38:01,000 --> 00:38:03,000
+到底是讲道理的
+
+862
+00:38:07,000 --> 00:38:08,000
+的恶意软件呢
+
+863
+00:38:08,000 --> 00:38:09,000
+还是不讲道理的恶意软件
+
+864
+00:38:10,000 --> 00:38:11,000
+我应该去问问
+
+865
+00:38:11,000 --> 00:38:12,000
+到底有没有人付过钱
+
+866
+00:38:12,000 --> 00:38:13,000
+然后到底有没有
+
+867
+00:38:13,000 --> 00:38:14,000
+但不是说有
+
+868
+00:38:14,000 --> 00:38:15,000
+我说应该去找一找
+
+869
+00:38:15,000 --> 00:38:16,000
+有那个是
+
+870
+00:38:16,000 --> 00:38:16,000
+相应的报道
+
+871
+00:38:16,000 --> 00:38:18,000
+有个大的是银行还是电信运商
+
+872
+00:38:18,000 --> 00:38:19,000
+说要
+
+873
+00:38:19,000 --> 00:38:20,000
+已经决定要付钱了吗
+
+874
+00:38:20,000 --> 00:38:21,000
+然后不知道
+
+875
+00:38:21,000 --> 00:38:23,000
+银行有银行被感染吗
+
+876
+00:38:23,000 --> 00:38:25,000
+我一直以为期间为止
+
+877
+00:38:25,000 --> 00:38:27,000
+没有任何银行系统受到影响
+
+878
+00:38:27,000 --> 00:38:28,000
+那就那就是电信运营商吧
+
+879
+00:38:30,000 --> 00:38:31,000
+应该是电信运营商
+
+880
+00:38:31,000 --> 00:38:32,000
+他说已经不是说付了
+
+881
+00:38:32,000 --> 00:38:33,000
+我看是 60 万美元吧
+
+882
+00:38:33,000 --> 00:38:33,000
+说
+
+883
+00:38:34,000 --> 00:38:36,000
+他让机器来数台数
+
+884
+00:38:36,000 --> 00:38:39,000
+一台机器是 300 刀
+
+885
+00:38:39,000 --> 00:38:40,000
+或者是 5 个比特币
+
+886
+00:38:40,000 --> 00:38:41,000
+然后他说他要
+
+887
+00:38:42,000 --> 00:38:43,000
+60 万是多少
+
+888
+00:38:43,000 --> 00:38:43,000
+那是多少
+
+889
+00:38:43,000 --> 00:38:44,000
+他赖蛮多的
+
+890
+00:38:45,000 --> 00:38:46,000
+是
+
+891
+00:38:47,000 --> 00:38:47,000
+对
+
+892
+00:38:47,000 --> 00:38:48,000
+我就很好奇他付完之后
+
+893
+00:38:48,000 --> 00:38:50,000
+到底有没有解
+
+894
+00:38:50,000 --> 00:38:51,000
+有没有给他
+
+895
+00:38:51,000 --> 00:38:52,000
+恢复
+
+896
+00:38:53,000 --> 00:38:55,000
+我觉得现在风头有点太忘了
+
+897
+00:38:55,000 --> 00:38:58,000
+我觉得那个感觉也是有点
+
+898
+00:38:58,000 --> 00:38:58,000
+过头
+
+899
+00:38:58,000 --> 00:38:58,000
+就是
+
+900
+00:38:59,000 --> 00:39:01,000
+作者没想到会搞这么大吧
+
+901
+00:39:01,000 --> 00:39:01,000
+应该
+
+902
+00:39:04,000 --> 00:39:04,000
+对
+
+903
+00:39:04,000 --> 00:39:06,000
+而且其实从他的那个
+
+904
+00:39:06,000 --> 00:39:08,000
+Q-Switch 的机制来看
+
+905
+00:39:08,000 --> 00:39:10,000
+也许作者并不是特别的
+
+906
+00:39:12,000 --> 00:39:13,000
+有有预谋
+
+907
+00:39:15,000 --> 00:39:16,000
+我是这么感觉
+
+908
+00:39:16,000 --> 00:39:17,000
+我觉得是有预谋的
+
+909
+00:39:17,000 --> 00:39:18,000
+就做这个事情
+
+910
+00:39:18,000 --> 00:39:18,000
+肯定就有
+
+911
+00:39:18,000 --> 00:39:19,000
+只是说
+
+912
+00:39:19,000 --> 00:39:22,000
+他没有想要搅起这么大的阵仗
+
+913
+00:39:22,000 --> 00:39:22,000
+对
+
+914
+00:39:22,000 --> 00:39:24,000
+但是这个是已经就不受控制了
+
+915
+00:39:24,000 --> 00:39:28,000
+没想到 NSA 的武器级漏洞
+
+916
+00:39:28,000 --> 00:39:28,000
+这么牛逼
+
+917
+00:39:28,000 --> 00:39:31,000
+武器级漏洞工具这么牛逼
+
+918
+00:39:32,000 --> 00:39:33,000
+就搞这么大事情
+
+919
+00:39:33,000 --> 00:39:35,000
+现在我觉得他应该是不胜惶恐吧
+
+920
+00:39:35,000 --> 00:39:36,000
+因为
+
+921
+00:39:36,000 --> 00:39:37,000
+不小心放了个核弹
+
+922
+00:39:38,000 --> 00:39:40,000
+你现在就等于是成了全民公敌了
+
+923
+00:39:41,000 --> 00:39:42,000
+对
+
+924
+00:39:42,000 --> 00:39:42,000
+对吧
+
+925
+00:39:43,000 --> 00:39:44,000
+100 多个国家
+
+926
+00:39:44,000 --> 00:39:46,000
+那么多的重要的系统被你搞了
+
+927
+00:39:47,000 --> 00:39:49,000
+这次损失应该是上亿了
+
+928
+00:39:50,000 --> 00:39:51,000
+亿肯定是不止
+
+929
+00:39:53,000 --> 00:39:54,000
+然后
+
+930
+00:39:54,000 --> 00:39:56,000
+关键是这个影响特别恶劣
+
+931
+00:39:56,000 --> 00:39:56,000
+你知道吗
+
+932
+00:39:56,000 --> 00:39:57,000
+因为首先
+
+933
+00:39:57,000 --> 00:39:57,000
+第一个
+
+934
+00:39:57,000 --> 00:39:59,000
+它是一个所谓的武器级别漏洞
+
+935
+00:39:59,000 --> 00:40:01,000
+以前我们都是用的是什么
+
+936
+00:40:01,000 --> 00:40:02,000
+玩具级别的漏洞
+
+937
+00:40:02,000 --> 00:40:03,000
+大家搞搞就
+
+938
+00:40:03,000 --> 00:40:05,000
+玩具级别的漏洞
+
+939
+00:40:07,000 --> 00:40:07,000
+大家就睁一只眼
+
+940
+00:40:07,000 --> 00:40:08,000
+闭一只眼就完了
+
+941
+00:40:08,000 --> 00:40:09,000
+对吧
+
+942
+00:40:09,000 --> 00:40:10,000
+反正影响也不大
+
+943
+00:40:10,000 --> 00:40:11,000
+你最多就说你个人倒霉
+
+944
+00:40:11,000 --> 00:40:15,000
+或者你这家公司自己的安保措施没做好
+
+945
+00:40:15,000 --> 00:40:16,000
+被人搞了吧
+
+946
+00:40:16,000 --> 00:40:17,000
+那怪谁呢
+
+947
+00:40:17,000 --> 00:40:17,000
+对吧
+
+948
+00:40:17,000 --> 00:40:19,000
+那这回这个武器级别漏洞
+
+949
+00:40:19,000 --> 00:40:25,000
+很多企业和机构的安保措施
+
+950
+00:40:25,000 --> 00:40:25,000
+已经做得
+
+951
+00:40:25,000 --> 00:40:26,000
+已经还可以了
+
+952
+00:40:26,000 --> 00:40:28,000
+但是没想到你来了个这种
+
+953
+00:40:28,000 --> 00:40:31,000
+NSA 用于对付国家敌人的这种工具
+
+954
+00:40:31,000 --> 00:40:32,000
+你还搞我
+
+955
+00:40:33,000 --> 00:40:36,000
+毕竟你说你家里的一个门锁
+
+956
+00:40:36,000 --> 00:40:37,000
+你防个贼还可以
+
+957
+00:40:37,000 --> 00:40:38,000
+你防正规军怎么可能呢
+
+958
+00:40:38,000 --> 00:40:39,000
+对不对
+
+959
+00:40:40,000 --> 00:40:41,000
+是这样的
+
+960
+00:40:41,000 --> 00:40:44,000
+而且这次也让 NSA 处在重视之地
+
+961
+00:40:44,000 --> 00:40:44,000
+就是
+
+962
+00:40:45,000 --> 00:40:47,000
+为什么我国的
+
+963
+00:40:47,000 --> 00:40:49,000
+美国人会想说
+
+964
+00:40:49,000 --> 00:40:53,000
+为什么我国这么多军费拿来去搞 Cybertank
+
+965
+00:40:53,000 --> 00:40:57,000
+然后搞出这么一个屌炸天的武器
+
+966
+00:40:57,000 --> 00:41:00,000
+就这么莫名其妙被人利用了
+
+967
+00:41:00,000 --> 00:41:02,000
+就不能干点好事
+
+968
+00:41:03,000 --> 00:41:05,000
+所以所有的漏洞都是要堵住的
+
+969
+00:41:05,000 --> 00:41:06,000
+不要想着长着夜走
+
+970
+00:41:06,000 --> 00:41:09,000
+因为毕竟总是会有一天被人知道拿来用的
+
+971
+00:41:11,000 --> 00:41:12,000
+是
+
+972
+00:41:12,000 --> 00:41:16,000
+而且其实还是没有被堵住的漏洞
+
+973
+00:41:16,000 --> 00:41:17,000
+也许更多
+
+974
+00:41:17,000 --> 00:41:19,000
+就永远是没有被堵住的漏洞更多
+
+975
+00:41:19,000 --> 00:41:20,000
+这还只是第一波
+
+976
+00:41:20,000 --> 00:41:20,000
+你知道吗
+
+977
+00:41:20,000 --> 00:41:22,000
+因为那个线路的 NSA
+
+978
+00:41:22,000 --> 00:41:25,000
+那个武器库里面的那种漏洞
+
+979
+00:41:25,000 --> 00:41:27,000
+远不止这一个
+
+980
+00:41:27,000 --> 00:41:28,000
+对
+
+981
+00:41:28,000 --> 00:41:30,000
+所以现在基本上有一个
+
+982
+00:41:30,000 --> 00:41:34,000
+微软和 NSA 和黑客之间的竞赛
+
+983
+00:41:34,000 --> 00:41:35,000
+就看谁先把
+
+984
+00:41:37,000 --> 00:41:40,000
+是微软先把所有致命的漏洞堵上了
+
+985
+00:41:40,000 --> 00:41:44,000
+还是黑客先研发出来一个类似于 wanna cry 的东西
+
+986
+00:41:44,000 --> 00:41:46,000
+微软把漏洞堵上我觉得倒不是问题
+
+987
+00:41:46,000 --> 00:41:49,000
+因为它毕竟 NSA 的那个东西已经公开了
+
+988
+00:41:49,000 --> 00:41:51,000
+微软肯定也知道哪些系统是有问题
+
+989
+00:41:51,000 --> 00:41:52,000
+它肯定真是有那个
+
+990
+00:41:53,000 --> 00:41:53,000
+补丁的了
+
+991
+00:41:53,000 --> 00:41:55,000
+问题在于
+
+992
+00:41:55,000 --> 00:41:57,000
+Windows 安装的技术实在太大了
+
+993
+00:41:57,000 --> 00:41:58,000
+而且很多
+
+994
+00:41:58,000 --> 00:41:59,000
+就像刚才说的问题
+
+995
+00:41:59,000 --> 00:42:01,000
+有些系统你是没法升级的
+
+996
+00:42:01,000 --> 00:42:04,000
+就是那个 XP 的这种工工业控制的
+
+997
+00:42:04,000 --> 00:42:05,000
+或者什么设备监控的一些东西
+
+998
+00:42:06,000 --> 00:42:07,000
+你没办法去碰它
+
+999
+00:42:07,000 --> 00:42:08,000
+你没办法升级对吧
+
+1000
+00:42:08,000 --> 00:42:09,000
+那你还接着用
+
+1001
+00:42:09,000 --> 00:42:10,000
+那怎么办呢
+
+1002
+00:42:11,000 --> 00:42:12,000
+就好像打这个
+
+1003
+00:42:12,000 --> 00:42:15,000
+它好像什么一个 SARS 病毒来了
+
+1004
+00:42:15,000 --> 00:42:16,000
+你要去给所有人打疫苗一样
+
+1005
+00:42:16,000 --> 00:42:17,000
+它也需要时间嘛
+
+1006
+00:42:18,000 --> 00:42:20,000
+毕竟那个几十亿人对吧
+
+1007
+00:42:20,000 --> 00:42:21,000
+一个一个打一针
+
+1008
+00:42:21,000 --> 00:42:23,000
+那还得怎么也得小半年吧
+
+1009
+00:42:24,000 --> 00:42:27,000
+这个微软的那些补丁要强攻内打上
+
+1010
+00:42:27,000 --> 00:42:29,000
+我觉得也够悬
+
+1011
+00:42:29,000 --> 00:42:30,000
+所以
+
+1012
+00:42:30,000 --> 00:42:33,000
+我接下来还会应该还有几波搭的
+
+1013
+00:42:33,000 --> 00:42:34,000
+或者也不一定
+
+1014
+00:42:34,000 --> 00:42:36,000
+这次如果闹太大
+
+1015
+00:42:36,000 --> 00:42:37,000
+其他人就觉得我靠
+
+1016
+00:42:37,000 --> 00:42:38,000
+搞这么猛
+
+1017
+00:42:38,000 --> 00:42:39,000
+以后日子不好过
+
+1018
+00:42:39,000 --> 00:42:40,000
+要不要收手
+
+1019
+00:42:41,000 --> 00:42:42,000
+是
+
+1020
+00:42:42,000 --> 00:42:44,000
+也许会收敛一点
+
+1021
+00:42:44,000 --> 00:42:45,000
+而且最好能
+
+1022
+00:42:45,000 --> 00:42:47,000
+最好能把这个人抓出来
+
+1023
+00:42:47,000 --> 00:42:47,000
+就我觉得
+
+1024
+00:42:47,000 --> 00:42:49,000
+以示众的
+
+1025
+00:42:49,000 --> 00:42:51,000
+杀鸡儆猴
+
+1026
+00:42:51,000 --> 00:42:52,000
+对
+
+1027
+00:42:52,000 --> 00:42:54,000
+不然这个影响实在太恶劣了
+
+1028
+00:42:54,000 --> 00:42:56,000
+就如果让这样的人消消法外的话
+
+1029
+00:42:57,000 --> 00:42:58,000
+那什么
+
+1030
+00:42:58,000 --> 00:42:59,000
+其他的
+
+1031
+00:43:00,000 --> 00:43:03,000
+其他一些对于全球造成恶劣影响的
+
+1032
+00:43:03,000 --> 00:43:05,000
+好像在实体世界里面
+
+1033
+00:43:05,000 --> 00:43:08,000
+你能够对全球造成类似的恶劣影响
+
+1034
+00:43:09,000 --> 00:43:09,000
+就情流感
+
+1035
+00:43:09,000 --> 00:43:11,000
+相应击灭的恶影响
+
+1036
+00:43:11,000 --> 00:43:14,000
+好像就只有放什么
+
+1037
+00:43:14,000 --> 00:43:16,000
+在全球放什么感染人
+
+1038
+00:43:16,000 --> 00:43:17,000
+对
+
+1039
+00:43:17,000 --> 00:43:18,000
+所以 SARS 是比较严重
+
+1040
+00:43:18,000 --> 00:43:19,000
+然后后来就是情流感
+
+1041
+00:43:19,000 --> 00:43:21,000
+还有 N 1 H 1
+
+1042
+00:43:21,000 --> 00:43:23,000
+什么这一类的
+
+1043
+00:43:23,000 --> 00:43:26,000
+但至少这些事情都不是人为蓄意完成的
+
+1044
+00:43:26,000 --> 00:43:27,000
+但是
+
+1045
+00:43:31,000 --> 00:43:32,000
+不过这也有一个
+
+1046
+00:43:32,000 --> 00:43:33,000
+有个比较有意思的事情
+
+1047
+00:43:33,000 --> 00:43:34,000
+就是又
+
+1048
+00:43:34,000 --> 00:43:36,000
+我觉得其实真的用那个
+
+1049
+00:43:36,000 --> 00:43:38,000
+生物病毒研究方法去
+
+1050
+00:43:38,000 --> 00:43:40,000
+去考究这个计算机病毒
+
+1051
+00:43:40,000 --> 00:43:41,000
+还是挺有意思的
+
+1052
+00:43:41,000 --> 00:43:42,000
+有一个理论
+
+1053
+00:43:42,000 --> 00:43:43,000
+我觉得挺好玩的
+
+1054
+00:43:43,000 --> 00:43:46,000
+就是说那些什么流传到最广的病毒
+
+1055
+00:43:46,000 --> 00:43:49,000
+它都不是那种叫做一击致命的
+
+1056
+00:43:50,000 --> 00:43:50,000
+对是这样的
+
+1057
+00:43:50,000 --> 00:43:54,000
+就是有一个游戏叫 Virus INC
+
+1058
+00:43:54,000 --> 00:43:55,000
+应该是
+
+1059
+00:43:56,000 --> 00:43:57,000
+应该是叫这个名字吧
+
+1060
+00:43:57,000 --> 00:44:00,000
+就是你在游戏里面要研发一种病毒
+
+1061
+00:44:02,000 --> 00:44:04,000
+目的是尽可能的杀死尽量多的人
+
+1062
+00:44:05,000 --> 00:44:07,000
+来听起来好邪恶
+
+1063
+00:44:07,000 --> 00:44:07,000
+但是
+
+1064
+00:44:08,000 --> 00:44:10,000
+这个游戏一上来就会让你
+
+1065
+00:44:10,000 --> 00:44:12,000
+就是你玩几局之后
+
+1066
+00:44:12,000 --> 00:44:13,000
+会意识到一件事情就是
+
+1067
+00:44:13,000 --> 00:44:15,000
+不能杀太多是吧
+
+1068
+00:44:15,000 --> 00:44:15,000
+不是
+
+1069
+00:44:15,000 --> 00:44:16,000
+最致命的病毒
+
+1070
+00:44:16,000 --> 00:44:18,000
+并不是那些一上来发病
+
+1071
+00:44:18,000 --> 00:44:20,000
+立刻就让人死的病毒
+
+1072
+00:44:20,000 --> 00:44:21,000
+因为这样病毒
+
+1073
+00:44:21,000 --> 00:44:23,000
+反而传播的不是那么广泛
+
+1074
+00:44:23,000 --> 00:44:26,000
+然后你要感染尽量多的人
+
+1075
+00:44:26,000 --> 00:44:28,000
+症状尽量不明显
+
+1076
+00:44:28,000 --> 00:44:29,000
+潜伏期尽量长
+
+1077
+00:44:29,000 --> 00:44:30,000
+然后
+
+1078
+00:44:33,000 --> 00:44:36,000
+就先搞出一定的群众规模来
+
+1079
+00:44:36,000 --> 00:44:39,000
+然后再再再再再爆发
+
+1080
+00:44:39,000 --> 00:44:39,000
+这样会
+
+1081
+00:44:40,000 --> 00:44:43,000
+这样才会杀比较多的人
+
+1082
+00:44:43,000 --> 00:44:45,000
+所以这次基本上就这个病毒
+
+1083
+00:44:45,000 --> 00:44:48,000
+我觉得是符合了那个条件的
+
+1084
+00:44:48,000 --> 00:44:49,000
+对他做到这点
+
+1085
+00:44:49,000 --> 00:44:51,000
+他并不是一个非常猛烈的病毒
+
+1086
+00:44:51,000 --> 00:44:52,000
+他是
+
+1087
+00:44:54,000 --> 00:44:55,000
+他的效果非常好
+
+1088
+00:44:55,000 --> 00:44:57,000
+简直是核弹级别来吧
+
+1089
+00:44:58,000 --> 00:44:59,000
+这次还有一个
+
+1090
+00:44:59,000 --> 00:45:01,000
+我觉得留意到比较有意思的
+
+1091
+00:45:01,000 --> 00:45:01,000
+一个东西
+
+1092
+00:45:01,000 --> 00:45:04,000
+就是刚刚我们说这个病毒的正式名字
+
+1093
+00:45:04,000 --> 00:45:05,000
+叫做 Wana Crept
+
+1094
+00:45:07,000 --> 00:45:08,000
+要加密对吧
+
+1095
+00:45:08,000 --> 00:45:10,000
+但是你看我们说的 Wana Crept
+
+1096
+00:45:10,000 --> 00:45:11,000
+就变成了想哭
+
+1097
+00:45:12,000 --> 00:45:15,000
+但是我发现流传到国内之后
+
+1098
+00:45:15,000 --> 00:45:17,000
+或者说是在某一些这种
+
+1099
+00:45:17,000 --> 00:45:18,000
+场合里面
+
+1100
+00:45:18,000 --> 00:45:20,000
+大概把它叫成了叫做比特币病毒
+
+1101
+00:45:22,000 --> 00:45:24,000
+因为他的那个就是
+
+1102
+00:45:26,000 --> 00:45:27,000
+这个叫什么来着
+
+1103
+00:45:27,000 --> 00:45:27,000
+蜀精吧
+
+1104
+00:45:27,000 --> 00:45:28,000
+是不是叫蜀精
+
+1105
+00:45:29,000 --> 00:45:32,000
+我觉得主要是因为他那个界面上
+
+1106
+00:45:32,000 --> 00:45:34,000
+印着大喇喇那个 Bitcoin 的标志
+
+1107
+00:45:35,000 --> 00:45:36,000
+没错
+
+1108
+00:45:36,000 --> 00:45:38,000
+因为他的蜀精是要求你用比特币支付
+
+1109
+00:45:38,000 --> 00:45:40,000
+所以大家把它叫做比特币病毒
+
+1110
+00:45:40,000 --> 00:45:42,000
+让我不由的想到
+
+1111
+00:45:45,000 --> 00:45:47,000
+这个是不是推高了比特币这一波行情
+
+1112
+00:45:47,000 --> 00:45:48,000
+那么多人要去买
+
+1113
+00:45:48,000 --> 00:45:51,000
+比特币现在已经被炒到一个非常高的
+
+1114
+00:45:51,000 --> 00:45:54,000
+已经人民币已经一万一千几了吧
+
+1115
+00:45:54,000 --> 00:45:55,000
+好像是
+
+1116
+00:45:55,000 --> 00:45:55,000
+对
+
+1117
+00:45:56,000 --> 00:45:59,000
+我以前有过 0.5 的比特币的
+
+1118
+00:45:59,000 --> 00:46:00,000
+在比特币当初买的时候
+
+1119
+00:46:00,000 --> 00:46:02,000
+我去年三千多的时候买了
+
+1120
+00:46:02,000 --> 00:46:03,000
+六千多的时候卖了
+
+1121
+00:46:05,000 --> 00:46:07,000
+感觉错过了一波这个什么
+
+1122
+00:46:08,000 --> 00:46:10,000
+白手空手套把揽的机会
+
+1123
+00:46:11,000 --> 00:46:12,000
+是
+
+1124
+00:46:12,000 --> 00:46:13,000
+一夜抱负的机会
+
+1125
+00:46:15,000 --> 00:46:18,000
+你 0.5 个比特币现在也要得五千多块钱了
+
+1126
+00:46:19,000 --> 00:46:19,000
+没有
+
+1127
+00:46:19,000 --> 00:46:24,000
+我那个 VV 在我当时任职的那家公司的电脑里面
+
+1128
+00:46:24,000 --> 00:46:26,000
+然后就当时挖出来比较容易
+
+1129
+00:46:26,000 --> 00:46:28,000
+就一个同事挖出来了
+
+1130
+00:46:28,000 --> 00:46:29,000
+给了我半个
+
+1131
+00:46:29,000 --> 00:46:32,000
+然后我离职的时候忘了把它烤走
+
+1132
+00:46:33,000 --> 00:46:33,000
+好吧
+
+1133
+00:46:33,000 --> 00:46:35,000
+你怎么跟他永远的说再见
+
+1134
+00:46:36,000 --> 00:46:36,000
+是的
+
+1135
+00:46:39,000 --> 00:46:41,000
+然后为什么就说
+
+1136
+00:46:41,000 --> 00:46:42,000
+有一个比较有意思的话题
+
+1137
+00:46:42,000 --> 00:46:43,000
+就是为什么这些熟机软
+
+1138
+00:46:43,000 --> 00:46:45,000
+叫什么勒索软件
+
+1139
+00:46:45,000 --> 00:46:47,000
+都是用比特币作为支付手段
+
+1140
+00:46:47,000 --> 00:46:50,000
+就是老是说比特币是一个匿名的
+
+1141
+00:46:50,000 --> 00:46:51,000
+这个没错
+
+1142
+00:46:52,000 --> 00:46:55,000
+不可追溯这个我觉得其实是代考的
+
+1143
+00:46:55,000 --> 00:46:57,000
+因为比特币是用区块链技术
+
+1144
+00:46:57,000 --> 00:46:59,000
+区块链是完全可追溯的
+
+1145
+00:47:00,000 --> 00:47:02,000
+区块链的可追溯
+
+1146
+00:47:02,000 --> 00:47:06,000
+我的理解是它是它追溯的意义是让你可以验证
+
+1147
+00:47:06,000 --> 00:47:08,000
+但是你追溯的时候
+
+1148
+00:47:08,000 --> 00:47:10,000
+并不会知道每一个区块链的位置
+
+1149
+00:47:11,000 --> 00:47:12,000
+不是它是可以
+
+1150
+00:47:12,000 --> 00:47:13,000
+就是理论上你是可以
+
+1151
+00:47:13,000 --> 00:47:15,000
+查到每一个
+
+1152
+00:47:15,000 --> 00:47:16,000
+你收到的每一个比特币
+
+1153
+00:47:16,000 --> 00:47:18,000
+或者比特币部分
+
+1154
+00:47:18,000 --> 00:47:19,000
+是谁付给你的
+
+1155
+00:47:19,000 --> 00:47:21,000
+这个网络关系是存在于
+
+1156
+00:47:21,000 --> 00:47:23,000
+那个整个区块链里面的
+
+1157
+00:47:24,000 --> 00:47:25,000
+但是这个是谁
+
+1158
+00:47:25,000 --> 00:47:27,000
+它对应的仅仅是一个钱包而已
+
+1159
+00:47:27,000 --> 00:47:28,000
+对没错
+
+1160
+00:47:28,000 --> 00:47:29,000
+你可以追溯说
+
+1161
+00:47:29,000 --> 00:47:30,000
+你可以追溯说
+
+1162
+00:47:30,000 --> 00:47:33,000
+这个比特币都历经过哪些钱包
+
+1163
+00:47:33,000 --> 00:47:33,000
+没错
+
+1164
+00:47:33,000 --> 00:47:37,000
+但是钱包本身是不具有任何
+
+1165
+00:47:37,000 --> 00:47:41,000
+它不和一个真实社会中的一个身份绑定
+
+1166
+00:47:41,000 --> 00:47:42,000
+这个是没有问题的
+
+1167
+00:47:42,000 --> 00:47:45,000
+但是它不和一台物理上的
+
+1168
+00:47:46,000 --> 00:47:49,000
+钱包本身并不含有物理计算机的物理信息
+
+1169
+00:47:49,000 --> 00:47:49,000
+没错
+
+1170
+00:47:49,000 --> 00:47:52,000
+然后交易过程也不会记录下来
+
+1171
+00:47:52,000 --> 00:47:53,000
+这台电脑到底在哪
+
+1172
+00:47:53,000 --> 00:47:55,000
+或者是 IP 是什么
+
+1173
+00:47:55,000 --> 00:47:57,000
+对都不含这些信息的
+
+1174
+00:47:57,000 --> 00:47:59,000
+但是你比特币总要花的
+
+1175
+00:47:59,000 --> 00:48:01,000
+对吧
+
+1176
+00:48:03,000 --> 00:48:04,000
+就你花的时候
+
+1177
+00:48:04,000 --> 00:48:06,000
+总是要有一个地方去和
+
+1178
+00:48:06,000 --> 00:48:08,000
+比特币之外的另外一种资产发生兑换
+
+1179
+00:48:09,000 --> 00:48:11,000
+不管是这个美元欧元
+
+1180
+00:48:11,000 --> 00:48:12,000
+还是什么人民币也好
+
+1181
+00:48:12,000 --> 00:48:12,000
+对吧
+
+1182
+00:48:12,000 --> 00:48:14,000
+你总是要发生一个兑换的
+
+1183
+00:48:14,000 --> 00:48:15,000
+那个时候就会和
+
+1184
+00:48:15,000 --> 00:48:17,000
+因为物理世界所谓的法币
+
+1185
+00:48:18,000 --> 00:48:20,000
+就是这些现实中的钱
+
+1186
+00:48:20,000 --> 00:48:24,000
+是有这个跟身份绑定的一个机制的
+
+1187
+00:48:25,000 --> 00:48:25,000
+就总会总
+
+1188
+00:48:25,000 --> 00:48:27,000
+因为现在金融系统已经足够发达
+
+1189
+00:48:27,000 --> 00:48:29,000
+就返洗钱的那些工具
+
+1190
+00:48:29,000 --> 00:48:30,000
+已经做得足够发达
+
+1191
+00:48:30,000 --> 00:48:32,000
+你总是会查到
+
+1192
+00:48:32,000 --> 00:48:35,000
+最终比特币的钱花到哪里去了吗
+
+1193
+00:48:36,000 --> 00:48:38,000
+我能想象的就是在
+
+1194
+00:48:39,000 --> 00:48:41,000
+Deep Net 上面花掉
+
+1195
+00:48:42,000 --> 00:48:43,000
+在深网上
+
+1196
+00:48:43,000 --> 00:48:45,000
+而且你不一定要把它
+
+1197
+00:48:45,000 --> 00:48:47,000
+换成实际货币
+
+1198
+00:48:47,000 --> 00:48:49,000
+是一个非常简单直接的思路
+
+1199
+00:48:49,000 --> 00:48:50,000
+但是
+
+1200
+00:48:50,000 --> 00:48:52,000
+就不要换成法币换成东西
+
+1201
+00:48:52,000 --> 00:48:54,000
+我买个什么毒品之类的
+
+1202
+00:48:54,000 --> 00:48:55,000
+对你去买东西
+
+1203
+00:48:55,000 --> 00:48:56,000
+然后把东西卖掉
+
+1204
+00:48:56,000 --> 00:48:57,000
+OK
+
+1205
+00:48:57,000 --> 00:48:58,000
+那这个还差不多
+
+1206
+00:48:58,000 --> 00:48:59,000
+就这是一个思路
+
+1207
+00:49:00,000 --> 00:49:01,000
+其实跟嚣张一样
+
+1208
+00:49:04,000 --> 00:49:06,000
+我觉得愿意做的话
+
+1209
+00:49:06,000 --> 00:49:06,000
+还是可以做出来了
+
+1210
+00:49:06,000 --> 00:49:08,000
+只要你足够小心
+
+1211
+00:49:08,000 --> 00:49:09,000
+还是可以做
+
+1212
+00:49:09,000 --> 00:49:11,000
+我们为什么在研究这个问题
+
+1213
+00:49:12,000 --> 00:49:16,000
+我觉得完美犯罪这个概念还是
+
+1214
+00:49:17,000 --> 00:49:18,000
+还是挺有意思的
+
+1215
+00:49:18,000 --> 00:49:19,000
+就是你会意识到
+
+1216
+00:49:19,000 --> 00:49:21,000
+这个世界上不是天网灰灰
+
+1217
+00:49:21,000 --> 00:49:22,000
+说而不漏的
+
+1218
+00:49:23,000 --> 00:49:24,000
+总有很多孔的
+
+1219
+00:49:24,000 --> 00:49:26,000
+漏洞大了好吗
+
+1220
+00:49:27,000 --> 00:49:31,000
+这个社会总是想要向我们施加一个
+
+1221
+00:49:31,000 --> 00:49:33,000
+当然这也是正常的
+
+1222
+00:49:33,000 --> 00:49:34,000
+施加一个概念就是
+
+1223
+00:49:34,000 --> 00:49:35,000
+不要做坏事
+
+1224
+00:49:35,000 --> 00:49:36,000
+做坏事必然会受到惩罚的
+
+1225
+00:49:36,000 --> 00:49:38,000
+但是世界上做坏事
+
+1226
+00:49:38,000 --> 00:49:39,000
+没有受到惩罚的人
+
+1227
+00:49:39,000 --> 00:49:39,000
+多了去了
+
+1228
+00:49:39,000 --> 00:49:40,000
+我觉得太多了
+
+1229
+00:49:40,000 --> 00:49:41,000
+对
+
+1230
+00:49:42,000 --> 00:49:43,000
+怎么那个 DP Cooper
+
+1231
+00:49:43,000 --> 00:49:44,000
+现在还没找到是谁是吧
+
+1232
+00:49:45,000 --> 00:49:46,000
+对
+
+1233
+00:49:47,000 --> 00:49:48,000
+好了扯远了
+
+1234
+00:49:48,000 --> 00:49:50,000
+说回这个 wonder crap
+
+1235
+00:49:51,000 --> 00:49:52,000
+想哭吗
+
+1236
+00:49:52,000 --> 00:49:53,000
+这个病毒
+
+1237
+00:49:54,000 --> 00:49:57,000
+如果中了的话已经没什么救了
+
+1238
+00:49:57,000 --> 00:49:57,000
+对吧
+
+1239
+00:49:57,000 --> 00:49:59,000
+我们讨论一下
+
+1240
+00:50:00,000 --> 00:50:01,000
+在没中之前
+
+1241
+00:50:01,000 --> 00:50:04,000
+你平时应该保持一些什么良好的
+
+1242
+00:50:04,000 --> 00:50:05,000
+卫生习惯
+
+1243
+00:50:06,000 --> 00:50:07,000
+勤洗手
+
+1244
+00:50:07,000 --> 00:50:08,000
+勤洗手
+
+1245
+00:50:08,000 --> 00:50:09,000
+勤打补丁
+
+1246
+00:50:09,000 --> 00:50:12,000
+摸键盘之前和变后一定要洗手
+
+1247
+00:50:14,000 --> 00:50:16,000
+要戴口罩使用电脑
+
+1248
+00:50:16,000 --> 00:50:17,000
+防止空气传播
+
+1249
+00:50:19,000 --> 00:50:19,000
+对
+
+1250
+00:50:19,000 --> 00:50:20,000
+要用那个
+
+1251
+00:50:20,000 --> 00:50:21,000
+我看网上说什么
+
+1252
+00:50:22,000 --> 00:50:24,000
+要用板蓝根充气放在机箱旁边
+
+1253
+00:50:24,000 --> 00:50:26,000
+用那个蒸汽熏熏
+
+1254
+00:50:26,000 --> 00:50:28,000
+这样比较不容易感染
+
+1255
+00:50:32,000 --> 00:50:33,000
+对
+
+1256
+00:50:33,000 --> 00:50:35,000
+打最新的补丁肯定是正确的
+
+1257
+00:50:36,000 --> 00:50:36,000
+对
+
+1258
+00:50:36,000 --> 00:50:37,000
+就不要用盗版
+
+1259
+00:50:37,000 --> 00:50:38,000
+勤打补丁
+
+1260
+00:50:38,000 --> 00:50:39,000
+就是
+
+1261
+00:50:39,000 --> 00:50:40,000
+说到这个事情
+
+1262
+00:50:40,000 --> 00:50:41,000
+我觉得有一个比较有意思的事情
+
+1263
+00:50:41,000 --> 00:50:42,000
+要说一下
+
+1264
+00:50:43,000 --> 00:50:44,000
+就是你发现没有
+
+1265
+00:50:44,000 --> 00:50:45,000
+Windows 10 它虽然说
+
+1266
+00:50:47,000 --> 00:50:48,000
+不需要你
+
+1267
+00:50:49,000 --> 00:50:50,000
+不
+
+1268
+00:50:50,000 --> 00:50:52,000
+Windows 10 最开始有一年是免费的
+
+1269
+00:50:52,000 --> 00:50:52,000
+对不对
+
+1270
+00:50:52,000 --> 00:50:53,000
+就免费升级的
+
+1271
+00:50:54,000 --> 00:50:54,000
+对
+
+1272
+00:50:54,000 --> 00:50:55,000
+然后
+
+1273
+00:50:56,000 --> 00:50:57,000
+然后你装了之后
+
+1274
+00:50:58,000 --> 00:50:59,000
+就是
+
+1275
+00:50:59,000 --> 00:51:01,000
+它会让你激活
+
+1276
+00:51:02,000 --> 00:51:03,000
+但是我后来查了一下
+
+1277
+00:51:03,000 --> 00:51:05,000
+好像你不激活也不会怎么样
+
+1278
+00:51:06,000 --> 00:51:07,000
+是不激活也不会怎么样
+
+1279
+00:51:07,000 --> 00:51:08,000
+就以前
+
+1280
+00:51:08,000 --> 00:51:09,000
+只是会
+
+1281
+00:51:09,000 --> 00:51:10,000
+以前的
+
+1282
+00:51:10,000 --> 00:51:13,000
+Windows 10 之前的版本也有这么一个机子
+
+1283
+00:51:13,000 --> 00:51:14,000
+但是我觉得好像是不激活
+
+1284
+00:51:14,000 --> 00:51:15,000
+比如说过一个月之后
+
+1285
+00:51:15,000 --> 00:51:17,000
+它就会让你不能用的还是怎么样
+
+1286
+00:51:17,000 --> 00:51:18,000
+对吧
+
+1287
+00:51:18,000 --> 00:51:20,000
+比如说 Windows 7 好像就是这样子
+
+1288
+00:51:20,000 --> 00:51:21,000
+我印象也是的
+
+1289
+00:51:21,000 --> 00:51:23,000
+就是它会显示什么
+
+1290
+00:51:24,000 --> 00:51:27,000
+好像最恶心的一个是
+
+1291
+00:51:27,000 --> 00:51:28,000
+定时重启吗
+
+1292
+00:51:28,000 --> 00:51:29,000
+对
+
+1293
+00:51:29,000 --> 00:51:29,000
+不是
+
+1294
+00:51:29,000 --> 00:51:30,000
+倒计时告诉你说
+
+1295
+00:51:30,000 --> 00:51:31,000
+还有几天你的 Windows 就不能用了
+
+1296
+00:51:32,000 --> 00:51:33,000
+对
+
+1297
+00:51:34,000 --> 00:51:36,000
+就作为一个正常的收费软件
+
+1298
+00:51:36,000 --> 00:51:37,000
+我觉得这样没什么问题
+
+1299
+00:51:37,000 --> 00:51:38,000
+但是后来我觉得
+
+1300
+00:51:38,000 --> 00:51:39,000
+我感觉
+
+1301
+00:51:39,000 --> 00:51:40,000
+我想意识到
+
+1302
+00:51:41,000 --> 00:51:43,000
+它的存在的价值
+
+1303
+00:51:43,000 --> 00:51:44,000
+Windows 10 的价值就在于
+
+1304
+00:51:45,000 --> 00:51:46,000
+为了它能卖
+
+1305
+00:51:46,000 --> 00:51:49,000
+其上的 Office 和其他的一些服务
+
+1306
+00:51:49,000 --> 00:51:50,000
+所以 Windows 本身收费
+
+1307
+00:51:50,000 --> 00:51:53,000
+像 Windows 本身收费这件事情是有问题的
+
+1308
+00:51:54,000 --> 00:51:56,000
+所以 Windows 是推的时候搞了这么
+
+1309
+00:51:56,000 --> 00:51:58,000
+应该说随着时代的进展
+
+1310
+00:51:58,000 --> 00:52:02,000
+Windows 收费的基础变得越来越薄弱
+
+1311
+00:52:02,000 --> 00:52:03,000
+对
+
+1312
+00:52:03,000 --> 00:52:03,000
+因为
+
+1313
+00:52:03,000 --> 00:52:04,000
+以前那个时代
+
+1314
+00:52:04,000 --> 00:52:06,000
+大家卖操作总是完全可以理解的
+
+1315
+00:52:06,000 --> 00:52:07,000
+因为
+
+1316
+00:52:09,000 --> 00:52:11,000
+毕竟还发生过
+
+1317
+00:52:11,000 --> 00:52:13,000
+什么 Windows 98 一发售
+
+1318
+00:52:13,000 --> 00:52:14,000
+Windows 95 一发售
+
+1319
+00:52:14,000 --> 00:52:16,000
+排了一夜的队跟满 iPhone 一样去玩
+
+1320
+00:52:17,000 --> 00:52:18,000
+事情
+
+1321
+00:52:19,000 --> 00:52:19,000
+对吧
+
+1322
+00:52:19,000 --> 00:52:22,000
+但是现在这个时代
+
+1323
+00:52:22,000 --> 00:52:24,000
+基本上很难有别的操作系统
+
+1324
+00:52:24,000 --> 00:52:25,000
+去撼动 Windows 的地位
+
+1325
+00:52:25,000 --> 00:52:29,000
+当时主要是有像 Chrome OS
+
+1326
+00:52:29,000 --> 00:52:31,000
+这些免费去发布
+
+1327
+00:52:31,000 --> 00:52:34,000
+然后如也是其实当时挺有压力的
+
+1328
+00:52:35,000 --> 00:52:35,000
+对
+
+1329
+00:52:36,000 --> 00:52:37,000
+我记得
+
+1330
+00:52:37,000 --> 00:52:39,000
+就是你其实你仔细想想过去 10 年
+
+1331
+00:52:39,000 --> 00:52:41,000
+就 10 年之前我们会觉得
+
+1332
+00:52:41,000 --> 00:52:43,000
+操作系统和
+
+1333
+00:52:43,000 --> 00:52:46,000
+开发工具要收费是非常正常的
+
+1334
+00:52:46,000 --> 00:52:48,000
+理所当然
+
+1335
+00:52:48,000 --> 00:52:50,000
+但是现在好像会觉得
+
+1336
+00:52:50,000 --> 00:52:50,000
+我靠
+
+1337
+00:52:50,000 --> 00:52:52,000
+开发工具还要收费
+
+1338
+00:52:52,000 --> 00:52:53,000
+那谁愿意给你开发
+
+1339
+00:52:53,000 --> 00:52:54,000
+对
+
+1340
+00:52:56,000 --> 00:52:57,000
+这时代变了
+
+1341
+00:52:57,000 --> 00:52:58,000
+市场发生了变化了
+
+1342
+00:52:58,000 --> 00:52:59,000
+就是竞争的点
+
+1343
+00:52:59,000 --> 00:53:02,000
+已经不在底层了
+
+1344
+00:53:02,000 --> 00:53:02,000
+我觉得
+
+1345
+00:53:02,000 --> 00:53:06,000
+这也算是产业升级的一个表现
+
+1346
+00:53:06,000 --> 00:53:09,000
+就是基础平台的这一块竞争
+
+1347
+00:53:09,000 --> 00:53:11,000
+基本上已经尘埃落定了
+
+1348
+00:53:11,000 --> 00:53:11,000
+所以
+
+1349
+00:53:12,000 --> 00:53:13,000
+接下来竞争的就是
+
+1350
+00:53:13,000 --> 00:53:15,000
+在这上面的附加价值
+
+1351
+00:53:15,000 --> 00:53:15,000
+对
+
+1352
+00:53:15,000 --> 00:53:16,000
+没错
+
+1353
+00:53:17,000 --> 00:53:18,000
+anyway 说回这个点
+
+1354
+00:53:18,000 --> 00:53:20,000
+就是说 Windows 10
+
+1355
+00:53:20,000 --> 00:53:21,000
+你们其实可以不用盗版的
+
+1356
+00:53:21,000 --> 00:53:23,000
+你们就装正版
+
+1357
+00:53:23,000 --> 00:53:24,000
+然后不激活
+
+1358
+00:53:24,000 --> 00:53:25,000
+不花钱
+
+1359
+00:53:25,000 --> 00:53:26,000
+也除了美观
+
+1360
+00:53:26,000 --> 00:53:28,000
+好像说是不能换壁纸
+
+1361
+00:53:28,000 --> 00:53:28,000
+我记得
+
+1362
+00:53:28,000 --> 00:53:29,000
+还是说有什么办法可以绕开
+
+1363
+00:53:29,000 --> 00:53:32,000
+一般桌面会显示一行字
+
+1364
+00:53:32,000 --> 00:53:33,000
+让你激活这个东西
+
+1365
+00:53:33,000 --> 00:53:34,000
+但是不影响使用
+
+1366
+00:53:34,000 --> 00:53:35,000
+对吧
+
+1367
+00:53:36,000 --> 00:53:37,000
+你就用正版
+
+1368
+00:53:37,000 --> 00:53:40,000
+用官方的升级补丁
+
+1369
+00:53:40,000 --> 00:53:41,000
+对吧
+
+1370
+00:53:41,000 --> 00:53:43,000
+不要再有什么各种
+
+1371
+00:53:43,000 --> 00:53:45,000
+国内的各种什么管家
+
+1372
+00:53:45,000 --> 00:53:46,000
+各种数字号的
+
+1373
+00:53:46,000 --> 00:53:49,000
+各种动物的那些
+
+1374
+00:53:50,000 --> 00:53:51,000
+那些什么软件
+
+1375
+00:53:51,000 --> 00:53:51,000
+就这很烦
+
+1376
+00:53:51,000 --> 00:53:52,000
+你知道吗
+
+1377
+00:53:52,000 --> 00:53:53,000
+我们现在看每一个
+
+1378
+00:53:53,000 --> 00:53:57,000
+就是周边用 Windows 人的桌面上
+
+1379
+00:53:57,000 --> 00:53:59,000
+都有一个小悬浮器窗
+
+1380
+00:53:59,000 --> 00:54:01,000
+这样你弄一下
+
+1381
+00:54:02,000 --> 00:54:04,000
+就不点击批评哪一家了
+
+1382
+00:54:06,000 --> 00:54:07,000
+这什么
+
+1383
+00:54:07,000 --> 00:54:08,000
+为什么
+
+1384
+00:54:09,000 --> 00:54:11,000
+大家都是这样的
+
+1385
+00:54:11,000 --> 00:54:12,000
+这就是为什么
+
+1386
+00:54:13,000 --> 00:54:14,000
+大家都在吃屎
+
+1387
+00:54:14,000 --> 00:54:15,000
+所以要吃屎
+
+1388
+00:54:15,000 --> 00:54:15,000
+对吧
+
+1389
+00:54:16,000 --> 00:54:16,000
+对
+
+1390
+00:54:16,000 --> 00:54:18,000
+我觉得就是这样的心理
+
+1391
+00:54:19,000 --> 00:54:20,000
+然后这次
+
+1392
+00:54:20,000 --> 00:54:22,000
+当然因为是 Windows 系统的一个漏洞
+
+1393
+00:54:22,000 --> 00:54:24,000
+那理所当然
+
+1394
+00:54:24,000 --> 00:54:25,000
+如果你不是用的 Windows
+
+1395
+00:54:25,000 --> 00:54:26,000
+你就兴免于难了
+
+1396
+00:54:26,000 --> 00:54:28,000
+比如说像我们这种 Mac 用户
+
+1397
+00:54:28,000 --> 00:54:29,000
+就没什么事
+
+1398
+00:54:30,000 --> 00:54:30,000
+对吧
+
+1399
+00:54:30,000 --> 00:54:31,000
+对
+
+1400
+00:54:31,000 --> 00:54:32,000
+所以 Mac 用户这一次
+
+1401
+00:54:32,000 --> 00:54:33,000
+基本上是暴力堪认了
+
+1402
+00:54:34,000 --> 00:54:35,000
+但是
+
+1403
+00:54:35,000 --> 00:54:38,000
+但是 Mac 并不是没有 Ransom Y 的
+
+1404
+00:54:38,000 --> 00:54:39,000
+Mac 并不是没有 Ransom Y
+
+1405
+00:54:39,000 --> 00:54:41,000
+Mac 并不是没有 Ransom Y
+
+1406
+00:54:41,000 --> 00:54:42,000
+重要的事情说三遍
+
+1407
+00:54:44,000 --> 00:54:46,000
+去年年底和今年年初的时候
+
+1408
+00:54:46,000 --> 00:54:48,000
+都报过 Mac 上面的 Ransom Y
+
+1409
+00:54:48,000 --> 00:54:51,000
+有一个是通过 Biton 去传播的
+
+1410
+00:54:51,000 --> 00:54:52,000
+另外一个是
+
+1411
+00:54:53,000 --> 00:54:55,000
+我觉得是 Adobe 的 Premiere 之类的
+
+1412
+00:54:55,000 --> 00:54:56,000
+一个东西
+
+1413
+00:54:56,000 --> 00:55:00,000
+就是一个伪装成一个 Premiere 的 cracker
+
+1414
+00:55:00,000 --> 00:55:02,000
+然后只要你下载了
+
+1415
+00:55:03,000 --> 00:55:04,000
+它就会加密你的硬盘
+
+1416
+00:55:05,000 --> 00:55:07,000
+但是这些病毒都是属于比较短频快
+
+1417
+00:55:07,000 --> 00:55:08,000
+比较蠢的
+
+1418
+00:55:08,000 --> 00:55:08,000
+就是
+
+1419
+00:55:09,000 --> 00:55:10,000
+爆发力
+
+1420
+00:55:10,000 --> 00:55:11,000
+一上来就爆发了
+
+1421
+00:55:11,000 --> 00:55:13,000
+所以没有造成太大的影响
+
+1422
+00:55:14,000 --> 00:55:17,000
+而且他们的传播机制比较蠢
+
+1423
+00:55:17,000 --> 00:55:19,000
+就是你要去主动下载运行
+
+1424
+00:55:19,000 --> 00:55:21,000
+它才会中招
+
+1425
+00:55:21,000 --> 00:55:24,000
+当然部分也可以归功于 Mac 本身
+
+1426
+00:55:25,000 --> 00:55:30,000
+首先用 Mac 组成局域网的情况
+
+1427
+00:55:30,000 --> 00:55:30,000
+比较少
+
+1428
+00:55:30,000 --> 00:55:31,000
+比较不多
+
+1429
+00:55:31,000 --> 00:55:32,000
+现在开始多起来了
+
+1430
+00:55:32,000 --> 00:55:33,000
+比如说你看
+
+1431
+00:55:33,000 --> 00:55:35,000
+经过这两年老是在吹
+
+1432
+00:55:35,000 --> 00:55:39,000
+有多少全球 500 强的大公司
+
+1433
+00:55:39,000 --> 00:55:43,000
+在用他们几千台的系统
+
+1434
+00:55:43,000 --> 00:55:44,000
+就是说 IBM
+
+1435
+00:55:44,000 --> 00:55:46,000
+你得用几千台 Mac
+
+1436
+00:55:47,000 --> 00:55:53,000
+德国是不是有些科研机构会轻易买
+
+1437
+00:55:53,000 --> 00:55:54,000
+尤其是搞生物的
+
+1438
+00:55:54,000 --> 00:55:56,000
+反正我觉得至少有一点
+
+1439
+00:55:56,000 --> 00:55:57,000
+就是 Mac 这么贵
+
+1440
+00:55:57,000 --> 00:55:58,000
+性价比这么低
+
+1441
+00:55:58,000 --> 00:55:58,000
+对吧
+
+1442
+00:55:59,000 --> 00:56:02,000
+我觉得应该要大规模流行
+
+1443
+00:56:02,000 --> 00:56:03,000
+还是不太可能的
+
+1444
+00:56:03,000 --> 00:56:04,000
+然后刚才不是讲了
+
+1445
+00:56:04,000 --> 00:56:05,000
+病毒这种大规模爆发
+
+1446
+00:56:05,000 --> 00:56:08,000
+其实从病毒作者的角度
+
+1447
+00:56:08,000 --> 00:56:09,000
+他要考虑一个投入传输比
+
+1448
+00:56:09,000 --> 00:56:10,000
+我同样花
+
+1449
+00:56:10,000 --> 00:56:13,000
+我花同样的成本
+
+1450
+00:56:13,000 --> 00:56:16,000
+我去感染一个机数大 10 倍 20 倍的
+
+1451
+00:56:16,000 --> 00:56:18,000
+系统肯定是更划算的一个生意
+
+1452
+00:56:21,000 --> 00:56:25,000
+我觉得其实服务器市场也比较危险
+
+1453
+00:56:25,000 --> 00:56:28,000
+就是万一以后出一个像
+
+1454
+00:56:28,000 --> 00:56:30,000
+Linux 病毒是吧
+
+1455
+00:56:31,000 --> 00:56:33,000
+我意思是以后出一个像什么
+
+1456
+00:56:33,000 --> 00:56:35,000
+像 Hotbleed 那样的
+
+1457
+00:56:35,000 --> 00:56:39,000
+跨平台的基础库的漏洞的话
+
+1458
+00:56:39,000 --> 00:56:41,000
+然后这个漏洞可以被用来
+
+1459
+00:56:41,000 --> 00:56:44,000
+传播或者提前
+
+1460
+00:56:44,000 --> 00:56:47,000
+那么其实服务端被感染的
+
+1461
+00:56:47,000 --> 00:56:49,000
+这个后果也是相当严重
+
+1462
+00:56:49,000 --> 00:56:53,000
+其实服务端我现在其实还没有那么担心
+
+1463
+00:56:53,000 --> 00:56:55,000
+服务器其实整体来说安全性还是比
+
+1464
+00:56:55,000 --> 00:56:56,000
+桌面上都好多了
+
+1465
+00:56:56,000 --> 00:56:57,000
+而且关键是它的这个
+
+1466
+00:56:58,000 --> 00:57:01,000
+所谓最弱的内涵还是这个用户的
+
+1467
+00:57:01,000 --> 00:57:02,000
+个人卫生习惯
+
+1468
+00:57:02,000 --> 00:57:03,000
+对吧
+
+1469
+00:57:03,000 --> 00:57:05,000
+但是总体来说服务器的管理者的
+
+1470
+00:57:05,000 --> 00:57:07,000
+个人卫生习惯是有点高于这个
+
+1471
+00:57:07,000 --> 00:57:09,000
+普通用户的
+
+1472
+00:57:09,000 --> 00:57:11,000
+你不会在服务器上乱点乱整东西吗
+
+1473
+00:57:11,000 --> 00:57:12,000
+对吧
+
+1474
+00:57:12,000 --> 00:57:13,000
+至少在备份这一点上
+
+1475
+00:57:13,000 --> 00:57:14,000
+服务器肯定会出
+
+1476
+00:57:14,000 --> 00:57:18,000
+就是我担心的是它会造成一定量的
+
+1477
+00:57:19,000 --> 00:57:21,000
+就如果再来一次规模这么大的事情
+
+1478
+00:57:21,000 --> 00:57:24,000
+主要是在 Linux 世界的话
+
+1479
+00:57:24,000 --> 00:57:26,000
+我觉得可能
+
+1480
+00:57:26,000 --> 00:57:28,000
+日常生活是会受到影响
+
+1481
+00:57:28,000 --> 00:57:30,000
+就是当然我们这次
+
+1482
+00:57:30,000 --> 00:57:32,000
+可能在我在德国没有坐火车
+
+1483
+00:57:32,000 --> 00:57:33,000
+没感觉是吧
+
+1484
+00:57:33,000 --> 00:57:34,000
+基本上没有
+
+1485
+00:57:34,000 --> 00:57:37,000
+就觉得这是一件跟我
+
+1486
+00:57:37,000 --> 00:57:38,000
+可以置身事外的事情
+
+1487
+00:57:38,000 --> 00:57:41,000
+但是你想象一下如果
+
+1488
+00:57:42,000 --> 00:57:43,000
+银行系统挂了
+
+1489
+00:57:43,000 --> 00:57:44,000
+然后
+
+1490
+00:57:44,000 --> 00:57:46,000
+那就傻逼
+
+1491
+00:57:46,000 --> 00:57:48,000
+对然后什么日常的那些
+
+1492
+00:57:50,000 --> 00:57:53,000
+服务设施比如说做账的公司挂了
+
+1493
+00:57:54,000 --> 00:57:57,000
+那其实可能就发不出工资来了
+
+1494
+00:57:57,000 --> 00:57:58,000
+然后
+
+1495
+00:58:00,000 --> 00:58:01,000
+对我觉得
+
+1496
+00:58:01,000 --> 00:58:03,000
+如果这个爆发在服务端
+
+1497
+00:58:03,000 --> 00:58:05,000
+而不是桌面端世界的话
+
+1498
+00:58:05,000 --> 00:58:08,000
+那可能造成影响还会更大一点
+
+1499
+00:58:08,000 --> 00:58:09,000
+就我反而是担心的那种
+
+1500
+00:58:09,000 --> 00:58:11,000
+就是刚才不是讲了 IoT 吗
+
+1501
+00:58:11,000 --> 00:58:13,000
+或物联网这概念
+
+1502
+00:58:13,000 --> 00:58:15,000
+其实因为很多那现在越来越多的各种
+
+1503
+00:58:15,000 --> 00:58:16,000
+这种传感器控制设备
+
+1504
+00:58:16,000 --> 00:58:18,000
+而不是就是终端设备
+
+1505
+00:58:18,000 --> 00:58:21,000
+就不是它本身是有一个小电脑小芯片里面
+
+1506
+00:58:21,000 --> 00:58:22,000
+就是最简单
+
+1507
+00:58:22,000 --> 00:58:25,000
+你们家路由器算是这一类的设备吗
+
+1508
+00:58:25,000 --> 00:58:27,000
+它那种有一个漏洞被感染了
+
+1509
+00:58:27,000 --> 00:58:28,000
+就比较尴尬
+
+1510
+00:58:28,000 --> 00:58:30,000
+因为它
+
+1511
+00:58:30,000 --> 00:58:33,000
+就我所了解的大部分的这种 IoT 设备
+
+1512
+00:58:33,000 --> 00:58:34,000
+它都是属于
+
+1513
+00:58:36,000 --> 00:58:38,000
+同购大规模部署的情况比较多
+
+1514
+00:58:38,000 --> 00:58:39,000
+比如说你某一个 sensor
+
+1515
+00:58:39,000 --> 00:58:41,000
+你可能一部就几千上万个
+
+1516
+00:58:41,000 --> 00:58:42,000
+对
+
+1517
+00:58:42,000 --> 00:58:43,000
+然后它有一个漏洞
+
+1518
+00:58:43,000 --> 00:58:46,000
+它是会所有的 population 都会感染
+
+1519
+00:58:46,000 --> 00:58:48,000
+对就互联网上
+
+1520
+00:58:48,000 --> 00:58:49,000
+如有时候
+
+1521
+00:58:49,000 --> 00:58:52,000
+攻击者拿来发起 DDoS 的攻击的东西
+
+1522
+00:58:52,000 --> 00:58:53,000
+其实就是一个小小的路由器
+
+1523
+00:58:53,000 --> 00:58:56,000
+然后全都被感染了
+
+1524
+00:58:56,000 --> 00:58:59,000
+然后拿来集体做肉机去攻击某一台
+
+1525
+00:58:59,000 --> 00:59:00,000
+对
+
+1526
+00:59:00,000 --> 00:59:01,000
+目标机器
+
+1527
+00:59:01,000 --> 00:59:03,000
+就是因为这些东西
+
+1528
+00:59:03,000 --> 00:59:04,000
+如果有一个漏洞
+
+1529
+00:59:04,000 --> 00:59:05,000
+或者说如果有一个后门
+
+1530
+00:59:05,000 --> 00:59:07,000
+或者如果有一个默认口令的话
+
+1531
+00:59:07,000 --> 00:59:08,000
+那很有可能是
+
+1532
+00:59:09,000 --> 00:59:11,000
+可以成批成批的被利用了
+
+1533
+00:59:11,000 --> 00:59:14,000
+而且也许主人根本就不会知道
+
+1534
+00:59:14,000 --> 00:59:14,000
+对
+
+1535
+00:59:14,000 --> 00:59:16,000
+就是前段时间爆发的那个叫做 Mira
+
+1536
+00:59:16,000 --> 00:59:18,000
+那个 Botnet
+
+1537
+00:59:18,000 --> 00:59:20,000
+那个病毒一个僵尸网络
+
+1538
+00:59:20,000 --> 00:59:22,000
+就是通过感染的好像是刚刚感染
+
+1539
+00:59:22,000 --> 00:59:22,000
+摄像头吧
+
+1540
+00:59:22,000 --> 00:59:24,000
+就是那种智能摄像头
+
+1541
+00:59:24,000 --> 00:59:26,000
+因为摄像头它会布很多很多个
+
+1542
+00:59:26,000 --> 00:59:29,000
+比如说你一个商场可能不就要布几百上千个
+
+1543
+00:59:29,000 --> 00:59:30,000
+但是你随便感染同一型号
+
+1544
+00:59:30,000 --> 00:59:33,000
+它可能出口量是数百万计的
+
+1545
+00:59:33,000 --> 00:59:34,000
+这样就很夸张
+
+1546
+00:59:36,000 --> 00:59:36,000
+对
+
+1547
+00:59:37,000 --> 00:59:38,000
+anyway
+
+1548
+00:59:38,000 --> 00:59:43,000
+当然 Ransom 这个机制好像在 IoT 的时代
+
+1549
+00:59:43,000 --> 00:59:45,000
+并不是特别的容易去
+
+1550
+00:59:46,000 --> 00:59:47,000
+去变现
+
+1551
+00:59:47,000 --> 00:59:50,000
+IoT 主要还是靠做 DDoS 攻击
+
+1552
+00:59:50,000 --> 00:59:52,000
+然后卖那个
+
+1553
+00:59:52,000 --> 00:59:54,000
+就它的 Ransom 是流量攻击
+
+1554
+00:59:54,000 --> 00:59:54,000
+就是说你不缴钱
+
+1555
+00:59:54,000 --> 00:59:56,000
+我就不停的打你
+
+1556
+00:59:56,000 --> 00:59:57,000
+就是它的 Ransom 的方式不一样
+
+1557
+00:59:57,000 --> 01:00:01,000
+就我们这次这个 WannaCry 的 Ransom 方式
+
+1558
+01:00:01,000 --> 01:00:04,000
+它是把你的重要的资料加密
+
+1559
+01:00:04,000 --> 01:00:06,000
+然后不告诉你解密的方式
+
+1560
+01:00:07,000 --> 01:00:09,000
+从而胁迫你
+
+1561
+01:00:09,000 --> 01:00:11,000
+这个是传统意义上的绑架
+
+1562
+01:00:11,000 --> 01:00:14,000
+因为它拿了你一个你觉得很珍贵的东西
+
+1563
+01:00:14,000 --> 01:00:15,000
+然后你必须要付钱它才还给你
+
+1564
+01:00:16,000 --> 01:00:18,000
+然后像 Mira 那种
+
+1565
+01:00:18,000 --> 01:00:22,000
+它是属于一个简单的暴力威胁的形式
+
+1566
+01:00:22,000 --> 01:00:24,000
+它基本上是明火之杖
+
+1567
+01:00:24,000 --> 01:00:27,000
+它就属于这种街边你在这开店
+
+1568
+01:00:27,000 --> 01:00:29,000
+开这些好的过来一会流氓说
+
+1569
+01:00:29,000 --> 01:00:30,000
+给钱不给钱打你
+
+1570
+01:00:30,000 --> 01:00:31,000
+对这个应该先勒索
+
+1571
+01:00:31,000 --> 01:00:32,000
+对不给钱打你对吧
+
+1572
+01:00:32,000 --> 01:00:34,000
+他们都是 Ransom 1
+
+1573
+01:00:34,000 --> 01:00:35,000
+只是表现的形态不太一样而已
+
+1574
+01:00:39,000 --> 01:00:42,000
+这次 Ransom 1 里面一个
+
+1575
+01:00:42,000 --> 01:00:43,000
+怎么说
+
+1576
+01:00:43,000 --> 01:00:45,000
+就一个小插曲是
+
+1577
+01:00:45,000 --> 01:00:50,000
+一个叫做 Moware Tech Blog 的账户
+
+1578
+01:00:50,000 --> 01:00:55,000
+发表一个英国的安全人员
+
+1579
+01:00:56,000 --> 01:00:56,000
+怎么说呢
+
+1580
+01:00:56,000 --> 01:01:01,000
+计算机安全专家的一个 blog
+
+1581
+01:01:01,000 --> 01:01:03,000
+他大概描述一下自己是怎么样
+
+1582
+01:01:04,000 --> 01:01:07,000
+无意中终止了这场灾难的
+
+1583
+01:01:07,000 --> 01:01:11,000
+就他把那个 Killswitch 给搞了
+
+1584
+01:01:11,000 --> 01:01:12,000
+不过后来我看那篇报道就说
+
+1585
+01:01:12,000 --> 01:01:15,000
+其实又出来变种了
+
+1586
+01:01:15,000 --> 01:01:16,000
+又没有那个 Killswitch
+
+1587
+01:01:16,000 --> 01:01:17,000
+其实就作用有限
+
+1588
+01:01:18,000 --> 01:01:19,000
+对
+
+1589
+01:01:19,000 --> 01:01:20,000
+他大概写了一下
+
+1590
+01:01:20,000 --> 01:01:25,000
+就是他发现 Ransom 1 会
+
+1591
+01:01:25,000 --> 01:01:27,000
+在运行之前去请求一个网址
+
+1592
+01:01:27,000 --> 01:01:29,000
+然后他就随手把这个网址给注册了
+
+1593
+01:01:29,000 --> 01:01:32,000
+当然这并不是一个他一想天开的行为
+
+1594
+01:01:32,000 --> 01:01:33,000
+而是因为他们
+
+1595
+01:01:33,000 --> 01:01:34,000
+这是惯例
+
+1596
+01:01:35,000 --> 01:01:35,000
+对他们的研究所
+
+1597
+01:01:35,000 --> 01:01:37,000
+就是一上来都会做这种事情
+
+1598
+01:01:38,000 --> 01:01:38,000
+后来发现
+
+1599
+01:01:38,000 --> 01:01:40,000
+后来一开始他听说
+
+1600
+01:01:41,000 --> 01:01:42,000
+听同事说
+
+1601
+01:01:42,000 --> 01:01:44,000
+正是因为他注册这个网站
+
+1602
+01:01:45,000 --> 01:01:47,000
+trigger 了这一次的大爆发
+
+1603
+01:01:47,000 --> 01:01:48,000
+把他吓坏了
+
+1604
+01:01:49,000 --> 01:01:52,000
+然后没过多久
+
+1605
+01:01:52,000 --> 01:01:53,000
+没过五分钟
+
+1606
+01:01:53,000 --> 01:01:56,000
+就有一个人在推特上说
+
+1607
+01:01:56,000 --> 01:01:58,000
+发现这个网站没注册之后
+
+1608
+01:01:58,000 --> 01:01:58,000
+对
+
+1609
+01:01:58,000 --> 01:02:00,000
+发现这个网站没注册之后
+
+1610
+01:02:00,000 --> 01:02:01,000
+Ransom 1 就会直接退出
+
+1611
+01:02:02,000 --> 01:02:05,000
+然后就有人说这是一个 Killswitch
+
+1612
+01:02:05,000 --> 01:02:07,000
+但是这个注册网站的人
+
+1613
+01:02:07,000 --> 01:02:10,000
+自己说他觉得这可能是一个
+
+1614
+01:02:11,000 --> 01:02:14,000
+Ransom 1 来判断沙箱的机制
+
+1615
+01:02:14,000 --> 01:02:17,000
+就是 Ransom 1 会去检测说
+
+1616
+01:02:17,000 --> 01:02:18,000
+这个不存在的网站
+
+1617
+01:02:18,000 --> 01:02:22,000
+是不是会返回一个存在的请求
+
+1618
+01:02:23,000 --> 01:02:24,000
+如果是的话
+
+1619
+01:02:24,000 --> 01:02:25,000
+他会觉得我可能会被
+
+1620
+01:02:25,000 --> 01:02:27,000
+我可能被留在沙箱里了
+
+1621
+01:02:27,000 --> 01:02:28,000
+对
+
+1622
+01:02:28,000 --> 01:02:28,000
+我正在被研究
+
+1623
+01:02:28,000 --> 01:02:29,000
+所以我要退出去
+
+1624
+01:02:31,000 --> 01:02:33,000
+这个不知道哪一个才是真的
+
+1625
+01:02:33,000 --> 01:02:35,000
+就这个是一个计算机病毒
+
+1626
+01:02:35,000 --> 01:02:36,000
+和这种生物病毒
+
+1627
+01:02:36,000 --> 01:02:37,000
+不太一样的东西
+
+1628
+01:02:37,000 --> 01:02:39,000
+因为生物病毒我们目前认为
+
+1629
+01:02:39,000 --> 01:02:40,000
+它是不具备智能的
+
+1630
+01:02:40,000 --> 01:02:42,000
+它不会说我避免主动被探测
+
+1631
+01:02:42,000 --> 01:02:43,000
+这么一件事对吧
+
+1632
+01:02:44,000 --> 01:02:44,000
+对
+
+1633
+01:02:44,000 --> 01:02:44,000
+应该很难
+
+1634
+01:02:44,000 --> 01:02:45,000
+生物智能
+
+1635
+01:02:45,000 --> 01:02:48,000
+生物病毒跟计算机病毒相比来说
+
+1636
+01:02:48,000 --> 01:02:49,000
+或者说计算机病毒
+
+1637
+01:02:49,000 --> 01:02:51,000
+相比于生物智病毒最大的一个优点
+
+1638
+01:02:51,000 --> 01:02:53,000
+就是你想把它做得多聪明都可以
+
+1639
+01:02:53,000 --> 01:02:53,000
+对
+
+1640
+01:02:54,000 --> 01:02:56,000
+就是生物病毒它是不知道
+
+1641
+01:02:56,000 --> 01:02:59,000
+它是在一个真实的宿主里面去繁殖
+
+1642
+01:02:59,000 --> 01:03:01,000
+它是在一个培养品里面被研究
+
+1643
+01:03:01,000 --> 01:03:03,000
+而繁殖出来的
+
+1644
+01:03:03,000 --> 01:03:04,000
+但是计算机病毒其实
+
+1645
+01:03:05,000 --> 01:03:06,000
+现在作者已经开始学聪明了
+
+1646
+01:03:06,000 --> 01:03:08,000
+他会去探测
+
+1647
+01:03:08,000 --> 01:03:10,000
+我是否是处在一个
+
+1648
+01:03:10,000 --> 01:03:11,000
+刚才讲的沙箱
+
+1649
+01:03:11,000 --> 01:03:13,000
+或者沙河的环境里面
+
+1650
+01:03:13,000 --> 01:03:15,000
+被安全研究的真的研究
+
+1651
+01:03:15,000 --> 01:03:16,000
+如果是的话
+
+1652
+01:03:16,000 --> 01:03:18,000
+理论上你应该啥也不干
+
+1653
+01:03:18,000 --> 01:03:18,000
+对吧
+
+1654
+01:03:18,000 --> 01:03:19,000
+你就悄悄的
+
+1655
+01:03:21,000 --> 01:03:22,000
+潜伏就好了
+
+1656
+01:03:22,000 --> 01:03:24,000
+这样你不会被研究到
+
+1657
+01:03:25,000 --> 01:03:26,000
+早期病毒还有什么
+
+1658
+01:03:26,000 --> 01:03:30,000
+如果发现进程列表里面有什么
+
+1659
+01:03:30,000 --> 01:03:31,000
+杀毒软件
+
+1660
+01:03:31,000 --> 01:03:32,000
+杀毒软件
+
+1661
+01:03:32,000 --> 01:03:33,000
+或者是 trace
+
+1662
+01:03:34,000 --> 01:03:35,000
+其他应用的
+
+1663
+01:03:36,000 --> 01:03:37,000
+其他进程的进程
+
+1664
+01:03:37,000 --> 01:03:38,000
+它就默默的退出去
+
+1665
+01:03:39,000 --> 01:03:41,000
+不让你看我干嘛
+
+1666
+01:03:41,000 --> 01:03:43,000
+风景扯呼
+
+1667
+01:03:43,000 --> 01:03:45,000
+不让你看我在干嘛
+
+1668
+01:03:46,000 --> 01:03:47,000
+这个是比较有意思的一个事情
+
+1669
+01:03:48,000 --> 01:03:49,000
+对
+
+1670
+01:03:49,000 --> 01:03:50,000
+所以刚才讲了
+
+1671
+01:03:51,000 --> 01:03:55,000
+第一个是保持良好的个人卫生习惯
+
+1672
+01:03:55,000 --> 01:03:57,000
+和使用真版
+
+1673
+01:03:57,000 --> 01:04:00,000
+或者说没有付费的版本
+
+1674
+01:04:00,000 --> 01:04:01,000
+我的 Windows
+
+1675
+01:04:01,000 --> 01:04:03,000
+然后打开日常更新
+
+1676
+01:04:03,000 --> 01:04:04,000
+之外呢
+
+1677
+01:04:06,000 --> 01:04:08,000
+针对这次这种类型的 Ransom
+
+1678
+01:04:08,000 --> 01:04:10,000
+就是加密你文件
+
+1679
+01:04:10,000 --> 01:04:13,000
+然后让你付钱才给你解密
+
+1680
+01:04:13,000 --> 01:04:15,000
+这种特别类型的
+
+1681
+01:04:15,000 --> 01:04:15,000
+弄错软件
+
+1682
+01:04:15,000 --> 01:04:17,000
+有一个很有效的应对措施
+
+1683
+01:04:17,000 --> 01:04:19,000
+就是保持备份
+
+1684
+01:04:19,000 --> 01:04:19,000
+对吧
+
+1685
+01:04:19,000 --> 01:04:23,000
+所以今天我们后半节讲的一个主要议题
+
+1686
+01:04:24,000 --> 01:04:25,000
+就是备份了
+
+1687
+01:04:27,000 --> 01:04:29,000
+我们来欢迎这个
+
+1688
+01:04:29,000 --> 01:04:30,000
+备份强迫症
+
+1689
+01:04:31,000 --> 01:04:33,000
+暴力备份原教旨主义者
+
+1690
+01:04:33,000 --> 01:04:34,000
+Ryo
+
+1691
+01:04:35,000 --> 01:04:36,000
+讲解备份的重要性
+
+1692
+01:04:37,000 --> 01:04:38,000
+你备份吗
+
+1693
+01:04:39,000 --> 01:04:39,000
+我会备份
+
+1694
+01:04:39,000 --> 01:04:40,000
+你怎么备份
+
+1695
+01:04:40,000 --> 01:04:42,000
+但是我没有你这么宽敞
+
+1696
+01:04:42,000 --> 01:04:43,000
+你告诉一下
+
+1697
+01:04:43,000 --> 01:04:44,000
+你说一下你怎么备份
+
+1698
+01:04:45,000 --> 01:04:49,000
+我首先 iCloud 会备份
+
+1699
+01:04:50,000 --> 01:04:51,000
+如果 iCloud 备份
+
+1700
+01:04:51,000 --> 01:04:52,000
+在你眼里算备份的话
+
+1701
+01:04:53,000 --> 01:04:54,000
+然后 time 是用会备份
+
+1702
+01:04:55,000 --> 01:04:58,000
+然后我会定期把
+
+1703
+01:04:58,000 --> 01:05:00,000
+我认为非常重要和
+
+1704
+01:05:04,000 --> 01:05:06,000
+不可一世的数据
+
+1705
+01:05:06,000 --> 01:05:09,000
+手工备份到一个移动硬盘里面
+
+1706
+01:05:10,000 --> 01:05:11,000
+这个移动硬盘放在哪里
+
+1707
+01:05:13,000 --> 01:05:14,000
+这个移动硬盘放在哪里
+
+1708
+01:05:15,000 --> 01:05:15,000
+箱子里
+
+1709
+01:05:16,000 --> 01:05:17,000
+在你家对吧
+
+1710
+01:05:17,000 --> 01:05:18,000
+对这是一个本地的备份
+
+1711
+01:05:19,000 --> 01:05:21,000
+这不是一个远端的备份
+
+1712
+01:05:22,000 --> 01:05:22,000
+然后呢
+
+1713
+01:05:24,000 --> 01:05:25,000
+没有然后
+
+1714
+01:05:25,000 --> 01:05:28,000
+请批评
+
+1715
+01:05:28,000 --> 01:05:30,000
+所以其实我们来探究一下
+
+1716
+01:05:30,000 --> 01:05:32,000
+你这个我再复述一遍
+
+1717
+01:05:32,000 --> 01:05:33,000
+我们来
+
+1718
+01:05:33,000 --> 01:05:34,000
+首先你是在
+
+1719
+01:05:35,000 --> 01:05:36,000
+你有用 iCloud
+
+1720
+01:05:36,000 --> 01:05:38,000
+那些资料是在 iCloud 里面的
+
+1721
+01:05:39,000 --> 01:05:40,000
+然后 dropbox 也有吧
+
+1722
+01:05:42,000 --> 01:05:42,000
+dropbox 我有
+
+1723
+01:05:43,000 --> 01:05:44,000
+对有些资料也是 dropbox 里面
+
+1724
+01:05:44,000 --> 01:05:47,000
+然后你电脑本身是用 time machine 备份
+
+1725
+01:05:47,000 --> 01:05:47,000
+备份到哪里了
+
+1726
+01:05:49,000 --> 01:05:51,000
+也是一个外置硬盘
+
+1727
+01:05:51,000 --> 01:05:52,000
+也是外置硬盘
+
+1728
+01:05:52,000 --> 01:05:53,000
+然后你有两块外置硬盘
+
+1729
+01:05:53,000 --> 01:05:54,000
+一个是用于做 time machine
+
+1730
+01:05:54,000 --> 01:05:55,000
+一个是用于
+
+1731
+01:05:55,000 --> 01:05:56,000
+偶尔复制一下重要资料
+
+1732
+01:05:56,000 --> 01:05:58,000
+再复制一份对吧
+
+1733
+01:05:58,000 --> 01:05:58,000
+对
+
+1734
+01:05:58,000 --> 01:05:59,000
+OK
+
+1735
+01:05:59,000 --> 01:06:01,000
+然后你的这个
+
+1736
+01:06:01,000 --> 01:06:02,000
+这两块自行盘和你的电脑
+
+1737
+01:06:02,000 --> 01:06:03,000
+都是在你家的
+
+1738
+01:06:05,000 --> 01:06:06,000
+对
+
+1739
+01:06:06,000 --> 01:06:07,000
+所以理论上只要你家失火
+
+1740
+01:06:07,000 --> 01:06:08,000
+或者是失窃
+
+1741
+01:06:08,000 --> 01:06:10,000
+然后那些东西都没了的话
+
+1742
+01:06:10,000 --> 01:06:11,000
+你就找不回你的数据了对吧
+
+1743
+01:06:14,000 --> 01:06:16,000
+我还可以在我的
+
+1744
+01:06:17,000 --> 01:06:18,000
+叫什么来着
+
+1745
+01:06:19,000 --> 01:06:21,000
+就除了那个 iCloud 和 dropbox
+
+1746
+01:06:21,000 --> 01:06:22,000
+里面的这种数据之外
+
+1747
+01:06:22,000 --> 01:06:25,000
+你本机的数据
+
+1748
+01:06:25,000 --> 01:06:26,000
+应该大部分都丢失了
+
+1749
+01:06:28,000 --> 01:06:29,000
+我有一个
+
+1750
+01:06:29,000 --> 01:06:30,000
+我有一个私人服务器
+
+1751
+01:06:30,000 --> 01:06:32,000
+就是上面也存了一部分数据
+
+1752
+01:06:32,000 --> 01:06:33,000
+你还有一个远程数据
+
+1753
+01:06:33,000 --> 01:06:35,000
+这个更新大概
+
+1754
+01:06:36,000 --> 01:06:37,000
+这频率可能跟我写一组
+
+1755
+01:06:37,000 --> 01:06:38,000
+频率差不多
+
+1756
+01:06:38,000 --> 01:06:41,000
+就不更新也不全
+
+1757
+01:06:41,000 --> 01:06:42,000
+不过我
+
+1758
+01:06:42,000 --> 01:06:44,000
+对我这个人就是有一个
+
+1759
+01:06:47,000 --> 01:06:48,000
+就存东西的时候会有一个习惯
+
+1760
+01:06:48,000 --> 01:06:51,000
+就是我会想一下我能不能
+
+1761
+01:06:51,000 --> 01:06:53,000
+iFold 丢失这个数据
+
+1762
+01:06:53,000 --> 01:06:53,000
+如果能
+
+1763
+01:06:53,000 --> 01:06:54,000
+如果不能的话
+
+1764
+01:06:54,000 --> 01:06:55,000
+我一般不会把它
+
+1765
+01:06:56,000 --> 01:06:59,000
+我一般一定会把它存在 dropbox 里面
+
+1766
+01:07:01,000 --> 01:07:02,000
+首先我们来看一下
+
+1767
+01:07:03,000 --> 01:07:04,000
+就刚才我讲的
+
+1768
+01:07:04,000 --> 01:07:07,000
+你这个主要的核心的弱点
+
+1769
+01:07:07,000 --> 01:07:09,000
+就是如果你家一旦出任何问题
+
+1770
+01:07:10,000 --> 01:07:10,000
+你就挂了
+
+1771
+01:07:11,000 --> 01:07:12,000
+single point of failure
+
+1772
+01:07:12,000 --> 01:07:13,000
+对这个是
+
+1773
+01:07:14,000 --> 01:07:16,000
+所以其实我们下面给大家介绍一下
+
+1774
+01:07:16,000 --> 01:07:17,000
+所谓的这个
+
+1775
+01:07:20,000 --> 01:07:23,000
+备份狂社主义者
+
+1776
+01:07:23,000 --> 01:07:24,000
+为什么
+
+1777
+01:07:24,000 --> 01:07:26,000
+为什么我觉得咱俩有点像
+
+1778
+01:07:27,000 --> 01:07:28,000
+像托儿
+
+1779
+01:07:30,000 --> 01:07:31,000
+卖药的
+
+1780
+01:07:31,000 --> 01:07:32,000
+对
+
+1781
+01:07:32,000 --> 01:07:33,000
+你是卖大力丸的
+
+1782
+01:07:33,000 --> 01:07:35,000
+然后我这
+
+1783
+01:07:35,000 --> 01:07:36,000
+腿脚不好
+
+1784
+01:07:36,000 --> 01:07:37,000
+然后这样治好
+
+1785
+01:07:38,000 --> 01:07:39,000
+我来绑个根
+
+1786
+01:07:40,000 --> 01:07:42,000
+首先就是说有一个通用的
+
+1787
+01:07:42,000 --> 01:07:44,000
+就是在这个备份
+
+1788
+01:07:44,000 --> 01:07:45,000
+这个行业
+
+1789
+01:07:45,000 --> 01:07:47,000
+如果算是一个行业的话
+
+1790
+01:07:47,000 --> 01:07:48,000
+有一个通用的准则叫做 321
+
+1791
+01:07:49,000 --> 01:07:49,000
+什么意思
+
+1792
+01:07:49,000 --> 01:07:52,000
+3 就是说你至少要保留
+
+1793
+01:07:52,000 --> 01:07:53,000
+就是同一个数据
+
+1794
+01:07:53,000 --> 01:07:54,000
+你至少要保留有三份
+
+1795
+01:07:54,000 --> 01:07:55,000
+然后
+
+1796
+01:07:56,000 --> 01:07:59,000
+要存在至少两个不同的这个戒指中
+
+1797
+01:07:59,000 --> 01:08:00,000
+然后其中至少有一份
+
+1798
+01:08:00,000 --> 01:08:02,000
+是要存在另外的一个
+
+1799
+01:08:02,000 --> 01:08:03,000
+物理的一个地点
+
+1800
+01:08:04,000 --> 01:08:06,000
+比如说刚才在吴涛那个例子里面
+
+1801
+01:08:06,000 --> 01:08:07,000
+他虽然说
+
+1802
+01:08:08,000 --> 01:08:09,000
+他就只有两份
+
+1803
+01:08:10,000 --> 01:08:11,000
+我们先一个看
+
+1804
+01:08:11,000 --> 01:08:13,000
+就先不考虑 iCloud 和 Dropbox 的情况
+
+1805
+01:08:13,000 --> 01:08:14,000
+他只有两个备份
+
+1806
+01:08:14,000 --> 01:08:15,000
+就是一个是在
+
+1807
+01:08:16,000 --> 01:08:17,000
+他只有三个备份
+
+1808
+01:08:17,000 --> 01:08:19,000
+但是只有两个戒指
+
+1809
+01:08:19,000 --> 01:08:20,000
+但是都在一个地方
+
+1810
+01:08:20,000 --> 01:08:20,000
+对吧
+
+1811
+01:08:20,000 --> 01:08:21,000
+他有三份数据
+
+1812
+01:08:21,000 --> 01:08:22,000
+他一个一份数据
+
+1813
+01:08:22,000 --> 01:08:23,000
+在电脑里面在用的
+
+1814
+01:08:23,000 --> 01:08:25,000
+一个是存在那个
+
+1815
+01:08:25,000 --> 01:08:27,000
+Time Machine 那个一个外置硬盘的
+
+1816
+01:08:27,000 --> 01:08:28,000
+还有一份是手动复制的
+
+1817
+01:08:28,000 --> 01:08:29,000
+在另外一个一种硬盘
+
+1818
+01:08:29,000 --> 01:08:31,000
+他有三份数据没有问题
+
+1819
+01:08:31,000 --> 01:08:32,000
+而且有两个是在
+
+1820
+01:08:32,000 --> 01:08:34,000
+都是在不同的戒指上面去的
+
+1821
+01:08:34,000 --> 01:08:36,000
+就是有三个设备
+
+1822
+01:08:36,000 --> 01:08:37,000
+但是他们都在同一个地点
+
+1823
+01:08:37,000 --> 01:08:40,000
+所以吴涛做到了 321 中的 3 和 2
+
+1824
+01:08:40,000 --> 01:08:40,000
+但没有做到 1
+
+1825
+01:08:43,000 --> 01:08:44,000
+所以就有点问题
+
+1826
+01:08:47,000 --> 01:08:48,000
+为什么说 321 很重要呢
+
+1827
+01:08:48,000 --> 01:08:50,000
+就是 3 的话就保证说你
+
+1828
+01:08:51,000 --> 01:08:52,000
+嗯
+
+1829
+01:08:54,000 --> 01:08:56,000
+你想如果说你至少要保留两个
+
+1830
+01:08:56,000 --> 01:08:57,000
+不同的戒指
+
+1831
+01:08:57,000 --> 01:08:59,000
+然后其中一个是在 ED 的话
+
+1832
+01:08:59,000 --> 01:09:00,000
+你基本上都有三份了
+
+1833
+01:09:00,000 --> 01:09:02,000
+你只是本集在用的一份
+
+1834
+01:09:02,000 --> 01:09:03,000
+然后另外两个在不同的地方
+
+1835
+01:09:03,000 --> 01:09:03,000
+对吧
+
+1836
+01:09:03,000 --> 01:09:04,000
+所以这个是一个
+
+1837
+01:09:04,000 --> 01:09:06,000
+最小的一个数据
+
+1838
+01:09:06,000 --> 01:09:08,000
+但你可以如果你足够
+
+1839
+01:09:08,000 --> 01:09:10,000
+Pyronoya 足够偏执狂的话
+
+1840
+01:09:10,000 --> 01:09:11,000
+你可以多备份几个到不同的地点
+
+1841
+01:09:11,000 --> 01:09:12,000
+对吧
+
+1842
+01:09:13,000 --> 01:09:13,000
+对
+
+1843
+01:09:14,000 --> 01:09:16,000
+就为什么 ED 很重要
+
+1844
+01:09:16,000 --> 01:09:17,000
+就刚才除了说刚才讲
+
+1845
+01:09:17,000 --> 01:09:19,000
+这个家里失窃或者火灾
+
+1846
+01:09:19,000 --> 01:09:20,000
+这种概率是有的吗
+
+1847
+01:09:21,000 --> 01:09:22,000
+还有一个就是说
+
+1848
+01:09:22,000 --> 01:09:24,000
+可能断电或者导致什么
+
+1849
+01:09:24,000 --> 01:09:26,000
+或者什么电力系统的问题
+
+1850
+01:09:26,000 --> 01:09:29,000
+导致你某一个地方完全不能用
+
+1851
+01:09:29,000 --> 01:09:30,000
+是完全执在这种可能性的
+
+1852
+01:09:30,000 --> 01:09:33,000
+所以推荐大家还是说在
+
+1853
+01:09:33,000 --> 01:09:35,000
+比如说你自己家里的电脑
+
+1854
+01:09:35,000 --> 01:09:36,000
+你可以拿个一张硬盘
+
+1855
+01:09:36,000 --> 01:09:38,000
+复制软输就是放到公司
+
+1856
+01:09:38,000 --> 01:09:40,000
+然后公司电脑拿一个一张硬盘
+
+1857
+01:09:40,000 --> 01:09:41,000
+放到家里对吧
+
+1858
+01:09:41,000 --> 01:09:43,000
+这样互相就异地了
+
+1859
+01:09:43,000 --> 01:09:44,000
+就可以保证
+
+1860
+01:09:44,000 --> 01:09:46,000
+就你家里和公司同时失火
+
+1861
+01:09:46,000 --> 01:09:47,000
+或同时被窃的这个概率
+
+1862
+01:09:47,000 --> 01:09:49,000
+相对来说比较低嘛
+
+1863
+01:09:49,000 --> 01:09:50,000
+所以这个时候你能够
+
+1864
+01:09:51,000 --> 01:09:54,000
+只有当前跟你不能避免天灾人祸
+
+1865
+01:09:54,000 --> 01:09:55,000
+比如说你那个地方发生地震
+
+1866
+01:09:55,000 --> 01:09:58,000
+整个那个区域都受影响了
+
+1867
+01:09:58,000 --> 01:09:59,000
+你可能数据就没了
+
+1868
+01:09:59,000 --> 01:10:00,000
+不过这个时候你人都没了
+
+1869
+01:10:00,000 --> 01:10:01,000
+那就没什么关系了
+
+1870
+01:10:04,000 --> 01:10:06,000
+但是对于很多这个企业来讲
+
+1871
+01:10:06,000 --> 01:10:08,000
+其实这也是不能接受的嘛
+
+1872
+01:10:08,000 --> 01:10:08,000
+所以你看像什么
+
+1873
+01:10:08,000 --> 01:10:09,000
+比如说银行啊
+
+1874
+01:10:09,000 --> 01:10:10,000
+保险公司啊
+
+1875
+01:10:10,000 --> 01:10:12,000
+他会说我在不同的省份
+
+1876
+01:10:12,000 --> 01:10:13,000
+不同的国家
+
+1877
+01:10:13,000 --> 01:10:15,000
+甚至不同的这个大州
+
+1878
+01:10:15,000 --> 01:10:17,000
+他会做不同的备份对吧
+
+1879
+01:10:17,000 --> 01:10:18,000
+这个是就是企业级别的
+
+1880
+01:10:18,000 --> 01:10:20,000
+但是我觉得对个人用户来讲
+
+1881
+01:10:20,000 --> 01:10:22,000
+你能够做到家里一份
+
+1882
+01:10:22,000 --> 01:10:24,000
+公司一份其实已经足够安全了
+
+1883
+01:10:24,000 --> 01:10:25,000
+然后刚才还有提到
+
+1884
+01:10:25,000 --> 01:10:26,000
+无他提的点
+
+1885
+01:10:26,000 --> 01:10:28,000
+他说他同时在用 iCloud 和这个 Dropbox
+
+1886
+01:10:29,000 --> 01:10:31,000
+首先要一个很重要的一个概念
+
+1887
+01:10:31,000 --> 01:10:33,000
+就是说 Dropbox 情况可能特殊一点
+
+1888
+01:10:33,000 --> 01:10:36,000
+就是在通常的情况下
+
+1889
+01:10:36,000 --> 01:10:37,000
+存在云端的数据
+
+1890
+01:10:37,000 --> 01:10:39,000
+不认为是被备份了
+
+1891
+01:10:39,000 --> 01:10:40,000
+什么意思呢
+
+1892
+01:10:40,000 --> 01:10:42,000
+就是比如说 iCloud 里面
+
+1893
+01:10:42,000 --> 01:10:43,000
+他是没有这个回溯这个功能的
+
+1894
+01:10:43,000 --> 01:10:45,000
+就是说你 iCloud 里面一个文件
+
+1895
+01:10:45,000 --> 01:10:46,000
+如果你修改之后
+
+1896
+01:10:46,000 --> 01:10:47,000
+他传上 iCloud 之后
+
+1897
+01:10:47,000 --> 01:10:50,000
+你再找不到他之前的版本了
+
+1898
+01:10:50,000 --> 01:10:51,000
+所以等于这个数据
+
+1899
+01:10:51,000 --> 01:10:52,000
+其实只存了一份
+
+1900
+01:10:52,000 --> 01:10:53,000
+他就违反了刚才说
+
+1901
+01:10:53,000 --> 01:10:55,000
+那个至少要三份那么一个原则
+
+1902
+01:10:55,000 --> 01:10:57,000
+除非将来有一天 iCloud 和
+
+1903
+01:10:57,000 --> 01:10:58,000
+Time Machine 可以合二为一
+
+1904
+01:10:58,000 --> 01:10:59,000
+所以没错
+
+1905
+01:10:59,000 --> 01:11:00,000
+就这个是一个
+
+1906
+01:11:00,000 --> 01:11:01,000
+就目前来看是这样的
+
+1907
+01:11:01,000 --> 01:11:03,000
+还有很多人说他存在
+
+1908
+01:11:03,000 --> 01:11:05,000
+比如说关在什么网盘里面的
+
+1909
+01:11:05,000 --> 01:11:06,000
+他也不叫备份
+
+1910
+01:11:06,000 --> 01:11:08,000
+他就是存了一份数据在那里而已
+
+1911
+01:11:08,000 --> 01:11:09,000
+除非你说你在本地还有一份
+
+1912
+01:11:09,000 --> 01:11:10,000
+那可是另外一个情况
+
+1913
+01:11:10,000 --> 01:11:13,000
+但 Dropbox 情况比较特殊
+
+1914
+01:11:13,000 --> 01:11:15,000
+因为 Dropbox 我记得是有一个
+
+1915
+01:11:15,000 --> 01:11:16,000
+哪怕是免费吧
+
+1916
+01:11:16,000 --> 01:11:17,000
+他有一个功能叫做
+
+1917
+01:11:17,000 --> 01:11:19,000
+History revision 的一个概念
+
+1918
+01:11:19,000 --> 01:11:20,000
+就是他会保留你过去
+
+1919
+01:11:20,000 --> 01:11:21,000
+30 天的
+
+1920
+01:11:21,000 --> 01:11:24,000
+找到过去的上一版本
+
+1921
+01:11:24,000 --> 01:11:26,000
+对就是你这个文件被修改之后的
+
+1922
+01:11:26,000 --> 01:11:27,000
+前一个版本
+
+1923
+01:11:27,000 --> 01:11:29,000
+我记得免费的 Dropbox 账户
+
+1924
+01:11:29,000 --> 01:11:30,000
+他是会保留 30 天
+
+1925
+01:11:30,000 --> 01:11:32,000
+就是一个月的这么一个历史
+
+1926
+01:11:32,000 --> 01:11:33,000
+然后付费的版本
+
+1927
+01:11:33,000 --> 01:11:34,000
+好像是可以保留无限
+
+1928
+01:11:34,000 --> 01:11:36,000
+只要有空间允许的情况下
+
+1929
+01:11:37,000 --> 01:11:38,000
+是不是这样我不太清楚
+
+1930
+01:11:39,000 --> 01:11:42,000
+反正我的印象里面是
+
+1931
+01:11:43,000 --> 01:11:45,000
+你如果在
+
+1932
+01:11:46,000 --> 01:11:50,000
+Dropbox 网站上面去选择一个文件的
+
+1933
+01:11:50,000 --> 01:11:51,000
+Version History 的话
+
+1934
+01:11:51,000 --> 01:11:52,000
+他会列出
+
+1935
+01:11:57,000 --> 01:11:59,000
+至少是一年的
+
+1936
+01:11:59,000 --> 01:11:59,000
+我就想
+
+1937
+01:11:59,000 --> 01:12:00,000
+OK
+
+1938
+01:12:00,000 --> 01:12:02,000
+那可能在我的这个
+
+1939
+01:12:02,000 --> 01:12:04,000
+对在我的这个例子里面
+
+1940
+01:12:06,000 --> 01:12:06,000
+所以刚才讲了
+
+1941
+01:12:06,000 --> 01:12:08,000
+就是云端的数据
+
+1942
+01:12:09,000 --> 01:12:11,000
+并不代表绝对安全
+
+1943
+01:12:11,000 --> 01:12:13,000
+虽然说他比你在本机的数据
+
+1944
+01:12:13,000 --> 01:12:14,000
+还是安全很多
+
+1945
+01:12:14,000 --> 01:12:14,000
+因为首先大部分的
+
+1946
+01:12:14,000 --> 01:12:16,000
+这个云端的厂商
+
+1947
+01:12:16,000 --> 01:12:17,000
+他会考虑
+
+1948
+01:12:17,000 --> 01:12:18,000
+这个他们的这个数据
+
+1949
+01:12:18,000 --> 01:12:19,000
+丢失的可能性
+
+1950
+01:12:19,000 --> 01:12:21,000
+比如硬件故障之类的
+
+1951
+01:12:21,000 --> 01:12:23,000
+你大部分你电脑存的本机的话
+
+1952
+01:12:23,000 --> 01:12:24,000
+你电脑坏了
+
+1953
+01:12:24,000 --> 01:12:24,000
+或者硬盘坏了
+
+1954
+01:12:24,000 --> 01:12:26,000
+那你就拿不回来了
+
+1955
+01:12:26,000 --> 01:12:29,000
+但是你电脑存的云端的数据
+
+1956
+01:12:29,000 --> 01:12:31,000
+很少会说听说会坏了
+
+1957
+01:12:31,000 --> 01:12:32,000
+因为大部分的这个
+
+1958
+01:12:32,000 --> 01:12:34,000
+就靠谱的这个云服务的厂商
+
+1959
+01:12:34,000 --> 01:12:35,000
+都会说我的数据
+
+1960
+01:12:35,000 --> 01:12:36,000
+至少是存三份
+
+1961
+01:12:36,000 --> 01:12:38,000
+然后有可能是 1 D 的这种情况
+
+1962
+01:12:38,000 --> 01:12:39,000
+对吧
+
+1963
+01:12:39,000 --> 01:12:41,000
+他会去帮你解决这个问题
+
+1964
+01:12:41,000 --> 01:12:44,000
+所以虽然说云端不代表备份
+
+1965
+01:12:44,000 --> 01:12:46,000
+但是你把大部分资料
+
+1966
+01:12:46,000 --> 01:12:47,000
+存在云端
+
+1967
+01:12:47,000 --> 01:12:49,000
+从数据丢失的这个
+
+1968
+01:12:49,000 --> 01:12:50,000
+风险的角度来讲
+
+1969
+01:12:50,000 --> 01:12:51,000
+还是要远远好于你
+
+1970
+01:12:51,000 --> 01:12:52,000
+远远低于本地
+
+1971
+01:12:52,000 --> 01:12:53,000
+对
+
+1972
+01:12:53,000 --> 01:12:54,000
+这是肯定的
+
+1973
+01:12:54,000 --> 01:12:54,000
+没错
+
+1974
+01:12:55,000 --> 01:12:57,000
+但是云端的有一个问题
+
+1975
+01:12:57,000 --> 01:12:58,000
+特别是在中国
+
+1976
+01:12:58,000 --> 01:12:59,000
+这个问题可能更加严重
+
+1977
+01:12:59,000 --> 01:13:02,000
+就是云端存储的成本非常贵
+
+1978
+01:13:02,000 --> 01:13:04,000
+而且国内
+
+1979
+01:13:04,000 --> 01:13:06,000
+就是国内
+
+1980
+01:13:06,000 --> 01:13:07,000
+就国内企业提供的
+
+1981
+01:13:08,000 --> 01:13:09,000
+云端存储的服务
+
+1982
+01:13:10,000 --> 01:13:12,000
+和或者备份的产品
+
+1983
+01:13:12,000 --> 01:13:13,000
+基本上没有
+
+1984
+01:13:13,000 --> 01:13:14,000
+或者说是因为某一些
+
+1985
+01:13:15,000 --> 01:13:16,000
+不可说的原因
+
+1986
+01:13:16,000 --> 01:13:18,000
+也没有办法正常使用了
+
+1987
+01:13:18,000 --> 01:13:19,000
+比如说现在我们
+
+1988
+01:13:20,000 --> 01:13:22,000
+各种网盘其实已经用的很少
+
+1989
+01:13:22,000 --> 01:13:24,000
+而且你必须要
+
+1990
+01:13:25,000 --> 01:13:26,000
+经历很多折磨
+
+1991
+01:13:26,000 --> 01:13:27,000
+才能够用上
+
+1992
+01:13:27,000 --> 01:13:28,000
+现在就剩下百度一家了
+
+1993
+01:13:30,000 --> 01:13:32,000
+就公开能用的
+
+1994
+01:13:32,000 --> 01:13:34,000
+我从来从来没有用过国内网
+
+1995
+01:13:34,000 --> 01:13:36,000
+因为国内前段前一两年
+
+1996
+01:13:36,000 --> 01:13:40,000
+一直在整治通过网盘来传播一些
+
+1997
+01:13:40,000 --> 01:13:41,000
+不可说的内容
+
+1998
+01:13:42,000 --> 01:13:46,000
+所以现在整的只是一家
+
+1999
+01:13:50,000 --> 01:13:52,000
+而且国内也没有像国外很多
+
+2000
+01:13:52,000 --> 01:13:54,000
+那种所谓专门用于备份的
+
+2001
+01:13:55,000 --> 01:13:56,000
+这种服务
+
+2002
+01:13:56,000 --> 01:13:58,000
+比如说国外美国有很好的一家
+
+2003
+01:13:58,000 --> 01:14:00,000
+叫做 Backblaze
+
+2004
+01:14:00,000 --> 01:14:01,000
+我之前也在用
+
+2005
+01:14:01,000 --> 01:14:02,000
+好像什么 Crashplans
+
+2006
+01:14:02,000 --> 01:14:04,000
+很多人还在用 Backblaze
+
+2007
+01:14:04,000 --> 01:14:04,000
+现在没有了
+
+2008
+01:14:04,000 --> 01:14:06,000
+国内连过去扯得太慢了
+
+2009
+01:14:06,000 --> 01:14:06,000
+而且
+
+2010
+01:14:08,000 --> 01:14:10,000
+你现在国内怎么备份
+
+2011
+01:14:10,000 --> 01:14:12,000
+所以后面会讲
+
+2012
+01:14:12,000 --> 01:14:13,000
+就怎么解决这个问题
+
+2013
+01:14:14,000 --> 01:14:15,000
+就刚刚不是说了吗
+
+2014
+01:14:15,000 --> 01:14:17,000
+就是如果说你是在
+
+2015
+01:14:17,000 --> 01:14:18,000
+因为我们听众的
+
+2016
+01:14:18,000 --> 01:14:19,000
+可能不是在国内
+
+2017
+01:14:19,000 --> 01:14:20,000
+可能是在美国
+
+2018
+01:14:20,000 --> 01:14:22,000
+什么所谓发达国家的地区
+
+2019
+01:14:23,000 --> 01:14:24,000
+美国人是最幸福的
+
+2020
+01:14:24,000 --> 01:14:27,000
+因为各种服务测试产品是最完善的
+
+2021
+01:14:27,000 --> 01:14:30,000
+你直接用云端备份其实也就挺好
+
+2022
+01:14:30,000 --> 01:14:32,000
+当然如果说你数据量特别特别庞大
+
+2023
+01:14:32,000 --> 01:14:33,000
+比如说你是
+
+2024
+01:14:34,000 --> 01:14:36,000
+个人数据可能是数十 TB 级别的
+
+2025
+01:14:36,000 --> 01:14:38,000
+你可能要考虑一下成本的问题
+
+2026
+01:14:38,000 --> 01:14:39,000
+到底怎么弄对吧
+
+2027
+01:14:41,000 --> 01:14:42,000
+云端备份的主要是一个
+
+2028
+01:14:42,000 --> 01:14:44,000
+就是带宽和成本是不太够的
+
+2029
+01:14:44,000 --> 01:14:46,000
+因为你上传
+
+2030
+01:14:47,000 --> 01:14:48,000
+你现在用的上传
+
+2031
+01:14:48,000 --> 01:14:51,000
+是你上的那个网络上能对称的吗
+
+2032
+01:14:53,000 --> 01:14:53,000
+不对称
+
+2033
+01:14:53,000 --> 01:14:54,000
+OK 你也是不对称
+
+2034
+01:14:54,000 --> 01:14:56,000
+就国内是严重不对称的
+
+2035
+01:14:56,000 --> 01:14:57,000
+国内可能有些装 100 兆的光纤
+
+2036
+01:14:57,000 --> 01:15:01,000
+可能上传上行只有不到不到 10 兆对吧
+
+2037
+01:15:01,000 --> 01:15:02,000
+那你再慢慢去备份
+
+2038
+01:15:02,000 --> 01:15:03,000
+一 T 的数据
+
+2039
+01:15:03,000 --> 01:15:05,000
+然后后年老月的事情
+
+2040
+01:15:06,000 --> 01:15:08,000
+我上传可能有个 2.5 兆的不错
+
+2041
+01:15:09,000 --> 01:15:11,000
+你说 2.5 Mb
+
+2042
+01:15:11,000 --> 01:15:12,000
+每秒
+
+2043
+01:15:13,000 --> 01:15:13,000
+对
+
+2044
+01:15:13,000 --> 01:15:15,000
+那已经有 25
+
+2045
+01:15:15,000 --> 01:15:17,000
+就是我们讲国内讲那个网络的
+
+2046
+01:15:17,000 --> 01:15:18,000
+照都是 Mb
+
+2047
+01:15:19,000 --> 01:15:20,000
+就已经有 25 了
+
+2048
+01:15:20,000 --> 01:15:21,000
+好吧
+
+2049
+01:15:21,000 --> 01:15:23,000
+你已经处于发达国家的行列了
+
+2050
+01:15:23,000 --> 01:15:23,000
+谢谢
+
+2051
+01:15:25,000 --> 01:15:28,000
+国内都是多少多少 Mb
+
+2052
+01:15:28,000 --> 01:15:30,000
+这么一个一个一个一个度量
+
+2053
+01:15:33,000 --> 01:15:35,000
+所以在国内这个
+
+2054
+01:15:35,000 --> 01:15:37,000
+或者说在国内网络环境不理想
+
+2055
+01:15:37,000 --> 01:15:40,000
+然后这种相应的服务不完善的情况下
+
+2056
+01:15:40,000 --> 01:15:43,000
+可能自己就只能手动身体力行的多一点了
+
+2057
+01:15:44,000 --> 01:15:45,000
+那最常见的就是说
+
+2058
+01:15:45,000 --> 01:15:47,000
+首先解决本地备份的问题
+
+2059
+01:15:47,000 --> 01:15:48,000
+你要做一个
+
+2060
+01:15:48,000 --> 01:15:49,000
+如果你用 Mac 的话
+
+2061
+01:15:49,000 --> 01:15:51,000
+Timershift 相对来说比较完善
+
+2062
+01:15:51,000 --> 01:15:54,000
+因为 Timershift 它是一个具备
+
+2063
+01:15:55,000 --> 01:15:56,000
+自带 revision 功能的一个备份系统
+
+2064
+01:15:56,000 --> 01:15:59,000
+就是你可以回收到之前修改的版本
+
+2065
+01:15:59,000 --> 01:16:00,000
+这个我觉得是比较不错的
+
+2066
+01:16:01,000 --> 01:16:02,000
+Timershift 的话
+
+2067
+01:16:03,000 --> 01:16:04,000
+比较不巧
+
+2068
+01:16:04,000 --> 01:16:06,000
+那个苹果它已经官方不再
+
+2069
+01:16:07,000 --> 01:16:09,000
+就宣布官方不再做这个
+
+2070
+01:16:09,000 --> 01:16:10,000
+TimeCapsule 那个产品了
+
+2071
+01:16:10,000 --> 01:16:12,000
+你现在要买的只能是旧款
+
+2072
+01:16:12,000 --> 01:16:13,000
+而且以后也不会有新款了
+
+2073
+01:16:14,000 --> 01:16:15,000
+但是没有关系
+
+2074
+01:16:16,000 --> 01:16:17,000
+不要怕麻烦
+
+2075
+01:16:17,000 --> 01:16:20,000
+买个这个外置硬盘也可以用 Timershift 来备份
+
+2076
+01:16:20,000 --> 01:16:21,000
+就像我套那样一样
+
+2077
+01:16:22,000 --> 01:16:24,000
+当然也可以买一个
+
+2078
+01:16:24,000 --> 01:16:25,000
+就是所谓的这个网络存储器
+
+2079
+01:16:26,000 --> 01:16:28,000
+其实它是个小型的服务器
+
+2080
+01:16:28,000 --> 01:16:29,000
+文件服务器
+
+2081
+01:16:30,000 --> 01:16:32,000
+然后它是支持这个 Timershift 的
+
+2082
+01:16:32,000 --> 01:16:34,000
+一个功能的
+
+2083
+01:16:34,000 --> 01:16:35,000
+比如说我现在家里用的这个
+
+2084
+01:16:35,000 --> 01:16:38,000
+就是这么一个 NAS
+
+2085
+01:16:38,000 --> 01:16:39,000
+就是网络存储器
+
+2086
+01:16:41,000 --> 01:16:43,000
+当然 NAS 它也有各种各样的问题
+
+2087
+01:16:43,000 --> 01:16:45,000
+比如说设置比较难
+
+2088
+01:16:45,000 --> 01:16:47,000
+然后价格比较贵
+
+2089
+01:16:47,000 --> 01:16:50,000
+它也要一直 24 小时运行之类的问题
+
+2090
+01:16:51,000 --> 01:16:52,000
+所以可能对很多人来说
+
+2091
+01:16:53,000 --> 01:16:54,000
+就用 U 盘了
+
+2092
+01:16:55,000 --> 01:16:56,000
+简单一点
+
+2093
+01:16:56,000 --> 01:16:58,000
+但是就是成本低一些
+
+2094
+01:16:58,000 --> 01:17:01,000
+就使用起来稍微折腾一下
+
+2095
+01:17:01,000 --> 01:17:02,000
+当然如果说
+
+2096
+01:17:02,000 --> 01:17:03,000
+毕竟我们节目
+
+2097
+01:17:03,000 --> 01:17:05,000
+也不是完全变像小白的
+
+2098
+01:17:05,000 --> 01:17:06,000
+对吧
+
+2099
+01:17:06,000 --> 01:17:08,000
+我们还是要搞一点
+
+2100
+01:17:08,000 --> 01:17:09,000
+搞接一点的方案
+
+2101
+01:17:09,000 --> 01:17:11,000
+好了 Pro 的部分来了
+
+2102
+01:17:11,000 --> 01:17:13,000
+那你怎么
+
+2103
+01:17:13,000 --> 01:17:16,000
+就你的电脑备份到通过 Timershift 也好
+
+2104
+01:17:16,000 --> 01:17:17,000
+通过其他的
+
+2105
+01:17:17,000 --> 01:17:19,000
+比如说 Windows 有什么自带的备份方案吗
+
+2106
+01:17:19,000 --> 01:17:20,000
+好像没有吧
+
+2107
+01:17:22,000 --> 01:17:25,000
+我显然不是一个合适的回答者
+
+2108
+01:17:25,000 --> 01:17:25,000
+OK anyway
+
+2109
+01:17:25,000 --> 01:17:26,000
+如果买了的话
+
+2110
+01:17:26,000 --> 01:17:28,000
+可能你得 Windows 用户自己想办法
+
+2111
+01:17:28,000 --> 01:17:29,000
+如果买了的话
+
+2112
+01:17:29,000 --> 01:17:32,000
+可能你得 Windows 用户自己想办法解决这个问题
+
+2113
+01:17:32,000 --> 01:17:35,000
+找一个什么第三方的服务去做
+
+2114
+01:17:35,000 --> 01:17:37,000
+但是 Mac 用户的话
+
+2115
+01:17:37,000 --> 01:17:40,000
+Time Machine 备份到 NAS 或者 U 盘移动硬盘里面
+
+2116
+01:17:40,000 --> 01:17:43,000
+你就满足了两个 copy 对吧
+
+2117
+01:17:43,000 --> 01:17:44,000
+对
+
+2118
+01:17:44,000 --> 01:17:45,000
+你还有一个 copy
+
+2119
+01:17:45,000 --> 01:17:46,000
+就是刚才像吴涛讲的
+
+2120
+01:17:46,000 --> 01:17:47,000
+你再做一个 copy
+
+2121
+01:17:47,000 --> 01:17:50,000
+然后定期比如说一周备份
+
+2122
+01:17:50,000 --> 01:17:54,000
+就是你把 Time Machine 的那个盘再复制一份
+
+2123
+01:17:54,000 --> 01:17:55,000
+你买两个容量一模一样的
+
+2124
+01:17:56,000 --> 01:18:00,000
+然后你定期把其中一块拿到这个公司
+
+2125
+01:18:00,000 --> 01:18:04,000
+那你只有你只有在可能每周或者每个月
+
+2126
+01:18:04,000 --> 01:18:06,000
+就看你的勤快程度
+
+2127
+01:18:06,000 --> 01:18:08,000
+然后定期拿回来再重新弄一下
+
+2128
+01:18:08,000 --> 01:18:11,000
+然后第二天马上你有赶紧送回公司
+
+2129
+01:18:11,000 --> 01:18:12,000
+这样可能会好
+
+2130
+01:18:12,000 --> 01:18:13,000
+这样会好一点
+
+2131
+01:18:14,000 --> 01:18:17,000
+就是这个土就比较土的一个方式
+
+2132
+01:18:17,000 --> 01:18:18,000
+但是如果像像你这个
+
+2133
+01:18:18,000 --> 01:18:21,000
+你这个用户的这个用户的一个用户
+
+2134
+01:18:21,000 --> 01:18:23,000
+你这个用户的这个用户
+
+2135
+01:18:23,000 --> 01:18:24,000
+就比较土的一个方式
+
+2136
+01:18:24,000 --> 01:18:27,000
+但是如果像你像我这种数据量比较大
+
+2137
+01:18:27,000 --> 01:18:29,000
+就是一个电脑自己电脑也装不下
+
+2138
+01:18:29,000 --> 01:18:32,000
+你还存到那个网络硬盘上面去的话
+
+2139
+01:18:32,000 --> 01:18:33,000
+这个网络硬盘是家里的那个网络硬盘
+
+2140
+01:18:33,000 --> 01:18:34,000
+不是在云端的那个
+
+2141
+01:18:36,000 --> 01:18:37,000
+那个东西也要备份对吧
+
+2142
+01:18:38,000 --> 01:18:39,000
+是
+
+2143
+01:18:39,000 --> 01:18:41,000
+这个也是比较坑爹的
+
+2144
+01:18:41,000 --> 01:18:43,000
+然后这个时候就难度就比较大了
+
+2145
+01:18:43,000 --> 01:18:44,000
+因为为什么呢
+
+2146
+01:18:44,000 --> 01:18:48,000
+大部分的这种你都需要用网络硬盘
+
+2147
+01:18:49,000 --> 01:18:50,000
+通常都叫网络存储器
+
+2148
+01:18:50,000 --> 01:18:51,000
+在每个设备的情况下
+
+2149
+01:18:51,000 --> 01:18:54,000
+你的数据量都已经比较大了
+
+2150
+01:18:54,000 --> 01:18:57,000
+可能是好几个 TB 级别的现在的硬盘
+
+2151
+01:18:57,000 --> 01:18:57,000
+对吧
+
+2152
+01:18:57,000 --> 01:18:57,000
+对
+
+2153
+01:18:58,000 --> 01:18:59,000
+这个时候咋办
+
+2154
+01:18:59,000 --> 01:19:00,000
+就要花钱了吗
+
+2155
+01:19:00,000 --> 01:19:02,000
+你除了买那个网络存储器之外
+
+2156
+01:19:02,000 --> 01:19:03,000
+你还得再买一堆硬盘
+
+2157
+01:19:03,000 --> 01:19:05,000
+跟它至少是相同容量的吧
+
+2158
+01:19:06,000 --> 01:19:09,000
+然后再把那个弄的备份到这个硬盘里面去
+
+2159
+01:19:09,000 --> 01:19:10,000
+再把这个硬盘想办法
+
+2160
+01:19:10,000 --> 01:19:12,000
+挪到一个安全靠谱的地方
+
+2161
+01:19:12,000 --> 01:19:13,000
+然后再
+
+2162
+01:19:13,000 --> 01:19:13,000
+对
+
+2163
+01:19:13,000 --> 01:19:13,000
+其实
+
+2164
+01:19:14,000 --> 01:19:16,000
+其实这里我就想要说
+
+2165
+01:19:16,000 --> 01:19:21,000
+我觉得在 NAS 级别的备份
+
+2166
+01:19:21,000 --> 01:19:23,000
+很有可能对于大部分人来说
+
+2167
+01:19:23,000 --> 01:19:24,000
+都是不必要的
+
+2168
+01:19:24,000 --> 01:19:27,000
+就是当然前提是你要养成一个
+
+2169
+01:19:29,000 --> 01:19:30,000
+就像我这样
+
+2170
+01:19:30,000 --> 01:19:32,000
+会在把数据
+
+2171
+01:19:32,000 --> 01:19:34,000
+决定数据存到什么地方的时候
+
+2172
+01:19:34,000 --> 01:19:37,000
+养成一个数据分类的习惯
+
+2173
+01:19:37,000 --> 01:19:39,000
+就是最 critical 的一个问题
+
+2174
+01:19:39,000 --> 01:19:40,000
+就是你要问自己
+
+2175
+01:19:40,000 --> 01:19:41,000
+我能不能忍受丢失它
+
+2176
+01:19:41,000 --> 01:19:44,000
+就是那个数据还能不能通过某种手段找得回来
+
+2177
+01:19:44,000 --> 01:19:44,000
+对吧
+
+2178
+01:19:44,000 --> 01:19:45,000
+对
+
+2179
+01:19:45,000 --> 01:19:46,000
+你下了一堆蓝光片
+
+2180
+01:19:46,000 --> 01:19:48,000
+然后扔到 NAS 里面
+
+2181
+01:19:48,000 --> 01:19:49,000
+然后你要去备份这个 NAS
+
+2182
+01:19:49,000 --> 01:19:50,000
+我觉得有点
+
+2183
+01:19:50,000 --> 01:19:52,000
+其实就没必要了
+
+2184
+01:19:52,000 --> 01:19:54,000
+就是 NAS 被炸了炸了
+
+2185
+01:19:54,000 --> 01:19:55,000
+那何必呢
+
+2186
+01:19:55,000 --> 01:19:56,000
+因为那个片反正肯定买了回来了
+
+2187
+01:19:58,000 --> 01:19:59,000
+而且你不一定会看第二遍
+
+2188
+01:19:59,000 --> 01:20:01,000
+能不能看第二遍
+
+2189
+01:20:01,000 --> 01:20:02,000
+且不说
+
+2190
+01:20:02,000 --> 01:20:05,000
+就说那个东西能不能通过一种方式找回来
+
+2191
+01:20:06,000 --> 01:20:06,000
+对
+
+2192
+01:20:06,000 --> 01:20:09,000
+但你会知道这个片可能在世界上备份
+
+2193
+01:20:09,000 --> 01:20:10,000
+并不是只有在你
+
+2194
+01:20:10,000 --> 01:20:12,000
+不是你独此一家
+
+2195
+01:20:12,000 --> 01:20:13,000
+对
+
+2196
+01:20:13,000 --> 01:20:15,000
+但是如果说你拍的是你
+
+2197
+01:20:15,000 --> 01:20:16,000
+比如说你家里小孩
+
+2198
+01:20:16,000 --> 01:20:17,000
+你拍的是这个小孩
+
+2199
+01:20:17,000 --> 01:20:20,000
+从生下来到成长到几岁的视频
+
+2200
+01:20:20,000 --> 01:20:21,000
+那只有独此一家
+
+2201
+01:20:21,000 --> 01:20:23,000
+那得想想好备份几百多次
+
+2202
+01:20:23,000 --> 01:20:24,000
+对
+
+2203
+01:20:24,000 --> 01:20:28,000
+其实这里还有一个就是风险转移的方式
+
+2204
+01:20:28,000 --> 01:20:31,000
+就是如果你是一个经常会拍视频的人
+
+2205
+01:20:31,000 --> 01:20:34,000
+那我觉得可以去开通一个
+
+2206
+01:20:34,000 --> 01:20:35,000
+像 flicker 这样的
+
+2207
+01:20:35,000 --> 01:20:36,000
+就是自动上传
+
+2208
+01:20:36,000 --> 01:20:37,000
+传到云端去
+
+2209
+01:20:38,000 --> 01:20:38,000
+对
+
+2210
+01:20:38,000 --> 01:20:41,000
+我的所有的照片都是自动传到云端的
+
+2211
+01:20:41,000 --> 01:20:45,000
+所以我永远不会担心说照片丢失这个问题
+
+2212
+01:20:46,000 --> 01:20:49,000
+但就说 NAS 的有一个好处
+
+2213
+01:20:49,000 --> 01:20:51,000
+就是大部分 NAS 它是 24 小时待机的
+
+2214
+01:20:51,000 --> 01:20:53,000
+它不像你电脑可能还得修棉
+
+2215
+01:20:53,000 --> 01:20:54,000
+或者关机带走什么的
+
+2216
+01:20:54,000 --> 01:20:57,000
+所以理论上 NAS 它可以通过
+
+2217
+01:20:57,000 --> 01:20:59,000
+虽然说通过上传小水管
+
+2218
+01:20:59,000 --> 01:21:01,000
+虽然也可以传到一个云端上去备份
+
+2219
+01:21:01,000 --> 01:21:03,000
+就看你成本能不能够接受了
+
+2220
+01:21:04,000 --> 01:21:04,000
+是
+
+2221
+01:21:05,000 --> 01:21:09,000
+这里就要去推荐一些各种各样的
+
+2222
+01:21:09,000 --> 01:21:10,000
+第三方的备份服务
+
+2223
+01:21:11,000 --> 01:21:13,000
+比如说你可以用 backlist
+
+2224
+01:21:13,000 --> 01:21:16,000
+但有些前提条件比较 tricky
+
+2225
+01:21:16,000 --> 01:21:17,000
+你要怎么去备份 NAS
+
+2226
+01:21:17,000 --> 01:21:19,000
+它上面其实有点难的
+
+2227
+01:21:19,000 --> 01:21:22,000
+然后你可以用一些这种按量付费的备份服务
+
+2228
+01:21:22,000 --> 01:21:25,000
+比如说你放到亚马逊的备份服务里面去
+
+2229
+01:21:25,000 --> 01:21:28,000
+或者是 Google 的云盘里面去
+
+2230
+01:21:28,000 --> 01:21:30,000
+但是费用我算了一下
+
+2231
+01:21:30,000 --> 01:21:32,000
+大部分人觉得肯定是不可接受的
+
+2232
+01:21:35,000 --> 01:21:39,000
+所以也没法考虑更多的方法
+
+2233
+01:21:40,000 --> 01:21:41,000
+还是买硬盘比较
+
+2234
+01:21:41,000 --> 01:21:42,000
+就对于中国用户来说
+
+2235
+01:21:42,000 --> 01:21:45,000
+可能买硬盘来说比较靠谱一点
+
+2236
+01:21:45,000 --> 01:21:46,000
+就是就要挺快一些了
+
+2237
+01:21:47,000 --> 01:21:48,000
+而且硬盘也不贵的
+
+2238
+01:21:50,000 --> 01:21:50,000
+对
+
+2239
+01:21:50,000 --> 01:21:51,000
+这说到硬盘
+
+2240
+01:21:51,000 --> 01:21:52,000
+其实我觉得还有一个提问
+
+2241
+01:21:52,000 --> 01:21:53,000
+又有意思的点
+
+2242
+01:21:53,000 --> 01:21:56,000
+我最近发现一个很奇怪的状况
+
+2243
+01:21:56,000 --> 01:21:58,000
+就是移动硬盘的
+
+2244
+01:21:58,000 --> 01:22:01,000
+我们算掉每 GB 的成本来讲
+
+2245
+01:22:02,000 --> 01:22:04,000
+我发现移动硬盘比那只硬盘便宜
+
+2246
+01:22:05,000 --> 01:22:07,000
+移动硬盘比那只硬盘便宜
+
+2247
+01:22:07,000 --> 01:22:08,000
+没错
+
+2248
+01:22:10,000 --> 01:22:12,000
+而且便宜的还力度还比较大
+
+2249
+01:22:13,000 --> 01:22:15,000
+可能有个 8 周左右
+
+2250
+01:22:16,000 --> 01:22:16,000
+就很奇怪
+
+2251
+01:22:17,000 --> 01:22:20,000
+等等你说的是那只 SSD 吗
+
+2252
+01:22:20,000 --> 01:22:21,000
+还是不是
+
+2253
+01:22:21,000 --> 01:22:22,000
+就是普通的这种机械硬盘
+
+2254
+01:22:24,000 --> 01:22:25,000
+比如说举个例子
+
+2255
+01:22:25,000 --> 01:22:28,000
+现在你去京东上去买一个
+
+2256
+01:22:28,000 --> 01:22:32,000
+最便宜的 2 TB 的这种 2.5 寸的移动硬盘
+
+2257
+01:22:32,000 --> 01:22:34,000
+应该是官方
+
+2258
+01:22:34,000 --> 01:22:36,000
+就是京东 Pace 我看最便宜的是
+
+2259
+01:22:36,000 --> 01:22:37,000
+西数那款 Elements
+
+2260
+01:22:37,000 --> 01:22:40,000
+只要 600 多块钱
+
+2261
+01:22:40,000 --> 01:22:45,000
+平均下大概是 300 多一个 T 的样子
+
+2262
+01:22:45,000 --> 01:22:48,000
+但是你去买一款更大的
+
+2263
+01:22:48,000 --> 01:22:49,000
+或者同样尺寸
+
+2264
+01:22:49,000 --> 01:22:50,000
+但是是内置
+
+2265
+01:22:50,000 --> 01:22:52,000
+就不是那种移动硬盘的话
+
+2266
+01:22:52,000 --> 01:22:53,000
+它其实是要更贵的
+
+2267
+01:22:54,000 --> 01:22:54,000
+就很有意思
+
+2268
+01:22:54,000 --> 01:22:55,000
+为什么会这样
+
+2269
+01:22:56,000 --> 01:22:57,000
+我后来想了一下也合理
+
+2270
+01:22:57,000 --> 01:22:59,000
+因为一个是首先移动硬盘的
+
+2271
+01:23:00,000 --> 01:23:02,000
+需求量比内置硬盘要大
+
+2272
+01:23:02,000 --> 01:23:04,000
+因为对于一个消费者来说
+
+2273
+01:23:04,000 --> 01:23:05,000
+你什么时候才会买内置硬盘
+
+2274
+01:23:06,000 --> 01:23:07,000
+你不会买内置硬盘的
+
+2275
+01:23:07,000 --> 01:23:07,000
+对不对
+
+2276
+01:23:08,000 --> 01:23:08,000
+因为你买电脑的时候
+
+2277
+01:23:08,000 --> 01:23:10,000
+比基本银子带的硬盘
+
+2278
+01:23:10,000 --> 01:23:13,000
+问题是很多外置移动硬盘
+
+2279
+01:23:13,000 --> 01:23:15,000
+其实不就是一个内置硬盘
+
+2280
+01:23:15,000 --> 01:23:16,000
+而是放在一个盒子里
+
+2281
+01:23:16,000 --> 01:23:18,000
+这个是我以前我也是这么想的
+
+2282
+01:23:18,000 --> 01:23:19,000
+就是理论上
+
+2283
+01:23:19,000 --> 01:23:20,000
+它应该比那个更贵
+
+2284
+01:23:20,000 --> 01:23:21,000
+更多一个部件才对
+
+2285
+01:23:21,000 --> 01:23:22,000
+后来我发现不是了
+
+2286
+01:23:23,000 --> 01:23:23,000
+现在的移动硬盘
+
+2287
+01:23:23,000 --> 01:23:25,000
+已经是单独定制的一个产品了
+
+2288
+01:23:25,000 --> 01:23:26,000
+比如说像刚才讲的
+
+2289
+01:23:26,000 --> 01:23:27,000
+那个西数那一款
+
+2290
+01:23:27,000 --> 01:23:28,000
+你拆开它盒子之后
+
+2291
+01:23:28,000 --> 01:23:29,000
+你发现它没有 SATA 接口的
+
+2292
+01:23:30,000 --> 01:23:32,000
+它直接是 U 盘接口的
+
+2293
+01:23:32,000 --> 01:23:33,000
+U 盘转成的
+
+2294
+01:23:33,000 --> 01:23:35,000
+就直接访问那个系统内部
+
+2295
+01:23:35,000 --> 01:23:36,000
+那个硬盘内部的一些电路了
+
+2296
+01:23:38,000 --> 01:23:39,000
+就你前面就它
+
+2297
+01:23:39,000 --> 01:23:42,000
+然后这它没有办法再变回一个 SATA 硬盘
+
+2298
+01:23:42,000 --> 01:23:42,000
+你知道吗
+
+2299
+01:23:43,000 --> 01:23:44,000
+成本已经下来了
+
+2300
+01:23:45,000 --> 01:23:46,000
+不一定成本会下来
+
+2301
+01:23:46,000 --> 01:23:48,000
+但是这样它可以有效地
+
+2302
+01:23:48,000 --> 01:23:49,000
+把这两个市场给 TRIGGLE 开
+
+2303
+01:23:49,000 --> 01:23:50,000
+我刚才讲了
+
+2304
+01:23:50,000 --> 01:23:53,000
+毕竟移动硬盘的市场是远远大于内置硬盘
+
+2305
+01:23:53,000 --> 01:23:55,000
+因为内置硬盘现在基本上只有厂商在购买
+
+2306
+01:23:55,000 --> 01:23:56,000
+或者说 DIY 装机的你才买
+
+2307
+01:23:56,000 --> 01:23:59,000
+但是 DIY 装机的那个市场毕竟太小了
+
+2308
+01:23:59,000 --> 01:24:00,000
+你买笔记本的话
+
+2309
+01:24:00,000 --> 01:24:01,000
+你没准你自己再买个硬盘
+
+2310
+01:24:02,000 --> 01:24:03,000
+而且现在都用 SSD 了
+
+2311
+01:24:05,000 --> 01:24:08,000
+就如果说你买备份的话
+
+2312
+01:24:08,000 --> 01:24:10,000
+其实你买移动硬盘其实是比较好的
+
+2313
+01:24:11,000 --> 01:24:12,000
+然后移动硬盘
+
+2314
+01:24:12,000 --> 01:24:15,000
+中又特别推荐这种小的 2.5 寸的
+
+2315
+01:24:15,000 --> 01:24:17,000
+因为这样它不需要单独供电
+
+2316
+01:24:17,000 --> 01:24:18,000
+一根线一个 USB 线就可以搞定了
+
+2317
+01:24:20,000 --> 01:24:23,000
+因为 3.5 寸的话你还在单独供电不足
+
+2318
+01:24:23,000 --> 01:24:25,000
+你还在单独插一个那个线
+
+2319
+01:24:25,000 --> 01:24:27,000
+而且它挺大的也不方便
+
+2320
+01:24:29,000 --> 01:24:29,000
+说点事
+
+2321
+01:24:31,000 --> 01:24:31,000
+然后
+
+2322
+01:24:33,000 --> 01:24:35,000
+就是我要隆重介绍一下
+
+2323
+01:24:35,000 --> 01:24:37,000
+我的那个备份的方案
+
+2324
+01:24:37,000 --> 01:24:41,000
+因为我发现这么一个问题之后
+
+2325
+01:24:43,000 --> 01:24:45,000
+我就买了两块
+
+2326
+01:24:45,000 --> 01:24:47,000
+我的 NAS 就是网络送给你
+
+2327
+01:24:47,000 --> 01:24:49,000
+就只有 4 个 TB 的存储空间也不大
+
+2328
+01:24:49,000 --> 01:24:51,000
+也够了
+
+2329
+01:24:51,000 --> 01:24:57,000
+怎么备份它我就再买了两个 TB 的移动硬盘
+
+2330
+01:24:57,000 --> 01:24:59,000
+然后插在另外一个电脑上
+
+2331
+01:24:59,000 --> 01:25:00,000
+另外一个主机上面去
+
+2332
+01:25:00,000 --> 01:25:02,000
+然后那个主机也是一直开机的
+
+2333
+01:25:02,000 --> 01:25:07,000
+然后用 ButterFS 做一个 RID 0
+
+2334
+01:25:09,000 --> 01:25:10,000
+1 吧我想想
+
+2335
+01:25:10,000 --> 01:25:11,000
+RID 0 是 MIRROR
+
+2336
+01:25:11,000 --> 01:25:12,000
+RID 1 是什么
+
+2337
+01:25:13,000 --> 01:25:15,000
+RID 1 是
+
+2338
+01:25:15,000 --> 01:25:17,000
+是 SWIPE
+
+2339
+01:25:17,000 --> 01:25:18,000
+RID 1 是 SWIPE
+
+2340
+01:25:18,000 --> 01:25:18,000
+对
+
+2341
+01:25:18,000 --> 01:25:19,000
+做了个 RID 1
+
+2342
+01:25:19,000 --> 01:25:24,000
+然后就把定期把移动硬盘的东西
+
+2343
+01:25:24,000 --> 01:25:28,000
+通过 R-SYNC 到这台小电脑上面去
+
+2344
+01:25:28,000 --> 01:25:33,000
+然后再用 ButterFS 的 SnapShot 功能
+
+2345
+01:25:33,000 --> 01:25:36,000
+做了一个土鳖的 Time Machine 一样的东西
+
+2346
+01:25:37,000 --> 01:25:39,000
+等等你先向大家介绍一下 ButterFS
+
+2347
+01:25:40,000 --> 01:25:44,000
+OK ButterFS 是 Linux 下面的一个
+
+2348
+01:25:44,000 --> 01:25:46,000
+相对来说比较新的一个文件系统
+
+2349
+01:25:47,000 --> 01:25:49,000
+它支持很多高阶的一些功能
+
+2350
+01:25:49,000 --> 01:25:50,000
+有点像 ZFS
+
+2351
+01:25:51,000 --> 01:25:52,000
+支持这些东西
+
+2352
+01:25:52,000 --> 01:25:54,000
+但是本来我想用 ZFS 的
+
+2353
+01:25:54,000 --> 01:25:57,000
+后来发现那样是用 ZFS 里面比较坑爹
+
+2354
+01:25:57,000 --> 01:25:59,000
+在 BSD 上用可能还好一点
+
+2355
+01:25:59,000 --> 01:26:00,000
+然后就突然去刺
+
+2356
+01:26:00,000 --> 01:26:03,000
+反正 Linux 它好像 4.0
+
+2357
+01:26:03,000 --> 01:26:05,000
+某一个版本忘了 4.0 几之后
+
+2358
+01:26:05,000 --> 01:26:09,000
+它已经内核原生带了 ButterFS 了
+
+2359
+01:26:09,000 --> 01:26:13,000
+然后装上一个 User Space 的工具之后
+
+2360
+01:26:13,000 --> 01:26:14,000
+就可以直接用了
+
+2361
+01:26:15,000 --> 01:26:17,000
+它最好的一个东西
+
+2362
+01:26:17,000 --> 01:26:20,000
+就是作为备份用法
+
+2363
+01:26:20,000 --> 01:26:21,000
+它有一个好的
+
+2364
+01:26:21,000 --> 01:26:24,000
+它可以支持多块磁盘做 Read
+
+2365
+01:26:24,000 --> 01:26:25,000
+而且比较方便
+
+2366
+01:26:25,000 --> 01:26:28,000
+因为以前做 Read 是要单独用 Read 做一次
+
+2367
+01:26:28,000 --> 01:26:30,000
+然后在上面再叠文件系统
+
+2368
+01:26:30,000 --> 01:26:34,000
+就先把几个硬盘做成快设备
+
+2369
+01:26:35,000 --> 01:26:40,000
+组成一个 Read 之后的一个设备
+
+2370
+01:26:41,000 --> 01:26:42,000
+面向这个文件系统
+
+2371
+01:26:42,000 --> 01:26:45,000
+然后再在上面去做分区什么的
+
+2372
+01:26:45,000 --> 01:26:47,000
+但是就两层分开
+
+2373
+01:26:47,000 --> 01:26:49,000
+比较麻烦你添加硬盘也不方便了
+
+2374
+01:26:50,000 --> 01:26:51,000
+但是 ButterFS 把两个做到一层
+
+2375
+01:26:51,000 --> 01:26:52,000
+就都搞定了
+
+2376
+01:26:52,000 --> 01:26:55,000
+然后你可以直接
+
+2377
+01:26:55,000 --> 01:26:56,000
+在里面添加一块
+
+2378
+01:26:56,000 --> 01:26:59,000
+比如说你现在是两个硬盘的 Read 1
+
+2379
+01:26:59,000 --> 01:27:00,000
+然后你只要容量不够了
+
+2380
+01:27:00,000 --> 01:27:01,000
+你再加一块硬盘
+
+2381
+01:27:01,000 --> 01:27:03,000
+你可以直接插上去之后
+
+2382
+01:27:03,000 --> 01:27:06,000
+然后把那块硬盘添加到池子里面
+
+2383
+01:27:06,000 --> 01:27:08,000
+然后你让它重新去均衡一下
+
+2384
+01:27:08,000 --> 01:27:10,000
+存储空间
+
+2385
+01:27:10,000 --> 01:27:11,000
+这样还可以保证
+
+2386
+01:27:11,000 --> 01:27:14,000
+就是三个硬盘的 StripeRead 1
+
+2387
+01:27:15,000 --> 01:27:16,000
+我觉得这个特性还比较好
+
+2388
+01:27:17,000 --> 01:27:18,000
+然后还有一个 ButterFS
+
+2389
+01:27:18,000 --> 01:27:19,000
+用于备份最重要一点
+
+2390
+01:27:19,000 --> 01:27:21,000
+就是它支持 SnapShort
+
+2391
+01:27:21,000 --> 01:27:24,000
+而且这个是成本很低的一个 SnapShort
+
+2392
+01:27:24,000 --> 01:27:25,000
+就是什么意思呢
+
+2393
+01:27:25,000 --> 01:27:27,000
+因为它是基于快来做识别的
+
+2394
+01:27:27,000 --> 01:27:29,000
+就是说如果你一个文件
+
+2395
+01:27:29,000 --> 01:27:31,000
+假设是 100 M 的一个文件
+
+2396
+01:27:31,000 --> 01:27:33,000
+你只修改了其中的一兆的一个部分
+
+2397
+01:27:33,000 --> 01:27:34,000
+然后你做个 SnapShort 的时候
+
+2398
+01:27:34,000 --> 01:27:36,000
+这个文件并不会复制一份
+
+2399
+01:27:36,000 --> 01:27:40,000
+而是说它没有变的部分还是共享的
+
+2400
+01:27:40,000 --> 01:27:41,000
+只有你变的那部分才会
+
+2401
+01:27:41,000 --> 01:27:44,000
+才会再做一个 Copy
+
+2402
+01:27:44,000 --> 01:27:45,000
+它是一个 C-O-W
+
+2403
+01:27:45,000 --> 01:27:47,000
+Copy on Write 的一个机制
+
+2404
+01:27:47,000 --> 01:27:48,000
+所以这两个加在一起的话
+
+2405
+01:27:48,000 --> 01:27:52,000
+其实特别适合用来做备份的一个系统的
+
+2406
+01:27:52,000 --> 01:27:54,000
+就像刚才我讲的那种方式
+
+2407
+01:27:54,000 --> 01:27:56,000
+这个时候也就要牵涉到
+
+2408
+01:27:56,000 --> 01:27:58,000
+回来讲那个 Time Machine 的问题了
+
+2409
+01:27:59,000 --> 01:28:01,000
+Time Machine 其实本身也是一个
+
+2410
+01:28:01,000 --> 01:28:02,000
+挺坑爹的一个机制的
+
+2411
+01:28:02,000 --> 01:28:06,000
+就是它在一个非常老旧的这个
+
+2412
+01:28:06,000 --> 01:28:08,000
+我电信网上打各种补丁
+
+2413
+01:28:08,000 --> 01:28:09,000
+就 HFS 嘛
+
+2414
+01:28:09,000 --> 01:28:12,000
+打各种补丁做出来这么一个备份的机制
+
+2415
+01:28:12,000 --> 01:28:13,000
+但其实效率是很低的
+
+2416
+01:28:13,000 --> 01:28:15,000
+就很慢
+
+2417
+01:28:15,000 --> 01:28:16,000
+然后就经常出问题
+
+2418
+01:28:17,000 --> 01:28:19,000
+所以其实我还挺期待下个月
+
+2419
+01:28:19,000 --> 01:28:20,000
+如果看他们会不会
+
+2420
+01:28:20,000 --> 01:28:22,000
+苹果会不会发那个
+
+2421
+01:28:22,000 --> 01:28:24,000
+就是 APFS 正式用于这个 MacOS
+
+2422
+01:28:25,000 --> 01:28:27,000
+Mac 的话就可以
+
+2423
+01:28:27,000 --> 01:28:29,000
+因为那个 APFS
+
+2424
+01:28:29,000 --> 01:28:31,000
+它也是支持那个 SnapShort 的话
+
+2425
+01:28:31,000 --> 01:28:32,000
+这样的话它理论上可以做出一个
+
+2426
+01:28:32,000 --> 01:28:36,000
+更加高效更加完备的这么一个备份系统
+
+2427
+01:28:36,000 --> 01:28:37,000
+就类似于刚才我说的
+
+2428
+01:28:37,000 --> 01:28:38,000
+BattleFS 的情况
+
+2429
+01:28:41,000 --> 01:28:43,000
+所以在现在的没有办法的情况下
+
+2430
+01:28:43,000 --> 01:28:45,000
+只能说是我先 NAS 上面
+
+2431
+01:28:45,000 --> 01:28:47,000
+因为我 NAS 不支持 BattleFS
+
+2432
+01:28:47,000 --> 01:28:48,000
+比较老
+
+2433
+01:28:48,000 --> 01:28:50,000
+我都通过另外一台机器
+
+2434
+01:28:50,000 --> 01:28:53,000
+远程登录到那个 NAS 里面去
+
+2435
+01:28:53,000 --> 01:28:55,000
+通过 Rsync 把文件先同步回去
+
+2436
+01:28:55,000 --> 01:28:57,000
+也是做增量的同步
+
+2437
+01:28:58,000 --> 01:28:59,000
+然后再在那个
+
+2438
+01:28:59,000 --> 01:29:00,000
+然后这过程是自动化的
+
+2439
+01:29:00,000 --> 01:29:02,000
+还是你写了个脚本
+
+2440
+01:29:02,000 --> 01:29:04,000
+就每天跑一次应该是
+
+2441
+01:29:07,000 --> 01:29:08,000
+就它会
+
+2442
+01:29:08,000 --> 01:29:11,000
+它就是先通过 Rsync 方式
+
+2443
+01:29:11,000 --> 01:29:13,000
+把 NAS 的文件先增量同步过来
+
+2444
+01:29:13,000 --> 01:29:17,000
+在本地做 BattleFS 的一个 SnapShort
+
+2445
+01:29:17,000 --> 01:29:17,000
+这样的话
+
+2446
+01:29:18,000 --> 01:29:20,000
+就还可以做了一个
+
+2447
+01:29:20,000 --> 01:29:22,000
+相当于来说比较稳定可靠的一个
+
+2448
+01:29:22,000 --> 01:29:23,000
+Time Machine
+
+2449
+01:29:23,000 --> 01:29:24,000
+就类似于这样系统的
+
+2450
+01:29:24,000 --> 01:29:26,000
+所以现在如果
+
+2451
+01:29:26,000 --> 01:29:28,000
+Gold Forbid
+
+2452
+01:29:28,000 --> 01:29:30,000
+就如果你今天加了失货了
+
+2453
+01:29:30,000 --> 01:29:32,000
+你会损失多少数据
+
+2454
+01:29:32,000 --> 01:29:33,000
+还是蛮惨的其实
+
+2455
+01:29:33,000 --> 01:29:35,000
+因为我现在那个
+
+2456
+01:29:35,000 --> 01:29:36,000
+我现在那个
+
+2457
+01:29:36,000 --> 01:29:37,000
+还是就是
+
+2458
+01:29:37,000 --> 01:29:40,000
+那个 BattleFS 那个还是插在本地的
+
+2459
+01:29:40,000 --> 01:29:41,000
+因为现在有个很大的问题
+
+2460
+01:29:41,000 --> 01:29:42,000
+就是说
+
+2461
+01:29:43,000 --> 01:29:44,000
+因为它那个数据量比较大
+
+2462
+01:29:45,000 --> 01:29:47,000
+我必须得插到那个本地的
+
+2463
+01:29:47,000 --> 01:29:48,000
+走那个千兆网
+
+2464
+01:29:48,000 --> 01:29:50,000
+才可以很快的完成备份
+
+2465
+01:29:50,000 --> 01:29:51,000
+不然的话就有点慢
+
+2466
+01:29:51,000 --> 01:29:52,000
+但这特别第一次的时候
+
+2467
+01:29:52,000 --> 01:29:54,000
+但是后续我发现增量备份的话
+
+2468
+01:29:54,000 --> 01:29:55,000
+其实应该已经还好
+
+2469
+01:29:55,000 --> 01:29:58,000
+所以我下一步的计划是把
+
+2470
+01:29:58,000 --> 01:30:00,000
+这个 BattleFS 的备份系统
+
+2471
+01:30:00,000 --> 01:30:02,000
+挪到我公司去
+
+2472
+01:30:03,000 --> 01:30:05,000
+然后通过远程的一个 VPN
+
+2473
+01:30:05,000 --> 01:30:06,000
+连回家里
+
+2474
+01:30:06,000 --> 01:30:08,000
+然后通过网络再去做
+
+2475
+01:30:08,000 --> 01:30:10,000
+这个增量的后期的一个备份
+
+2476
+01:30:11,000 --> 01:30:12,000
+然后在页里面
+
+2477
+01:30:13,000 --> 01:30:15,000
+每天晚上去把增量备份
+
+2478
+01:30:16,000 --> 01:30:16,000
+OK
+
+2479
+01:30:16,000 --> 01:30:17,000
+就大概这么方式
+
+2480
+01:30:17,000 --> 01:30:18,000
+非常聪明
+
+2481
+01:30:18,000 --> 01:30:19,000
+但是也非常折腾
+
+2482
+01:30:19,000 --> 01:30:20,000
+非常折腾
+
+2483
+01:30:20,000 --> 01:30:22,000
+主要还是因为国内没有
+
+2484
+01:30:22,000 --> 01:30:24,000
+比较靠谱的第三方服务
+
+2485
+01:30:24,000 --> 01:30:26,000
+不然谁去搞这么多折腾的事情
+
+2486
+01:30:26,000 --> 01:30:27,000
+其实是一个
+
+2487
+01:30:28,000 --> 01:30:29,000
+其实是一个商机了
+
+2488
+01:30:29,000 --> 01:30:29,000
+我觉得
+
+2489
+01:30:30,000 --> 01:30:31,000
+其实这也难说
+
+2490
+01:30:31,000 --> 01:30:34,000
+这个东西照目前国内的
+
+2491
+01:30:34,000 --> 01:30:36,000
+这么一个用户认知
+
+2492
+01:30:36,000 --> 01:30:37,000
+和这个
+
+2493
+01:30:38,000 --> 01:30:41,000
+数据中心的运为成本来看
+
+2494
+01:30:41,000 --> 01:30:42,000
+我觉得这个机会在国内
+
+2495
+01:30:42,000 --> 01:30:43,000
+可能还不成立
+
+2496
+01:30:43,000 --> 01:30:45,000
+这个商业模式可能在国内还不成立
+
+2497
+01:30:45,000 --> 01:30:47,000
+就像目前还是非常的逆时
+
+2498
+01:30:47,000 --> 01:30:48,000
+因为国内的
+
+2499
+01:30:48,000 --> 01:30:49,000
+新兴小众市场
+
+2500
+01:30:49,000 --> 01:30:51,000
+对国内的贷款成本实在太贵了
+
+2501
+01:30:52,000 --> 01:30:52,000
+对
+
+2502
+01:30:52,000 --> 01:30:56,000
+所以你看像你也只能说像苹果
+
+2503
+01:30:57,000 --> 01:30:58,000
+这种不差钱的主
+
+2504
+01:30:58,000 --> 01:31:00,000
+才敢去搞那种
+
+2505
+01:31:00,000 --> 01:31:01,000
+对说多少钱
+
+2506
+01:31:01,000 --> 01:31:02,000
+6 块钱 50 GB 的
+
+2507
+01:31:02,000 --> 01:31:04,000
+用于 iCloud 备份的东西
+
+2508
+01:31:04,000 --> 01:31:04,000
+对吧
+
+2509
+01:31:04,000 --> 01:31:06,000
+所以也比较难
+
+2510
+01:31:07,000 --> 01:31:09,000
+在这之前大家还是自己
+
+2511
+01:31:09,000 --> 01:31:10,000
+还是要再砸一波基建
+
+2512
+01:31:10,000 --> 01:31:11,000
+对
+
+2513
+01:31:12,000 --> 01:31:13,000
+使劲搞
+
+2514
+01:31:14,000 --> 01:31:16,000
+不过因为做这次
+
+2515
+01:31:16,000 --> 01:31:18,000
+做这个什么
+
+2516
+01:31:18,000 --> 01:31:20,000
+BataFS 的一个备份机
+
+2517
+01:31:20,000 --> 01:31:22,000
+我发现了很多有意思的事情
+
+2518
+01:31:22,000 --> 01:31:23,000
+就是你知道
+
+2519
+01:31:23,000 --> 01:31:25,000
+其实 BataFS 的官方网站
+
+2520
+01:31:25,000 --> 01:31:27,000
+它写它是不推荐你用
+
+2521
+01:31:27,000 --> 01:31:28,000
+USB 做这种 read 的
+
+2522
+01:31:28,000 --> 01:31:29,000
+懂吗
+
+2523
+01:31:29,000 --> 01:31:30,000
+USB 硬盘做 read 的吗
+
+2524
+01:31:31,000 --> 01:31:32,000
+What 为什么
+
+2525
+01:31:33,000 --> 01:31:34,000
+点是什么
+
+2526
+01:31:34,000 --> 01:31:36,000
+就是因为传统上 USB 是不稳定的
+
+2527
+01:31:36,000 --> 01:31:37,000
+它是热插拔
+
+2528
+01:31:37,000 --> 01:31:39,000
+然后有可能会掉
+
+2529
+01:31:39,000 --> 01:31:40,000
+但其实我后来发现
+
+2530
+01:31:40,000 --> 01:31:42,000
+特别是现在 USB 3 之后
+
+2531
+01:31:42,000 --> 01:31:43,000
+然后你买一个
+
+2532
+01:31:43,000 --> 01:31:45,000
+靠谱一点的主机
+
+2533
+01:31:46,000 --> 01:31:47,000
+还是挺稳定的
+
+2534
+01:31:47,000 --> 01:31:47,000
+我觉得没有问题
+
+2535
+01:31:47,000 --> 01:31:49,000
+而且最好的一点
+
+2536
+01:31:49,000 --> 01:31:50,000
+我发现就是
+
+2537
+01:31:52,000 --> 01:31:54,000
+read 当时最核心的一点
+
+2538
+01:31:54,000 --> 01:31:56,000
+就是硬盘有个监控系统
+
+2539
+01:31:56,000 --> 01:31:56,000
+叫做 Smart
+
+2540
+01:31:56,000 --> 01:31:57,000
+你知道吗
+
+2541
+01:31:59,000 --> 01:32:00,000
+Smart
+
+2542
+01:32:00,000 --> 01:32:01,000
+好像听过
+
+2543
+01:32:01,000 --> 01:32:01,000
+对
+
+2544
+01:32:01,000 --> 01:32:03,000
+它会反映机械硬盘里面
+
+2545
+01:32:03,000 --> 01:32:04,000
+各种一些运行指标
+
+2546
+01:32:04,000 --> 01:32:06,000
+比如温度 钻数
+
+2547
+01:32:06,000 --> 01:32:07,000
+对
+
+2548
+01:32:07,000 --> 01:32:09,000
+然后传统上
+
+2549
+01:32:09,000 --> 01:32:11,000
+它只能插在机器里面
+
+2550
+01:32:11,000 --> 01:32:12,000
+走 SATA
+
+2551
+01:32:12,000 --> 01:32:13,000
+或者接口的时候
+
+2552
+01:32:13,000 --> 01:32:15,000
+才能读到 Smart 的参数
+
+2553
+01:32:16,000 --> 01:32:17,000
+我这次做的
+
+2554
+01:32:17,000 --> 01:32:17,000
+现在可以在 USB 上读
+
+2555
+01:32:17,000 --> 01:32:18,000
+对 这是我不知道
+
+2556
+01:32:18,000 --> 01:32:20,000
+Linux 里面可以通过 USB
+
+2557
+01:32:20,000 --> 01:32:21,000
+读到那个 Smart 参数
+
+2558
+01:32:21,000 --> 01:32:22,000
+我知道 好神奇
+
+2559
+01:32:24,000 --> 01:32:25,000
+然后这样的话
+
+2560
+01:32:25,000 --> 01:32:25,000
+其实你可以看
+
+2561
+01:32:25,000 --> 01:32:27,000
+可以监控到硬盘的那些参数
+
+2562
+01:32:27,000 --> 01:32:29,000
+就不存在这个问题了
+
+2563
+01:32:29,000 --> 01:32:29,000
+而且
+
+2564
+01:32:30,000 --> 01:32:31,000
+以前 USB
+
+2565
+01:32:31,000 --> 01:32:32,000
+用于接硬盘
+
+2566
+01:32:32,000 --> 01:32:33,000
+最主要的一个问题
+
+2567
+01:32:33,000 --> 01:32:35,000
+USB 1 和 USB 2
+
+2568
+01:32:35,000 --> 01:32:36,000
+都有传输带宽
+
+2569
+01:32:36,000 --> 01:32:37,000
+那个瓶颈
+
+2570
+01:32:37,000 --> 01:32:40,000
+USB 2 理论是 480 MBit
+
+2571
+01:32:40,000 --> 01:32:41,000
+per second 每秒
+
+2572
+01:32:42,000 --> 01:32:42,000
+你出到
+
+2573
+01:32:42,000 --> 01:32:43,000
+照大概就是
+
+2574
+01:32:43,000 --> 01:32:45,000
+它在减掉损耗
+
+2575
+01:32:46,000 --> 01:32:47,000
+撑死也就是个
+
+2576
+01:32:47,000 --> 01:32:49,000
+3 到 40 Mbps
+
+2577
+01:32:50,000 --> 01:32:52,000
+照字节每秒
+
+2578
+01:32:52,000 --> 01:32:52,000
+就不得了了
+
+2579
+01:32:54,000 --> 01:32:56,000
+但其实大部分的这种硬盘的
+
+2580
+01:32:56,000 --> 01:32:58,000
+写入的读写的平均
+
+2581
+01:32:58,000 --> 01:32:59,000
+大概是在两倍的样子
+
+2582
+01:32:59,000 --> 01:33:00,000
+就是 100 左右
+
+2583
+01:33:00,000 --> 01:33:01,000
+就是至少是
+
+2584
+01:33:01,000 --> 01:33:02,000
+7 80 是有的
+
+2585
+01:33:02,000 --> 01:33:03,000
+所以存在了那么一个平均
+
+2586
+01:33:03,000 --> 01:33:05,000
+但是现在换成 USB 3
+
+2587
+01:33:05,000 --> 01:33:07,000
+的这个接口之后
+
+2588
+01:33:07,000 --> 01:33:08,000
+也不存在这个平均了
+
+2589
+01:33:08,000 --> 01:33:09,000
+其实我觉得还蛮好的
+
+2590
+01:33:09,000 --> 01:33:11,000
+再加上刚才我讲的那个
+
+2591
+01:33:11,000 --> 01:33:12,000
+就是移动硬盘
+
+2592
+01:33:12,000 --> 01:33:13,000
+比内置硬盘的
+
+2593
+01:33:13,000 --> 01:33:14,000
+单位成本要
+
+2594
+01:33:15,000 --> 01:33:17,000
+每 TB 的单位成本要低
+
+2595
+01:33:18,000 --> 01:33:18,000
+所以其实
+
+2596
+01:33:19,000 --> 01:33:22,000
+用一堆移动硬盘
+
+2597
+01:33:22,000 --> 01:33:22,000
+组成的阵力
+
+2598
+01:33:22,000 --> 01:33:23,000
+我觉得其实要比
+
+2599
+01:33:23,000 --> 01:33:25,000
+在机器内部搞好像要划算
+
+2600
+01:33:26,000 --> 01:33:27,000
+说得也是
+
+2601
+01:33:29,000 --> 01:33:30,000
+不失为一个
+
+2602
+01:33:30,000 --> 01:33:32,000
+可以尝试着推广的方案
+
+2603
+01:33:34,000 --> 01:33:35,000
+反正我就这么干了呗
+
+2604
+01:33:37,000 --> 01:33:38,000
+大家觉得就是也可以
+
+2605
+01:33:38,000 --> 01:33:41,000
+就结合自己的实际的情况
+
+2606
+01:33:42,000 --> 01:33:43,000
+包括是这个时间
+
+2607
+01:33:43,000 --> 01:33:45,000
+金钱和这个
+
+2608
+01:33:45,000 --> 01:33:46,000
+Tech Savvy 程度
+
+2609
+01:33:47,000 --> 01:33:48,000
+你自己选一个
+
+2610
+01:33:48,000 --> 01:33:49,000
+这个备份的方案
+
+2611
+01:33:49,000 --> 01:33:51,000
+重点记得这个 321 原则
+
+2612
+01:33:51,000 --> 01:33:52,000
+三份数据
+
+2613
+01:33:52,000 --> 01:33:53,000
+两个不同的媒介
+
+2614
+01:33:53,000 --> 01:33:54,000
+然后一个是在远程的
+
+2615
+01:33:55,000 --> 01:33:56,000
+大概是这样就比较好了
+
+2616
+01:33:56,000 --> 01:33:57,000
+我觉得
+
+2617
+01:34:02,000 --> 01:34:03,000
+对这样
+
+2618
+01:34:03,000 --> 01:34:04,000
+如果你能够像 Rail
+
+2619
+01:34:04,000 --> 01:34:05,000
+这样折腾一番的话
+
+2620
+01:34:05,000 --> 01:34:06,000
+应该就
+
+2621
+01:34:07,000 --> 01:34:10,000
+可以至少是可以安全
+
+2622
+01:34:10,000 --> 01:34:11,000
+安全的活过
+
+2623
+01:34:11,000 --> 01:34:14,000
+下一次 Ransomware 的核冬天
+
+2624
+01:34:16,000 --> 01:34:17,000
+希望
+
+2625
+01:34:18,000 --> 01:34:18,000
+应该说
+
+2626
+01:34:18,000 --> 01:34:19,000
+下次见
+
+2627
+01:34:23,000 --> 01:34:25,000
+别说我们没有节目
+
+2628
+01:34:25,000 --> 01:34:26,000
+中国那句话叫什么
+
+2629
+01:34:26,000 --> 01:34:26,000
+还是
+
+2630
+01:34:27,000 --> 01:34:29,000
+物为言之不欲
+
+2631
+01:34:31,000 --> 01:34:32,000
+其实我们之前也提过
+
+2632
+01:34:32,000 --> 01:34:33,000
+备份的概念
+
+2633
+01:34:33,000 --> 01:34:35,000
+可能但没有讲那么细
+
+2634
+01:34:35,000 --> 01:34:36,000
+但是这次
+
+2635
+01:34:37,000 --> 01:34:39,000
+之后我觉得
+
+2636
+01:34:39,000 --> 01:34:40,000
+大家还是要有所警觉
+
+2637
+01:34:40,000 --> 01:34:41,000
+特别是现在
+
+2638
+01:34:41,000 --> 01:34:42,000
+像我们这一代人
+
+2639
+01:34:42,000 --> 01:34:43,000
+很多都有小孩了
+
+2640
+01:34:44,000 --> 01:34:45,000
+有些你觉得这种小朋友
+
+2641
+01:34:46,000 --> 01:34:47,000
+那些照片视频什么
+
+2642
+01:34:47,000 --> 01:34:49,000
+你觉得很珍贵的东西
+
+2643
+01:34:50,000 --> 01:34:51,000
+我觉得还花点钱
+
+2644
+01:34:51,000 --> 01:34:53,000
+把它保护好
+
+2645
+01:34:53,000 --> 01:34:55,000
+我觉得还是比较重要的
+
+2646
+01:34:55,000 --> 01:34:56,000
+是这样的
+
+2647
+01:34:57,000 --> 01:34:58,000
+好吧
+
+2648
+01:34:58,000 --> 01:35:00,000
+今天的节目就到这里
+
+2649
+01:35:01,000 --> 01:35:02,000
+念一下 Auto
+
+2650
+01:35:03,000 --> 01:35:05,000
+那么刚才你收听到的
+
+2651
+01:35:05,000 --> 01:35:06,000
+就是我们
+
+2652
+01:35:06,000 --> 01:35:08,000
+时隔半年又一次更新的
+
+2653
+01:35:08,000 --> 01:35:09,000
+IPN Podcast 网络旗下的
+
+2654
+01:35:09,000 --> 01:35:11,000
+IT 技术娱乐节目
+
+2655
+01:35:11,000 --> 01:35:12,000
+内核恐慌
+
+2656
+01:35:13,000 --> 01:35:14,000
+我们号称 Hardcore
+
+2657
+01:35:14,000 --> 01:35:14,000
+但是有没有干货
+
+2658
+01:35:14,000 --> 01:35:15,000
+想听人听
+
+2659
+01:35:15,000 --> 01:35:16,000
+不想听人就别听
+
+2660
+01:35:17,000 --> 01:35:18,000
+您可以问本节目捐款
+
+2661
+01:35:18,000 --> 01:35:21,000
+地址是 cernopanic.fam.donate
+
+2662
+01:35:21,000 --> 01:35:22,000
+捐款结果随意
+
+2663
+01:35:22,000 --> 01:35:23,000
+只要是 8 个专家数倍就可以
+
+2664
+01:35:24,000 --> 01:35:25,000
+捐款不会给你带来什么
+
+2665
+01:35:25,000 --> 01:35:26,000
+不捐也不会远
+
+2666
+01:35:26,000 --> 01:35:27,000
+失去什么
+
+2667
+01:35:27,000 --> 01:35:29,000
+我们的口号是 No Hard Feelings
+
+2668
+01:35:30,000 --> 01:35:31,000
+如果您有任何反馈
+
+2669
+01:35:31,000 --> 01:35:34,000
+可以发邮件到 cernopanic.ipn.li
+
+2670
+01:35:35,000 --> 01:35:36,000
+同时也欢迎你收听
+
+2671
+01:35:36,000 --> 01:35:37,000
+Rail 指示的风头圈
+
+2672
+01:35:37,000 --> 01:35:39,000
+风头圈最近更新了一期
+
+2673
+01:35:39,000 --> 01:35:40,000
+赶紧打个广告
+
+2674
+01:35:41,000 --> 01:35:42,000
+以及 IPN 旗下的其他几档节目
+
+2675
+01:35:42,000 --> 01:35:44,000
+未知到他一来了
+
+2676
+01:35:44,000 --> 01:35:44,000
+流行通信
+
+2677
+01:35:44,000 --> 01:35:45,000
+High Story
+
+2678
+01:35:45,000 --> 01:35:46,000
+影影像
+
+2679
+01:35:46,000 --> 01:35:46,000
+无四元
+
+2680
+01:35:46,000 --> 01:35:47,000
+博物志
+
+2681
+01:35:47,000 --> 01:35:47,000
+选美
+
+2682
+01:35:47,000 --> 01:35:48,000
+B 下观
+
+2683
+01:35:48,000 --> 01:35:49,000
+一天世界
+
+2684
+01:35:49,000 --> 01:35:50,000
+和时尚鬼物
+
+2685
+01:35:50,000 --> 01:35:53,000
+我们下期节目再会
+
+2686
+01:35:53,000 --> 01:35:54,000
+虽然不知道
+
+2687
+01:35:54,000 --> 01:35:55,000
+猴年马月
+
+2688
+01:35:55,000 --> 01:35:56,000
+猴年猴月在哪里
+
+2689
+01:35:56,000 --> 01:35:57,000
+对
+
+2690
+01:35:57,000 --> 01:35:59,000
+我们要变成年根节目了吗
+
+2691
+01:36:00,000 --> 01:36:02,000
+我们要变成更年节目
+
+2692
+01:36:05,000 --> 01:36:05,000
+好吧
+
+2693
+01:36:05,000 --> 01:36:06,000
+到此为止
+
+2694
+01:36:06,000 --> 01:36:07,000
+OK
+
+2695
+01:36:07,000 --> 01:36:08,000
+拜拜
+
