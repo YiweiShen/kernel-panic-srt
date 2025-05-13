@@ -14,3 +14,4 @@ Subtitles for Kernel Panic podcast. 播客《内核恐慌》的字幕。
 - Small
 - Medium
 - Large-v3
+- Large-v3-turbo
